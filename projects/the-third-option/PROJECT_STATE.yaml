@@ -1,0 +1,54 @@
+project: the-third-option
+title: "The Third Option: How to Choose, Build, and Own a Life That Fits"
+author: Jena Crossland
+type: prescriptive method book
+audience: secular and broad. The reader living their life waiting for the good part.
+voice: professional voice (see STYLE-SHEET.md; full system lives in Jena's voice knowledge base)
+
+status: foundation
+phase: 1-foundation
+
+length:
+  target_words: 50000
+  floor_words: 45000
+  ceiling_words: 60000
+  note: below 45k reads as a long essay; above 60k is the balloon
+
+structure:
+  shape: intro + 3 parts x 3 chapters + closing loop chapter + appendix
+  pieces: 11
+  words_per_piece: ~4500
+  thesis_chapter: 6 (The Messy Middle). Protect it.
+  appendix: The Fit Audit (self-assessment the reader keeps)
+
+publishing:
+  route: self-publish, KDP + IngramSpark
+  do_not_cut_corners: [developmental and copy editing, cover design, interior formatting]
+  note: verify current KDP and IngramSpark specs at production time
+
+workflow:
+  mode: interview-driven ghostwriting. Jena talks, assistant drafts and organizes.
+  hard_rule_1: nothing advances to a new stage without Jena's explicit sign-off
+  hard_rule_2: nothing publishes or posts as Jena without her sign-off. She engineers, AI assists.
+  hard_rule_3: private/ context never surfaces in any book content
+
+milestones:
+  - id: foundation
+    desc: project tree, bible v1.1, source material, style sheet, decisions tracker
+    status: done
+  - id: part-one-beats
+    desc: receive and confirm the Part One beat sheet (exists in a separate doc, not yet uploaded)
+    status: awaiting upload from Jena
+  - id: test-chapter
+    desc: one chapter drafted as a voice proof at ~4500 words before anything else is written
+    status: not started, chapter TBD
+  - id: beats-build-own
+    desc: expand Parts Two and Three to beat level once Part One grain is confirmed
+    status: not started
+
+files:
+  bible: BOOK-BIBLE.md
+  source: SOURCE-MATERIAL.md
+  style: STYLE-SHEET.md
+  decisions: OPEN-DECISIONS.md
+  manuscript: manuscript/chapters/
