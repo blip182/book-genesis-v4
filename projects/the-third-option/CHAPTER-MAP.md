@@ -77,9 +77,9 @@
 
 **Pointers:** SOURCE-MATERIAL ch 4. HOW-I-THINK file (the freeze, output over motion, the two AI beliefs). COMPS Ferriss lesson: tools survive, prescriptions rot; this chapter prescribes a posture, not a move.
 
-## Chapter 5 · Dig Into What's Yours
+## Chapter 5 · Learn What's Yours
 
-**Promise:** You find what's yours by digging, not by waiting for it to announce itself.
+**Promise:** What's yours doesn't announce itself. You learn your way to it.
 
 **Mechanism:** The discovery process: follow genuine interest, learn the thing itself ("I can learn, buy me the equipment"), and let compounding do the rest. AI and any other tool extend what you know; they can't hand you knowledge you don't have. You can use tools to learn a skill; you can't use them to skip the learning.
 
@@ -119,7 +119,7 @@
 
 **Pointers:** SOURCE-MATERIAL ch 7. COMPS Martell lessons 1 and 3.
 
-## Chapter 8 · Build the Systems That Keep It
+## Chapter 8 · Automate What You Can
 
 **Promise:** A life that fits is kept by systems, not by willpower.
 
@@ -131,11 +131,11 @@
 
 **Pointers:** SOURCE-MATERIAL ch 8 (open). Gaps list item 3. COMPS Martell lesson 2 (the universality test: can someone with zero budget and zero direct reports run this?).
 
-## Chapter 9 · Keep Bettering It
+## Chapter 9 · Keep the Momentum
 
-**Promise:** Better is a direction you hold, not a finish line you cross.
+**Promise:** There is no finish line. There's momentum, and it's yours to keep.
 
-**Mechanism:** The improvement loop: evaluate against what you actually wanted, adjust, repeat. Owning includes owning your growth edges out loud; the author's own current edges (delegation, trusting others' execution, setting limits earlier) appear as live work, not conquered territory. This is where persistence over perfection matures into a practice instead of a war story.
+**Mechanism:** The momentum loop: evaluate against what you actually wanted, adjust, keep moving. Owning includes owning your growth edges out loud; the author's own current edges (delegation, trusting others' execution, setting limits earlier) appear as live work, not conquered territory. This is where persistence over perfection matures into a practice instead of a war story.
 
 **Evidence:** GAP: needs an interview round on real bettering practices and at least one story of a system she revised because the data said so. Growth edges are already sourced at the honesty level she's approved.
 

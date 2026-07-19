@@ -18,7 +18,7 @@
 **The mechanisms under each (the how-layer):**
 - **Choose:** break the cycle · know and amplify your core · choose the path that fits your needs
 - **Build:** the discovery process · dig into your true interests · perseverance over comfort
-- **Own:** accountability to what you built · the drive to keep bettering it
+- **Own:** accountability to what you built · the drive to keep the momentum
 
 **It's a method, not a theory or a framework.** A theory is one belief you adopt. This is a sequence you move through and re-run. "Framework" felt clinical, so the public word is *method*, and the brand does the structural signaling instead.
 
@@ -76,8 +76,8 @@ Intro + three parts of three chapters + a closing loop chapter + a worksheet app
 
 - **Introduction · The Third Option**: the two doors, the third door, the persistence-over-perfection promise, the method in one breath.
 - **Part One · CHOOSE (Strategy):** 1. Break the Cycle · 2. Know Your Core · 3. Choose What Fits
-- **Part Two · BUILD (Creativity):** 4. Start Before You're Ready · 5. Dig Into What's Yours · 6. The Messy Middle
-- **Part Three · OWN (Operations):** 7. Own What You Built · 8. Build the Systems That Keep It · 9. Keep Bettering It
+- **Part Two · BUILD (Creativity):** 4. Start Before You're Ready · 5. Learn What's Yours · 6. The Messy Middle
+- **Part Three · OWN (Operations):** 7. Own What You Built · 8. Automate What You Can · 9. Keep the Momentum
 - **Closing · Run the Loop**: 10. Choose, Build, Own on repeat; a life that fits is maintained, not achieved.
 - **Appendix · The Fit Audit**: the self-assessment readers keep.
 
@@ -143,6 +143,11 @@ Moved to `OPEN-DECISIONS.md` so this file stays stable and the live list stays l
 ---
 
 ## Changelog
+
+**v1.2 (July 2026, chapter-map review):**
+- Chapter titles revised by Jena: 5 "Dig Into What's Yours" → "Learn What's Yours" ("dig" off-brand); 8 "Build the Systems That Keep It" → "Automate What You Can" (removes the build/built duplication with ch 7 and claims her own signature line); 9 "Keep Bettering It" → "Keep the Momentum" ("bettering" isn't her word; momentum and trajectory are).
+- Own how-layer wording updated to match: "the drive to keep the momentum."
+- Chapter 7 stays "Own What You Built": with ch 8 renamed there's no duplication, and "built" is the deliberate handoff from Part Two.
 
 **v1.1 (July 2026, ghostwriter foundation round):**
 - Added: reader made specific ("waiting for the good part").

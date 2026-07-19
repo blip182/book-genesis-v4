@@ -36,4 +36,4 @@
 
 ## Decided log
 
-*(empty so far)*
+- **2026-07-19 · Chapter titles revised (Jena).** Ch 5 "Dig Into What's Yours" → "Learn What's Yours" ("dig" off-brand). Ch 8 "Build the Systems That Keep It" → "Automate What You Can" (kills the build/built duplication with ch 7; claims her signature line as a title). Ch 9 "Keep Bettering It" → "Keep the Momentum" ("bettering" isn't her word). Ch 7 stays "Own What You Built" as the deliberate handoff from Part Two, with the scoreboard as its named tool.

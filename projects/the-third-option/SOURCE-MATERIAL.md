@@ -70,7 +70,7 @@ Temperament note for the chapter's voice: the cycle-breaking isn't rebellion for
 **The admin seat, told right.** Jena's framing, which replaces any "proved myself in two weeks" version: she went in thinking this was an opportunity that might open the door to more, then used her superpowers to do what she enjoyed very well. She never pretended to do things she wasn't good at or didn't enjoy. She was transparent about the work that made her feel empowered, and she was able to excel.
 *Proves: starting before you're ready doesn't mean faking readiness. Transparency about strengths IS the credibility play. Bridges Choose (she chose a door, not a destination) and Build.*
 
-### Chapter 5 · Dig Into What's Yours
+### Chapter 5 · Learn What's Yours
 
 *(Thin so far. The self-taught arc, ops to automation to AI systems, and "I can learn, buy me the equipment" likely live here. Needs an interview round.)*
 
@@ -96,11 +96,11 @@ Temperament note for the chapter's voice: the cycle-breaking isn't rebellion for
 **"I get to make up the competition."** Near verbatim, protect this: life now is not without struggle. This is a story about a hustler and a competitor. She will always be those things, because she loves it. She loves the pressure, the drive, the win. She's just decided that she gets to make up the competition. She competes against her past self. She wins when her life aligns with her priorities.
 *Proves: owning what you built means owning the scoreboard too. Candidate thesis line for Own, and it threads the never-prescribe rule.*
 
-### Chapter 8 · Build the Systems That Keep It
+### Chapter 8 · Automate What You Can
 
 *(Open. Interview question outstanding: what are the actual systems that keep the life aligned, concretely, and what slips first when they're neglected? Jena's operator background makes this her most differentiated chapter. Needs a dedicated round.)*
 
-### Chapter 9 · Keep Bettering It
+### Chapter 9 · Keep the Momentum
 
 *(Open. Likely home for the growth edges she's public about: delegation, sustainable pacing, setting limits earlier. Needs an interview round.)*
 
