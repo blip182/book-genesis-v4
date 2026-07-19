@@ -39,12 +39,15 @@ milestones:
   - id: comps
     desc: comparable-title analysis (6 comps + language-territory map), see COMPS.md
     status: done
+  - id: chapter-map
+    desc: chapter map v1 (CHAPTER-MAP.md), approved 2026-07-19 with revised titles and four structural decisions (layered Fit Audit, opening arrangement, Fit Audit name locked, ch 3 as test chapter)
+    status: done
   - id: part-one-beats
-    desc: build the Part One beat sheet from scratch (the one referenced in bible v1 does not exist), apply COMPS.md rules, deliver for line-by-line approval
+    desc: build the Part One beat sheet from scratch, apply COMPS.md rules, deliver for line-by-line approval
     status: not started, next up pending Jena's go
   - id: test-chapter
-    desc: one chapter drafted as a voice proof at ~4500 words before anything else is written
-    status: not started, chapter TBD
+    desc: Chapter 3 (Choose What Fits) drafted as the voice proof at ~4500 words, after Part One beats are approved
+    status: not started
   - id: beats-build-own
     desc: expand Parts Two and Three to beat level once Part One grain is confirmed
     status: not started

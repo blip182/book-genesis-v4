@@ -8,15 +8,12 @@
 |---|---|---|---|
 | 1 | Loop chapter placement | Own closing chapter (current) vs folded into Own | The contracts season already does double duty as a loop story. If a second distinct re-run story doesn't surface, folding becomes more attractive. |
 | 2 | Rhythm | 3×3 (current) vs a fourth chapter in any part with more to say | Own is Jena's most differentiated territory; watch whether Part Three wants a fourth chapter once Chapter 8 material lands. |
-| 3 | Beat-sheet grain | Confirm Part One's depth, then expand Build and Own the same way | Blocked on Part One beat sheet upload. |
-| 4 | Test chapter choice | Which chapter proves the voice first | Candidates: Ch 3 (richest material, anchor scene ready) or Ch 6 (thesis chapter, highest stakes). Leaning Ch 3: prove the voice on strong footing before attacking the thesis chapter. |
-| 5 | Opening story | Gym story opens the book vs opens Chapter 1 | Intro also has "waiting for the good part" and "not for a hustler" material competing for the cold open. |
+| 3 | Beat-sheet grain | Confirm Part One's depth, then expand Build and Own the same way | Part One beats are the next build. |
 
 ## Language & positioning (new, from COMPS.md)
 
 | # | Decision | Options | Notes |
 |---|---|---|---|
-| 10 | Lock "Fit Audit" as the claimed tool name now | Lock vs keep testing | Research found the term completely unclaimed; "life audit" is crowded. Cheap to claim early. |
 | 11 | The Third Door disambiguation line | Draft and standardize vs handle ad hoc | She will be asked. Working draft: "His book is about sneaking into the club; mine is about realizing you don't want the club." |
 | 12 | Early claim on "a life that fits" (hashtag, newsletter, refrain) | Now vs at launch | The phrase is being actively colonized by small titles in 2025-26; window is real. |
 
@@ -36,4 +33,5 @@
 
 ## Decided log
 
+- **2026-07-19 · Chapter map v1 approved with four structural decisions (Jena).** (1) The Fit Audit builds in layers through the book: fit criteria at the close of Choose, progress check at the close of Build, maintenance check at the close of Own, consolidated in the appendix. (2) Opening arrangement: intro cold-opens on the "waiting for the good part" reader portrait; the gym story opens Chapter 1. (3) "Fit Audit" locked as the tool's official name (research: unclaimed territory). (4) Chapter 3 (Choose What Fits) confirmed as the test chapter.
 - **2026-07-19 · Chapter titles revised (Jena).** Ch 5 "Dig Into What's Yours" → "Learn What's Yours" ("dig" off-brand). Ch 8 "Build the Systems That Keep It" → "Automate What You Can" (kills the build/built duplication with ch 7; claims her signature line as a title). Ch 9 "Keep Bettering It" → "Keep the Momentum" ("bettering" isn't her word). Ch 7 stays "Own What You Built" as the deliberate handoff from Part Two, with the scoreboard as its named tool.
