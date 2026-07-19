@@ -17,7 +17,7 @@
 
 **The mechanisms under each (the how-layer):**
 - **Choose:** break the cycle · know and amplify your core · choose the path that fits your needs
-- **Build:** the discovery process · dig into your true interests · perseverance over comfort
+- **Build:** the discovery process · learn what's yours · perseverance over comfort
 - **Own:** accountability to what you built · the drive to keep the momentum
 
 **It's a method, not a theory or a framework.** A theory is one belief you adopt. This is a sequence you move through and re-run. "Framework" felt clinical, so the public word is *method*, and the brand does the structural signaling instead.

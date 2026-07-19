@@ -137,7 +137,7 @@
 
 **Mechanism:** The momentum loop: evaluate against what you actually wanted, adjust, keep moving. Owning includes owning your growth edges out loud; the author's own current edges (delegation, trusting others' execution, setting limits earlier) appear as live work, not conquered territory. This is where persistence over perfection matures into a practice instead of a war story.
 
-**Evidence:** GAP: needs an interview round on real bettering practices and at least one story of a system she revised because the data said so. Growth edges are already sourced at the honesty level she's approved.
+**Evidence:** GAP: needs an interview round on real momentum practices and at least one story of a system she revised because the data said so. Growth edges are already sourced at the honesty level she's approved.
 
 **Named tool:** TBD. Part Three closes by adding the Own layer to the Fit Audit (the maintenance check).
 

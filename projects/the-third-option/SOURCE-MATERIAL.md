@@ -123,7 +123,7 @@ Jena plans 2 to 3 later books on where the method has shown up in: her faith, he
 1. Part One beat sheet (exists in a separate doc, awaiting upload).
 2. Chapter 5 material: the self-taught discovery arc.
 3. Chapter 8 material: the concrete systems. Highest-value missing interview.
-4. Chapter 9 material: keep-bettering practices and growth edges.
+4. Chapter 9 material: momentum practices and growth edges.
 5. A possible second loop story for the closing chapter.
 6. Outside anchors: 1 to 2 per chapter, to be curated at drafting time.
 7. More real writing samples (LinkedIn posts, Catching Myself posts) to sharpen voice calibration.
