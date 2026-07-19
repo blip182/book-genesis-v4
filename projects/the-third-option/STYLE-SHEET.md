@@ -55,6 +55,7 @@ Signature lines available to the book (use naturally, never force):
 - "I'd rather a test flop than never launch."
 - "I get to make up the competition. I compete against my past self. I win when my life aligns with my priorities." *(new, from interviews, candidate thesis for Own)*
 - "Waiting for the good part." *(new, from interviews, candidate intro language)*
+- Connecting strategy, creativity, and operations. *(her most-used line and the method's origin; the three tools of Choose/Build/Own. Should appear early and recur naturally)*
 
 ## People
 

@@ -22,6 +22,8 @@
 
 **It's a method, not a theory or a framework.** A theory is one belief you adopt. This is a sequence you move through and re-run. "Framework" felt clinical, so the public word is *method*, and the brand does the structural signaling instead.
 
+**Where the method came from (v1.1, signature line).** Connecting strategy, creativity, and operations is a line Jena uses constantly, and it's the origin of the method, not a decoration on it. Choose/Build/Own IS strategy, creativity, and operations translated into life stages. The three disciplines she's spent her career connecting are the three tools of the method. This connection belongs in the book's introduction as the method's origin story, and it's the credibility bridge to her conference speaking.
+
 **The stages are categories and mindsets, not instructions.** The method never tells the reader to go to college or skip it, to hustle or to rest. It tells them how to know which one fits. This is a load-bearing rule for every chapter (see STYLE-SHEET.md, "Prescribe the method, never the life").
 
 ---

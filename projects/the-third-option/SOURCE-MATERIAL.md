@@ -12,6 +12,10 @@
 The book is for anyone living their life waiting for the good part. Clocking into a job they hate. Forcing friend groups they don't fit with. The stay-at-home mom who knows she has drive for something of her own, and it's up to her to decide what that is. Could be a career, could be a hobby. The method doesn't care which, and that's the point.
 *Proves: the false binary has a cost even when nothing is visibly wrong. Candidate intro language.*
 
+**Strategy, creativity, operations: the method's origin.**
+A line Jena uses constantly: she connects strategy, creativity, and operations. That connection is where the method came from. Choose is strategy, Build is creativity, Own is operations; the method is her career's three disciplines translated into life stages. The intro should state this plainly as the origin story, because it's also the answer to "why should I listen to you": she isn't a life coach with a framework, she's an operator who noticed the disciplines that run companies also run lives.
+*Proves: the method's provenance. Also the UVP made concrete: strategy, creativity, and operations together is the edge no one else in this space has.*
+
 **The method was lived before it was named.**
 Jena lived Choose, Build, Own for years before she had words for it. "If you don't like it, change it." Never just accepted answers or failure. The naming came later, as language wrapped around a pattern that was already there. The intro (or Chapter 1) can open with the method in the wild and let the naming arrive later, which keeps the book honest: this isn't a theory she invented at a desk.
 *Proves: the method is descriptive of a real life first, prescriptive second.*
