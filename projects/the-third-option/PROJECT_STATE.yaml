@@ -36,9 +36,12 @@ milestones:
   - id: foundation
     desc: project tree, bible v1.1, source material, style sheet, decisions tracker
     status: done
+  - id: comps
+    desc: comparable-title analysis (6 comps + language-territory map), see COMPS.md
+    status: done
   - id: part-one-beats
-    desc: receive and confirm the Part One beat sheet (exists in a separate doc, not yet uploaded)
-    status: awaiting upload from Jena
+    desc: build the Part One beat sheet from scratch (the one referenced in bible v1 does not exist), apply COMPS.md rules, deliver for line-by-line approval
+    status: not started, next up pending Jena's go
   - id: test-chapter
     desc: one chapter drafted as a voice proof at ~4500 words before anything else is written
     status: not started, chapter TBD
