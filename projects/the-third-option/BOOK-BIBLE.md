@@ -130,7 +130,8 @@ Discipline: roughly 60 plum / 10 bubblegum / 30 cream. Two brights need a neutra
 
 ## 7. People & Naming Policy (v1.1)
 
-- **Kecia** (the friend at swim lessons, source of the opportunity advice) and **Michelle** (the mentor who reframed Jena's wiring as superpowers): fine to name at the level of common practice. Standard treatment is first name plus a light intro ("a friend at my son's swim lessons," "a mentor named Michelle"), with a personal heads-up to each before publication. "Mentor" as a label is an approved fallback. Decide per scene, not globally.
+- **The swim-lessons friend:** UNNAMED in the manuscript, per Jena (July 2026). She appears as "a friend at my son's swim lessons." (Internal note for the heads-up list: this is Kecia; her name stays in project files only, never in book text. Revisit only if Jena reopens it.)
+- **Michelle** (the mentor who reframed Jena's wiring as superpowers): fine to name at the level of common practice. First name plus a light intro ("a mentor named Michelle"), with a personal heads-up before publication. "Mentor" as a label is an approved fallback. Decide per scene, not globally.
 - **The gym story** (age 16, coaching at one gym while competing at another): fine to tell. Keep identifying details at the level the story needs and no further.
 - Full names and organizations only if the book ever quotes or borrows credibility directly, which it currently doesn't need.
 

@@ -21,7 +21,7 @@
 
 | # | Decision | Options | Notes |
 |---|---|---|---|
-| 6 | Kecia & Michelle treatment per scene | First name + light intro vs "a mentor" | Policy set (bible §7); the per-scene calls happen at drafting. Heads-up to both before publication. |
+| 6 | Michelle treatment per scene | First name + light intro vs "a mentor" | Policy set (bible §7); per-scene call at drafting. Heads-up before publication. The swim-lessons friend is now unnamed (decided, see log). |
 
 ## Cover & brand (parked until production)
 
@@ -33,5 +33,6 @@
 
 ## Decided log
 
+- **2026-07-19 · Beat sheet round one (Jena).** (1) The swim-lessons friend is unnamed in the manuscript ("a friend at my son's swim lessons"); name lives in project files only. (2) Chapter 1's menu metaphor replaced with the map / paved-path metaphor: food references undercut the brand; paths, systems, and building are the book's metaphor family, and her career example (corporate vs technical, with the territory in between) joins beat 1.4. (3) Chapter 2's foundation metaphor rewritten to keep accountability with the builder: the core is surveyed and built to, never framed as fault or excuse.
 - **2026-07-19 · Chapter map v1 approved with four structural decisions (Jena).** (1) The Fit Audit builds in layers through the book: fit criteria at the close of Choose, progress check at the close of Build, maintenance check at the close of Own, consolidated in the appendix. (2) Opening arrangement: intro cold-opens on the "waiting for the good part" reader portrait; the gym story opens Chapter 1. (3) "Fit Audit" locked as the tool's official name (research: unclaimed territory). (4) Chapter 3 (Choose What Fits) confirmed as the test chapter.
 - **2026-07-19 · Chapter titles revised (Jena).** Ch 5 "Dig Into What's Yours" → "Learn What's Yours" ("dig" off-brand). Ch 8 "Build the Systems That Keep It" → "Automate What You Can" (kills the build/built duplication with ch 7; claims her signature line as a title). Ch 9 "Keep Bettering It" → "Keep the Momentum" ("bettering" isn't her word). Ch 7 stays "Own What You Built" as the deliberate handoff from Part Two, with the scoreboard as its named tool.

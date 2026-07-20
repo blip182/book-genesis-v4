@@ -31,7 +31,7 @@
 
 **Evidence:** The gym story, age 16: coached at one gym, competed across town at the other because they had her level, coached men's gymnastics one gym didn't offer, cheered level 5 at the other. Taboo, frowned upon, nobody could really say anything. The method in the wild, years before it had words.
 
-**Named tool (candidate):** a simple diagnostic for spotting a default masquerading as a decision, e.g. "who wrote this menu?" as the chapter's recurring question. Name TBD with Jena.
+**Named tool (candidate):** a simple diagnostic for spotting a default masquerading as a decision, e.g. "who drew this map?" as the chapter's recurring question. The chapter's home metaphor is the map and the paved path (Jena's metaphor family: paths, systems, building; food metaphors are off-brand). Name TBD with Jena.
 
 **Pointers:** SOURCE-MATERIAL ch 1. COMPS rule 4 (this chapter establishes the pattern: story proves mechanism, once). Watch the hard-no: don't frame this as "the problem isn't the job, it's actually you" style setups.
 
@@ -41,7 +41,7 @@
 
 **Mechanism:** Core-acceptance is not the same as fitting in. Knowing your core has two halves: seeing it clearly (often a years-long journey, and that's normal) and amplifying it on purpose, treating what's unusual about you as the foundation to build on instead of the thing to sand down.
 
-**Evidence:** The mask years, told straight as growing up and self-discovery. The 21st birthday breastfeeding a newborn at a family dinner, happy: acceptance as a concrete image, not a platitude. The post-motherhood rediscovery pull. The Michelle mentorship: unique qualities reframed as superpowers. Strength-level framing only.
+**Evidence:** The mask years, told straight as growing up and self-discovery. The 21st birthday breastfeeding a newborn at a family dinner, happy: acceptance as a concrete image, not a platitude. The post-motherhood rediscovery pull. The Michelle mentorship: unique qualities reframed as superpowers. Strength-level framing only. Metaphor note: the foundation metaphor must keep accountability with the builder (surveying the core honestly and building to it is the reader's job; the core is never framed as fault or excuse).
 
 **Named tool:** the first layer of the **Fit Audit**: the reader authors their own definition of fit before any choosing tools arrive. This is the DYL-proven non-prescription move: from here on the method only ever audits against the reader's own criteria.
 
@@ -53,7 +53,7 @@
 
 **Mechanism:** The counter-offer. Never a raw yes, never a raw no: take time, look it over, come back with what you could do and when. Choosing what fits is active negotiation with every opportunity, and the discipline runs both ways: the yes-to-everything season and the no-to-everything season are the two doors again, inside a single decision.
 
-**Evidence:** The naming scene at swim lessons: Kecia's "don't say no to opportunity," and the months of renovating that advice into her own mechanism. The contracting counter-offer, concrete. The overcorrection seasons, honest.
+**Evidence:** The naming scene at swim lessons: a friend's "don't say no to opportunity" (friend unnamed per Jena), and the months of renovating that advice into her own mechanism. The contracting counter-offer, concrete. The overcorrection seasons, honest.
 
 **Named tool (candidate):** the counter-offer rule, possibly as a three-step ("pause, price it, counter"). Name TBD with Jena. Part One closes by adding the Choose layer to the Fit Audit.
 

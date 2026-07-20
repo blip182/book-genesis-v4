@@ -47,12 +47,12 @@ Temperament note for the chapter's voice: the cycle-breaking isn't rebellion for
 **The rediscovery pull.** After her daughter was born, the family felt complete, and Jena felt a pull to channel her drive somewhere and rediscover who she was after motherhood. That's when she went looking for language for her core.
 *Proves: Know Your Core is a stage you can enter deliberately, not just something that happens to you.*
 
-**Kecia to Michelle: the wiring becomes a superpower.** Kecia (see Chapter 3) introduced Jena to Michelle. Through that mentorship Jena started seeing her unique qualities as superpowers and using her core personality as a foundation to build around. Ties to the public identity she's chosen to own: neurodivergent, took years to see the wiring as an edge instead of something wrong with her.
+**The introduction to Michelle: the wiring becomes a superpower.** The swim-lessons friend (unnamed in the manuscript per Jena; see Chapter 3) introduced Jena to Michelle. Through that mentorship Jena started seeing her unique qualities as superpowers and using her core personality as a foundation to build around. Ties to the public identity she's chosen to own: neurodivergent, took years to see the wiring as an edge instead of something wrong with her.
 *Proves: amplify your core. Naming policy per bible section 7. Clinical detail stays out; strength-level framing only.*
 
 ### Chapter 3 · Choose What Fits
 
-**The naming scene (swim lessons).** Standing at her son's swimming lessons, a friend (Kecia) told her to consider getting her MHA and going into consulting, and told her: don't say no to opportunity. Over the following months Jena renovated the advice into her own mechanism: don't say no, but you can change it, counter it, and make it into something that fits your needs.
+**The naming scene (swim lessons).** Standing at her son's swimming lessons, a friend (unnamed in the manuscript per Jena) told her to consider getting her MHA and going into consulting, and told her: don't say no to opportunity. Over the following months Jena renovated the advice into her own mechanism: don't say no, but you can change it, counter it, and make it into something that fits your needs.
 *Proves: choose what fits is active negotiation, not passive acceptance. Also the origin of the book's language. Candidate for the chapter's anchor scene.*
 
 **The counter-offer mechanism (concrete).** In a contracting role, when someone offers something, don't just say yes or no. Take time, look it over, think it over, then respond with what you COULD do and when.
