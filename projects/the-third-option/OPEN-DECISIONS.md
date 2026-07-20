@@ -33,6 +33,10 @@
 
 ## Decided log
 
+- **2026-07-20 · Michelle / "conditions" overlap resolved (Jena).** A mentor-doppelganger review flagged possible overlap with Michelle's platform. Resolved: Michelle is claiming "conditions" in the workforce-and-education, human-skills-development sense. This book has nothing to do with that, and Jena deliberately avoids "conditions" in that sense because she has no interest in corporate/academia territory. Real daylight; no vocabulary collision (the word appears only twice in the manuscript, both ordinary sense in ch1). Keep it that way; do not build "conditions" into a claimed term.
+
+- **2026-07-20 · Craft pass + intro trim commissioned (Jena), after mentor-doppelganger developmental read.** Reduce the balanced-antithesis tic and the mic-drop section endings (keep the best few, let most sections end plainly), trim self-cross-referencing scaffolding by ~half, loosen over-resolved moments, and pull more of Jena's raw/unguarded voice back in. Trim the introduction so it stops front-loading the whole framework ("method in one breath" arrived-at, not handed at the door).
+
 - **2026-07-20 · Health & hardship altitude (Jena).** Leave out anything that points to dramatics or reads as less relatable. Clinical/mental-health specifics (medication, weight numbers, labs, the car-accident injury and recovery) stay out of the book entirely and out of the repo; hardship is carried by ordinary, relatable daily texture only. Locked as a hard rule in the style sheet.
 
 - **2026-07-19 · Beat sheet round one (Jena).** (1) The swim-lessons friend is unnamed in the manuscript ("a friend at my son's swim lessons"); name lives in project files only. (2) Chapter 1's menu metaphor replaced with the map / paved-path metaphor: food references undercut the brand; paths, systems, and building are the book's metaphor family, and her career example (corporate vs technical, with the territory in between) joins beat 1.4. (3) Chapter 2's foundation metaphor rewritten to keep accountability with the builder: the core is surveyed and built to, never framed as fault or excuse.

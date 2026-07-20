@@ -1,6 +1,6 @@
 # Introduction · The Third Option
 
-*Draft 2. v1 full-book run; v2 (round 4) makes "I've been where you're standing" real with Jena's own waiting season (did things because she was good at them, not because she loved them; the black sheep who never wanted the cookie-cutter life) and adds the conviction under the never-prescribe rule (everyone shows up with something that's theirs; not about being best or on top; live deliberately; purpose differs for everyone). Faith-adjacent phrasings from her reflection ("born with a gift," "growth shared with community") were rendered in secular language on purpose, since the book stays secular. Not final until Jena signs off.*
+*Draft 2. v1 full-book run; v2 (round 4) makes "I've been where you're standing" real with Jena's own waiting season (did things because she was good at them, not because she loved them; the black sheep who never wanted the cookie-cutter life) and adds the conviction under the never-prescribe rule (everyone shows up with something that's theirs; not about being best or on top; live deliberately; purpose differs for everyone). Faith-adjacent phrasings from her reflection ("born with a gift," "growth shared with community") were rendered in secular language on purpose, since the book stays secular. v3 (craft pass, after mentor-doppelganger read): trimmed the front-loading, "The method in one breath" per-stage spell-out cut and folded into a one-sentence map inside "How to read this" (framework arrived-at, not handed at the door); softened two mic-drop endings ("You've been sold enough effortlessness," "the most demanding referee there is"). Not final until Jena signs off.*
 
 ---
 
@@ -58,7 +58,7 @@ There's a conviction under all of this that I'll just say plainly, because it's 
 
 I'll hold that line even while I tell you about my own life, which is the evidence running through every chapter. So let me put the disclosure up front. This is a story about a hustler and a competitor, because that's what I love, so that's how the method shows up in my life. My days are not without struggle, and I'm not interested in pretending otherwise, but I love the pressure, the drive, the win, and I always will. What changed is that I've decided I get to make up the competition. I compete against my past self. I win when my life aligns with my priorities.
 
-That's my scoreboard, and the method is how I got the authority to write it. Yours will say something else. The method has exactly one opinion about winning: you define it, and then you get held to your own definition, which turns out to be the most demanding referee there is.
+That's my scoreboard, and the method is how I got the authority to write it. Yours will say something else. The method has exactly one opinion about winning: you define it, and then you hold yourself to your own definition, which is a stricter referee than most people expect going in.
 
 ## Persistence over perfection
 
@@ -68,21 +68,13 @@ Read that sentence again, because it's the engine of the whole method. Every sta
 
 I can make that promise with a straight face because the middle of this book contains the season I failed at my own method. A real failure, the kind with a cost, and I've kept it in the text at full size. A method that only works on its author's best days is a highlight reel. This one earned its keep on my worst ones, and you deserve to watch it do that before you trust it with anything of yours.
 
-What I won't do is tell you the hard parts are easy. The stages cost something, every one of them, and each chapter will name the cost while it teaches the tool. You've been sold enough effortlessness.
+What I won't do is tell you the hard parts are easy. Every stage costs something, and each chapter names the cost while it teaches the tool, because you have been sold enough effortlessness already.
 
-## The method in one breath
+## How to read this
 
-Choose. Get free enough to pick your own path: notice the defaults you've been living by and decline to treat them as final, learn your own core well enough to know what any path has to fit, then choose against your criteria instead of anyone else's.
+I'll keep the whole map of the method to a sentence right now, because a summary handed to you at the door tends to become a summary you settle for, and you're going to walk all of this anyway. Choose gets you free enough to pick your own path. Build makes it real. Own keeps it, and keeps it moving. Three stages, one loop, and the loop runs again for as long as you're alive and changing, which is the part most self-improvement quietly leaves out.
 
-Build. Make it real: start before you feel ready, because readiness follows starting and never precedes it; learn your way to what's yours; and hold on through the messy middle, where everyone wants to quit and where the whole thesis of this book lives.
-
-Own. Keep it: take accountability for what you built, scoreboard included; automate and systematize what you can, so the life runs on rhythm instead of willpower; and keep the momentum, checking what you built against your priorities and adjusting before drift becomes drama.
-
-Then the loop runs again, because you'll change, and a life that fit you at thirty may pinch at forty. That's the method working. Choosing, building, and owning are motions, and motions repeat, which means you'll run this loop for as long as you're changing, and you'll get faster at it every time because the core gets better known and the systems already exist.
-
-The book keeps a small vocabulary and leans on it hard, on purpose, because a move you can name is a move you can repeat. The third option is the category, the door you draw yourself where the map showed two. Choose, Build, and Own are the stages, and each stage arrives with its tools. A life that fits is what the whole thing is for, with "fits" defined by you and audited by you. By the last page those words should feel less like my language and more like shorthand for things you've done.
-
-A word on how to read this. The parts build in order, and each chapter teaches one mechanism and proves it with evidence before moving on, so I'd walk the stages in sequence the first time through. At the end of each part you'll add a layer to a tool called the Fit Audit: your fit criteria from Choose, your progress check from Build, your maintenance check from Own. By the last page it's a complete instrument, and it's yours to keep and re-run for years, which is why every layer of it audits against criteria you wrote. Read with something real on your table, a decision pending, a commitment you've stopped examining, a drive with nowhere assigned to go. This book works far better run than read.
+A few practical things before you start. The parts build in order, so I'd walk them in sequence your first time through. At the end of each one you'll add a layer to a tool called the Fit Audit, your criteria from Choose, your progress check from Build, your maintenance check from Own, until by the last page it's a whole instrument that never measures you against anything but what you wrote in it. And read this with something real on your table, a decision you've been circling, a commitment you've stopped examining, a drive with nowhere assigned to go. It works far better run than read.
 
 You've been waiting for the good part, and I've been where you're standing, further back on the same road than you might guess. The good part was never going to arrive. It gets chosen, then built, then kept.
 
