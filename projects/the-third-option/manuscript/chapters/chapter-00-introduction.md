@@ -48,7 +48,7 @@ I'm telling you where the method comes from because it's also the answer to a fa
 
 This book will never tell you what your life should contain.
 
-It won't tell you to go to college or skip it, to hustle or to rest, to build a career or a hobby or a homeschool year or a body that can run six miles. It won't rank a loud, messy, ambitious life above a calm and consistent one, or the reverse. The stages are categories and mindsets. They teach you how to know which of your options fits, and they go silent on which option that should be, on purpose, every time.
+It won't tell you to go to college or skip it, to hustle or to rest, to build a career or a hobby or a homeschool year or a body that can run six miles. It won't rank a loud, messy, ambitious life above a calm and consistent one, or the reverse. The stages are categories and mindsets. They teach you how to know which of your options fits, and they go silent on which option that should be, on purpose, every time. If the life that fits you turns out to be a steady job you like, a garden, and dinners with people who require no performance, this method will build and defend that life with the same seriousness it would bring to a company, because on its terms those are the same project.
 
 I hold that line hard because of what the two doors have in common. Both of them are someone else defining your success and you responding to the definition. A method that pried you out of their spec and handed you mine would just be a third spec, a better-lit room in the same building. The exit only counts if the definition of a life that fits comes from you. So "fits" stays yours to define through this whole book. A life that fits is a chosen one, picked on your criteria, with your personality showing on purpose, and it may never look clean or cookie-cutter from the outside, because it was never designed for the outside to grade.
 
@@ -60,7 +60,7 @@ That's my scoreboard, and the method is how I got the authority to write it. You
 
 Here is the promise underneath everything this book asks of you: I'm not perfect. I'm just willing to stick with things long enough to make it happen.
 
-Read that sentence again, because it's the engine of the whole method. Every stage you're about to walk through runs on willingness rather than flawless execution. You will choose things that stop fitting, build things that wobble, and own systems that fail on a random Tuesday for no reason you can find, and none of it will be evidence that you did it wrong, because all of it is the normal operating condition of anything being built by an actual person inside an actual life. The method is designed for that condition, with re-runs and restrategizing built into its bones instead of treated as emergencies.
+Read that sentence again, because it's the engine of the whole method. Every stage you're about to walk through runs on willingness rather than flawless execution, and willingness is a word worth watching for as you read, because it asks less than you fear and more than you'd like. Less, because it never requires you to feel sure. More, because it requires you to move anyway. You will choose things that stop fitting, build things that wobble, and own systems that fail on a random Tuesday for no reason you can find, and none of it will be evidence that you did it wrong, because all of it is the normal operating condition of anything being built by an actual person inside an actual life. The method is designed for that condition, with re-runs and restrategizing built into its bones instead of treated as emergencies.
 
 I can make that promise with a straight face because the middle of this book contains the season I failed at my own method. A real failure, the kind with a cost, and I've kept it in the text at full size. A method that only works on its author's best days is a highlight reel. This one earned its keep on my worst ones, and you deserve to watch it do that before you trust it with anything of yours.
 
@@ -99,6 +99,7 @@ You've been waiting for the good part, and I've been where you're standing, furt
 - The company-world description of her work: "three departments that barely speak," "making the three of them act like one system," "strategy without operations is a beautiful plan nobody executes," etc. Plausible operator talk; confirm it matches how she'd describe the job.
 - The autobiographical noticing paragraph ("Somewhere along the way I noticed the disciplines running companies were also running my life") including the three retrospective claims about her own choices, builds, and maintenance. The connection itself is sourced; this specific telling of how she noticed is invented.
 - "The one system you can't quit, contract out, or hand off."
+- "Every tool in this book had to survive contact with my real weeks before it earned a chapter" (true in spirit per the sourced stories, but the claim as an absolute needs her yes).
 - "A third spec, a better-lit room in the same building."
 - "The most demanding referee there is."
 - "You've been sold enough effortlessness."
