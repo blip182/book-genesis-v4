@@ -36,6 +36,10 @@ Jena's framing, near verbatim and probably intro material: this is a story about
 **"I've never just accepted answers or failure. I'm a doer that makes things happen."**
 Temperament note for the chapter's voice: the cycle-breaking isn't rebellion for its own sake. It's refusal to accept a two-option map as final.
 
+**The gym scene, real disapproval and resolution (round 4).** The concrete stakes: the owner of the gym where she coached didn't like the arrangement and talked about letting her go; her director advocated for her (argued to keep her) in a room she wasn't in. It was all behind her back; she's "not the type people typically confront." Her reasoning, which is why "nobody could really say anything": broken down, it wasn't unethical, and it wasn't even a conflict of interest. Her state at 16: she had a feeling it would cause tension but knew she wasn't doing anything wrong, and it was what was best for the two things she loved, her athletic journey and her coaching career. Resolution: people got used to it and the shock wore off. Takeaway in her words: it taught her resilience and the willpower to commit to herself.
+*Proves: "nobody could say anything" is literal, there were no grounds. The stakes were real (her job) which keeps the story from feeling small. The restraint (confrontation-averse, quietly certain) is on-brand and truer than any invented defiance. Resilience + commit-to-yourself connects forward to persistence (ch6) and agency (ch6).*
+*OPEN FACT: confirm whether across-town she competed gymnastics at her level AND cheered level 5 cheer as two things, or if those are the same. Logistics and sensory detail still unconfirmed.*
+
 ### Chapter 2 · Know Your Core
 
 **The masks (middle and high school).** Pieces of Jena fit in with lots of different crowds, but her whole self could never find where it fit, so she tried on different masks. Handled straight, as growing up, self-discovery, and the journey to acceptance. NOT framed as a freeze or a failure state (Jena explicitly corrected this read; do not force the pattern).

@@ -39,10 +39,12 @@
 
 **Verified (from source material and interviews):** she was 16; the gym where she coached didn't offer the level she competed at as an athlete; she joined a team at a gym across town that did; she kept coaching men's competitive gymnastics, which the other gym didn't offer; she cheered on a level 5 competitive cheer team her coaching gym didn't have; splitting between rival gyms was taboo and frowned upon; some people didn't like it; nobody could really say anything; she paved her own path. "I've never just accepted answers or failure. I'm a doer that makes things happen" is her near-verbatim temperament line. Connecting strategy, creativity, and operations is her most-used line and the method's origin. The corporate-vs-technical career map, with the territory between them full of hybrid paths where she built her own career, is her suggested example for beat 1.4.
 
+**Verified (round 4, now in the scene):** the gym owner where she coached disliked the arrangement and talked about letting her go; her director advocated for her in a room she wasn't in; it was all behind her back, and she's not the type people typically confront; broken down, it wasn't unethical or even a conflict of interest; she anticipated tension but knew she wasn't doing anything wrong and it was best for the two things she loved (her athletics and her coaching); people got used to it and the shock wore off; the year taught her resilience and the willpower to commit to herself. Cut as unconfirmed inventions: the "family name" gym-belonging line and the "bag that never got fully unpacked."
+
+**STILL OPEN, one real fact:** whether at the across-town gym she was competing in gymnastics at her level AND separately cheering level 5 competitive cheer, or whether "her level" and the cheer are the same thing. Current text follows her original telling (compete gymnastics across town + coach men's gymnastics at home gym + cheer level 5 across town) but this needs her confirmation. Also still unconfirmed: physical/sensory detail (none verified), logistics (days, distance, who drove a 16-year-old between gyms).
+
 **Invented and needing Jena's verify or correct:**
-- All physical scene texture: chalk, gym names worn on backs at meets, the lobby, the bag in the back seat, driving between gyms, the afternoons-and-evenings schedule, "voice-of-the-room" details generally.
-- The specific forms the disapproval took: conversations changing shape when she walked up, side glances at competitions, rooms going cooler, repeated explaining of her schedule, "the explaining was the tax."
-- That she felt she believed the two-option script "for a while" before acting.
+- Remaining physical scene texture: chalk, the afternoons-and-evenings schedule, general room detail.
 - That nothing practical blocked the two-gym arrangement (schedules worked, distance drivable). Plausible from the outcome, not stated in interviews.
 - The messy-execution details in the cost section: running late, doubting the arrangement some evenings, fumbled explanations.
 - The claim that the disapproval faded as people adjusted ("people adjust to a fact faster than a proposal").
