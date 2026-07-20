@@ -46,7 +46,13 @@ milestones:
     desc: build the Part One beat sheet from scratch, apply COMPS.md rules, deliver for line-by-line approval
     status: not started, next up pending Jena's go
   - id: test-chapter
-    desc: Chapter 3 (Choose What Fits) drafted as the voice proof at ~4500 words, after Part One beats are approved
+    desc: Chapter 3 drafted as the voice proof. v1 failed (LinkedIn cadence, AI-coded); v2 rewrote into the book register; v3+ applied Jena's scene corrections and line notes. Voice declared passed 2026-07-19. Remaining invented texture to verify in interview round 3.
+    status: passed
+  - id: interview-round-3
+    desc: "interviews for the remaining gaps: ch 5 (learn what's yours), ch 8 (actual systems, highest value), ch 9 (momentum practices), plus ch 3 texture verification"
+    status: in progress
+  - id: beats-parts-two-three
+    desc: Part Two and Three beat sheets, built after interview round 3 supplies the missing material
     status: not started
   - id: beats-build-own
     desc: expand Parts Two and Three to beat level once Part One grain is confirmed
