@@ -182,6 +182,12 @@ Temperament note for the chapter's voice: the cycle-breaking isn't rebellion for
 
 ## Closing · Run the Loop
 
+**Why she chose contract work (round 4).** To own her work, and to hold the autonomy to accept or decline the structure and workload instead of having both handed to her. (Corrects the invented flexibility/variety criteria.)
+
+**Her current shift + the loop runs both directions (round 4).** She is always shifting. Right now the shift is a NARROWING: a skill she's been developing has drawn her career focus tighter than it's been in years, and she's been investing into that. Insight this adds to the closing: the loop isn't only about widening/exploring (the hobby evolution story); some seasons it closes down to the single thing worth going deep on. Both directions are the loop working.
+
+**Presence, confirmed and refined (round 4).** Presence IS her watched currency ("I lean on presence in whatever capacity I feel drawn to"). Never-prescribe refinement: for the reader it's presence with THEIR priorities, whatever those are; she does not name a specific thing (e.g. family) that others should be present for. So "presence is the currency I watch most closely" is fine as HER personal line (ch3/ch7/ch10); the book must never tell the reader to prioritize a specific object of presence.
+
 **The loop re-run, now two stories.** The contracts season is the loop under crisis: something she chose and built stopped fitting painfully, and she chose again. The evolution story (see Chapter 9) is the loop as designed: hobbies and career focus cycling from Chinese medicine to fashion to tech to photography and back, with no breakdown required, because the life was built with exploration in it. The closing chapter can now show both faces: the loop that rescues you and the loop you live in happily. This resolves the earlier worry about the close leaning entirely on Chapter 6's material.
 
 ---

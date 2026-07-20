@@ -77,6 +77,10 @@ Politics, abortion, LGBTQ topics, other religions, war. Pride in the military fa
 
 Never name or pointedly characterize a specific employer or client, especially the company she was hired to bring order to that "operated reactively." She still contracts with them. Keep all organizations generic and non-identifying. Name tensions and dynamics (operationalizing vs reacting, agency vs obligation), never the org behind them.
 
+## Presence is hers, priorities are the reader's (Jena round 4)
+
+"Presence is the currency I watch most closely" is Jena's own verified line (recurs ch3/ch7/ch10) and stays. But presence is never prescribed to the reader as a specific object. When generalizing, the reader is told to be present with THEIR priorities, whatever those are, not with family, work, or anything named. Presence with your own priorities, full stop.
+
 ## No manufactured epiphanies (hard, Jena round 4)
 
 Jena's realizations are cumulative and retrospective, not lightning strikes. She recognizes patterns in hindsight, usually once she has the language for them, and then acts. Never invent a single dramatic "aha" moment or origin scene for her; it reads as false and she will disown it. When a realization needs telling, tell it as reflection over time (the model: "there was no single moment... it came later and slowly, once I had words to hang on the pattern"). This pairs with the lived-before-named theme and ch2's "none of this happened in one conversation."

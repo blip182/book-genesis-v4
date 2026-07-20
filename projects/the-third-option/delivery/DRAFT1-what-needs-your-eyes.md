@@ -269,11 +269,11 @@
 - The pause discipline with a real, kept date (Chapter 3, verified). The book's final line is built directly on it.
 - "Connecting strategy, creativity, and operations" as her line and the method's origin.
 
+**Verified/corrected (round 4):** she chose contract work to own her work and to hold the autonomy to accept or decline the structure and workload (replaces the invented flexibility/variety/three-disciplines criteria). She is always shifting; the current, real shift is a NARROWING of career focus driven by skill development, which she's investing into (now the closing's mid-loop beat, plus the both-directions insight). Presence CONFIRMED as her watched currency ("I lean on presence in whatever capacity I feel drawn to"), with the never-prescribe refinement that for the reader it's presence with THEIR priorities, not a specific thing she names for them.
+
 **Invented, needs Jena's verify or correct:**
-- That her original fit criteria for contract work were flexibility, variety, and connecting the three disciplines across more than one table (plausible, not sourced).
 - The timing claim that the warning signals "had been firing for a long while" before her sit-down, and the "I paid for every one I ignored" framing.
-- "In the currency I claim to watch most closely" leans on the Chapter 3 line "presence is the currency I watch most closely," which is itself still awaiting her verify; if that line goes, this one goes with it.
-- "People have told me: scattered, restless, unable to pick a lane" (invented outside voices).
+- "I know how that can look from the outside: scattered, restless, unable to pick a lane" (softened from invented quotes to a general outside-perception; confirm she'd own even this framing).
 - Hobbies "returning years later to a life that had kept a place for them" (the "and back" is sourced; the texture is not).
 - The finished-self passage ("approve the furniture and take over," "she never arrived") is an authorial rendering of her verified claim that self-discovery doesn't end.
 - "Some focus of mine is shifting right now" as true at press time, and the mid-loop framing of her present.
