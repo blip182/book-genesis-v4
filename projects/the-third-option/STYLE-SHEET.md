@@ -22,6 +22,9 @@ The formula still applies, in sequence: **Michelle's brain** (is this the actual
 - Banned phrases: "have it all," manifestation hand-waving, "queen" as filler.
 - No hedging that isn't earned. "I could be wrong" only when genuinely held.
 - **"Actually" only with precision, never as filler or intensifier** (Jena, Chapter 3 review). It must mark a true contrast with a stated expectation; if the sentence survives without it, cut it.
+- **Never announce honesty** (Jena, Chapter 3 review). No "I want to be honest," "to be frank," "truthfully." The whole book is her being honest; announcing it performs it. State the honest thing directly: "I hold this tool so tightly because it was born from my own failure modes."
+- **"Properly" isn't her word** in the tell-it-properly sense. Prefer plain forms: "more to that story to come."
+- **Contractions serve flow, not casualness** (Jena, Chapter 3 review). Keep them where they keep a sentence moving; expand to full forms where weight or professionalism helps and flow survives (her example: "you'll" to "you will"). At commitments and promises, the full form usually lands better.
 - Honest over flattering, everywhere, including how the book talks to the reader.
 
 ## The book's own load-bearing rules

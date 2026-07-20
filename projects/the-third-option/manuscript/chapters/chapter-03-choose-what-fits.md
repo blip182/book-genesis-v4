@@ -54,19 +54,19 @@ Most of the time, in my experience, they do. The counter gets accepted, or it op
 
 ## The two doors, pocket-sized
 
-I hold this tool tightly, and I want to be honest about why. I didn't learn it from a book. I learned it from both of my own failure modes.
+I hold this tool so tightly because it was born from my own failure modes.
 
 I have had seasons of saying yes to everything, and what I remember most about them is that no single yes felt like a mistake. Each one was reasonable in the moment it was made. A favor for someone I love. A door it would have been foolish to close. A small commitment, barely an hour a week. The arithmetic of a lost calendar is done entirely in reasonable little numbers, and then one day you look at the week in front of you and you can't find yourself anywhere in it. Every block of time belongs to a promise, and none of the promises were made to you.
 
 I also know the swing that follows, because I've lived that too. After enough overloaded seasons you start wanting to say no to everything, guard every hour, let doors close just to hear the quiet on the other side. It presents itself as wisdom, as boundaries, as finally learning your lesson, and for a while it even feels like healing. But look at the shape of it honestly. Yes to everything and no to everything are the same posture wearing different clothes. In both, the offer decides and you react. The question of what would fit never gets asked in either one.
 
-One of those yes seasons cost me considerably more than my calendar, and I'll tell that story properly in the middle of this book, where it belongs. For now it's enough to say that the counter-offer is, for me, the discipline standing between me and my own two doors, and I run it every week, on offers large enough to reshape a year and small enough to reshape a Tuesday. The third option isn't only a way to change a life. Some weeks it's just the way you answer your phone.
+One of those yes seasons cost me considerably more than my calendar. There's more to that story to come, in the middle of this book where it belongs. For now it's enough to say that the counter-offer is, for me, the discipline standing between me and my own two doors, and I run it every week, on offers large enough to reshape a year and small enough to reshape a Tuesday. The third option isn't only a way to change a life. Some weeks it's just the way you answer your phone.
 
 ## Counter-offering a life
 
 Now let's leave the workplace, because the biggest offers on your table were never sent by a client.
 
-Someone asks you to run the volunteer thing this year, and the version they're offering is twelve hours a week of a job you would genuinely love at three. The map gives you the usual two roads, take it and disappear from your own evenings or decline it and carry the guilt all season. A counter might sound like: I can't run it, but I can own the schedule and the setup, and I'm yours every Saturday morning. The same three moves apply that applied to the contract. Pause before answering. Hold it against your list. Offer the version you could give and mean.
+Someone asks you to run the volunteer function this year, and the version they're offering is twelve hours a week of a job you would genuinely love at three. The map gives you the usual two roads, take it and disappear from your own evenings or decline it and carry the guilt all season. A counter might sound like: I can't run it, but I can own the schedule and the setup, and I'm yours every Saturday morning. The same three moves apply that applied to the contract. Pause before answering. Hold it against your list. Offer the version you could give and mean.
 
 The holiday expectation arrives every year in the same shape, everyone, everywhere, the whole production, because that's the way it has always been drawn. Complying quietly and detonating loudly are both available, and both cost more than they appear to. The counter is a harder conversation and a much shorter one. This year we'll come for the day but not the week. We'll host, but smaller. We'll trade the one big gathering for three real visits. I won't pretend those sentences are comfortable to say out loud to people you love. I'll only point out that a decade of quiet resentment takes considerably longer.
 
@@ -84,7 +84,7 @@ Before you leave this chapter, I'd like you to run the tool once on something re
 
 Walk it through the sequence you've built across these three chapters. Start with the chapter one question: who drew this map? Look at the take-it-or-leave-it shape the thing arrived in and ask whether that shape is real or just printed. Then bring out your list from chapter two and hold the thing against it honestly, on paper rather than in your head, because your head will round every number in whatever direction it's currently biased. Sort what you find into the three piles. Then make the three moves. Decide what the pause looks like and take it, even if it's only overnight. Do the fitting. And write the counter in a single sentence: here's what I could do, and when.
 
-You don't have to send it. Sending is a separate decision, and you'll make it better once you can see the counter in your own handwriting. But write it, because something changes the first time you watch a take-it-or-leave-it become a draft on your own page, and I don't know a way to get that feeling from reading about it. That page is the first working piece of an audit you'll finish building by the end of this book, and it works on everything. New offers. Old commitments. The opportunities you hand yourself.
+You don't have to send it. Sending is a separate decision, and you will make it better once you can see the counter in your own handwriting. But write it, because something changes the first time you watch a take-it-or-leave-it become a draft on your own page, and I don't know a way to get that feeling from reading about it. That page is the first working piece of an audit you will finish building by the end of this book, and it works on everything. New offers. Old commitments. The opportunities you hand yourself.
 
 ## The door is not the house
 
