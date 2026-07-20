@@ -1,6 +1,6 @@
 # Chapter 4 · Start Before You're Ready
 
-*Draft v1. Written to the approved beats in the chapter-03 register: reversals rationed, ideas developed, sentence length varied, no em dashes. Nothing is final until Jena signs off. Invented texture is flagged in the draft notes at the bottom.*
+*Draft v2. v1 written to the approved beats in the chapter-03 register; v2 adds "The work nobody named" (round 4): the undefined-role pattern (she's hired into undefined roles and defines them by finding unnamed work) and the symptom-phrases diagnostic ("that's just how we do it," "I've got it," etc.), with the sharper reframe (the gap between how a system should work and how people adapted to survive it). Verified from Jena's round-4 reflection. NOTE: the true cold-open scene is still pending her answer to "when did you first realize you were seeing something others genuinely weren't." Invented texture flagged below.*
 
 ---
 
@@ -13,6 +13,26 @@ So I did what I knew how to do, which was find the parts of the work that fit me
 The parts I wasn't good at, or didn't enjoy, I never pretended at. Every job has rooms you shine in and rooms you don't, and the pressure in an early seat is to seem complete, to blur that line until nobody looking at you can find the gaps. I let the line stay visible. The people around me knew what was mine, what I was learning, and what was never going to be my best contribution no matter how long I sat in that chair.
 
 And I excelled. I can write that sentence comfortably because of what it stands on: real work, done in the open, claimed by name. The door I had suspected might exist did open, in time, onto more. But the detail this chapter hangs on is quieter than any of that. On the day I took the seat, by every standard the world uses to issue the word, I was not ready. What I was, was willing.
+
+## The work nobody named
+
+That admin seat was not the last time I walked into a role that hadn't finished being written. It turned into a pattern, and eventually into a preference. I keep getting hired into positions with no clear owner, no working system, and no real map of what the job is, and for years I thought I just had unlucky taste in job descriptions. What I came to understand is that those roles are where I do my best work, because the undefined part is the part I'm built for. I wasn't filling the position so much as defining it, by finding the work nobody had named yet.
+
+Here is the skill underneath that, put as plainly as I can, because it took me years to believe it was a skill at all. I notice the gap between how a system is supposed to work and how the people inside it have quietly adapted to survive it. Almost nobody announces that gap. They rarely say a process is broken. They say something else, and once you learn to hear it, it's everywhere.
+
+> That's just how we do it.
+>
+> I'll take care of it.
+>
+> It always falls through the cracks.
+>
+> Can you just...
+>
+> I've got it.
+
+I hear every one of those as a symptom. Each is a spot where a person has absorbed a flaw so smoothly that the flaw went invisible, to them and to everyone above them. "I've got it" usually means a system doesn't, and a human being is holding the gap together with their own two hands. "That's just how we do it" is the sound a workaround makes once it has run long enough to pass for a decision. I connect those signals the way chapter two described, the red string finding the pattern, and what the pattern shows me is almost always the real job, the one that was never written down because no one could see it needed doing.
+
+For a long time I assumed everyone saw these things and was choosing not to bother. That turned out to be wrong, and learning why it was wrong is part of chapter two's story. What matters in a chapter about starting is the piece that follows from it. You cannot be ready for a role that hasn't been defined, because there's no standard to be ready against yet. The admin seat, and every undefined seat after it, could only be started unready. Their definitions came after I arrived, built out of the unnamed work I found once I was inside. Willing was the only qualification the situation could ask for.
 
 ## Willing is the word
 
@@ -83,6 +103,8 @@ The admin seat became a career I could not have planned from the platform, and i
 ## Draft notes (not part of the chapter)
 
 **Register audit (against the chapter-03 model):** reversal constructions used twice, both at thesis moments ("I was not ready. What I was, was willing." and "Readiness is not the prerequisite. Willingness is."); the pattern-versus-people moment in the freeze section was deliberately rewritten to avoid a third. Single-sentence paragraphs: one ("Being unready and being unwilling are not the same."). No em dashes, no "actually," no announced honesty, no faith content. Section landings kept to one per section.
+
+**Verified (round 4 reflection, now in "The work nobody named"):** she is repeatedly hired into undefined roles (no clear owner, system, or map) and defines them by uncovering unnamed work; her strength is noticing the gap between how a system is supposed to work and how people have quietly adapted to survive it; the symptom-phrases she hears as signals ("that's just how we do it," "I'll take care of it," "it always falls through the cracks," "can you just...," "I've got it"); for a long time she assumed everyone saw these things and chose not to bother, then realized the perception wasn't universal (ties to ch2). OPEN: the origin-scene question ("when did you first realize you were seeing something others genuinely weren't") is unanswered; it is the candidate true cold open for this chapter.
 
 **Verified (from interviews and the how-she-thinks material):** the admin-seat framing exactly as Jena requires it: she went in seeing an opportunity that might open the door to more, used her strengths on the work she enjoyed and did it very well, never pretended at what she wasn't good at or didn't enjoy, was transparent about the work that made her feel empowered, and excelled. No "proved myself in two weeks" framing anywhere. The freeze as the enemy; control mistaken for progress; output is progress. "I'd rather a test flop than never launch." The site she designed and co-built in under a month while another team spent six months not launching one (criticism aimed at the pattern, per her instruction). The AI belief: start before you have a use case, the tool shows you the use cases; her real starting points were grammar checks and reformatting emails, and it compounded. The signature line "Being unready and being unwilling are not the same."
 
