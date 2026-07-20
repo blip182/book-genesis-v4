@@ -1,6 +1,8 @@
 # Chapter 2 · Know Your Core
 
-*Draft v1, written to the register of the approved Chapter 3 (v3). Beats 2.1 through 2.7 followed in order. Nothing is final until Jena signs off. Invented texture flagged in the draft notes at the bottom.*
+*Draft v2. v1 written to the chapter-03 register model; v2 adds the "Make the invisible visible" section (round 4): the translation insight (growth came from translating her thinking, not thinking harder; externalizing the crime board via diagrams, docs, presentations so others could see and contribute). Verified from Jena's round-4 reflection. Earlier note preserved below.*
+
+*Draft v1 note, written to the register of the approved Chapter 3 (v3). Beats 2.1 through 2.7 followed in order. Nothing is final until Jena signs off. Invented texture flagged in the draft notes at the bottom.*
 
 ---
 
@@ -62,7 +64,19 @@ Everything after the pour, though, belongs to the builder. Surveying the foundat
 
 Both halves of that have to be held at once, because each one rescues the other from a lie. The half that says nobody chooses their foundation would have rescued me from the years I spent trying to sand mine into something more standard, which is what masking costs when it overstays its usefulness: all that energy spent hiding the ground instead of building on it. And the half that says the building belongs to the builder keeps the whole frame from curdling into an excuse. "This is just how I'm built" is a survey report, and a survey report was never a building plan. My wiring explains how I work. It doesn't excuse what I build with it, and I have never asked it to.
 
-In practice, amplifying my core meant I stopped arranging my life to compensate for the wiring and started arranging it to use the wiring. I went toward work that needed the crime board and away from work that needed me to put the string away. I quit apologizing for directness and started telling people up front what they could expect from me, which turns out to be the thing directness is for. Later in this book there's a story about a role I walked into underqualified on paper, and the reason it went the way it went is already on this page: I was transparent from the first day about which work made me feel strong, and I let that be what I was known for. Seeing your core clearly is half of knowing it. Building around it on purpose is the other half, and the tool that closes this chapter starts you on both.
+In practice, amplifying my core meant I stopped arranging my life to compensate for the wiring and started arranging it to use the wiring. I went toward work that needed the crime board and away from work that needed me to put the string away. I quit apologizing for directness and started telling people up front what they could expect from me, which turns out to be the thing directness is for. Later in this book there's a story about a role I walked into underqualified on paper, and the reason it went the way it went is already on this page: I was transparent from the first day about which work made me feel strong, and I let that be what I was known for.
+
+## Make the invisible visible
+
+There's a second half to amplifying a core, and it took me longer to learn than the first, because the first half felt like permission and this one felt like work. For a long time the crime board only lived in my head. I could see the endgame, the whole system standing finished, before I could explain the first step of how I got there, because the seeing ran faster than I could put it into words. So I'd hand people the conclusion and skip the wall of red string that led me to it. And when someone questioned the conclusion, I took it personally, as doubt, as a quiet vote against my judgment, and it stung every time it happened.
+
+It took me too long to hear what those questions were really saying. The people asking them could not see what I saw. Their minds ran information along a different route than mine, and mine had a habit of skipping ten steps out loud and landing on the answer while everyone else was still standing at the first one. Neither route was the better one. They were waiting for a map I had never bothered to draw, because inside my own head I had never needed one.
+
+So I started drawing it. Diagrams, documentation, a real presentation when the thing was big enough to warrant one, whatever it took to get the board out of my skull and onto a surface other people could stand in front of. Once the strategy was visible, people followed it. They argued with it, improved it, carried pieces of it I could never have carried alone. The same move worked in creative rooms, where someone would describe an idea they couldn't quite reach and I'd translate it into something they could see, and the fuzzy picture would snap into focus in front of them. They got clarity. I got trust. Both came out of the same act.
+
+Here is the part I want you to keep, because it cost me years to find and you shouldn't have to pay the same. I spent a long time believing that leading better meant thinking better, seeing more, moving faster. The lever was somewhere else entirely. It was in translation, in the ordinary work of getting what lived in my head onto a surface other people could use. The wiring was there the whole time. The habit of making it visible is what I built, and it is the reason the crime board finally got to leave my head and do something in the world. Amplifying a core is partly aiming it at the right work. The other half, the one almost nobody warns you about, is building the translation layer that lets everyone else see what you have been seeing alone.
+
+Seeing your core clearly is where knowing it begins. Building around it on purpose, and building the bridge that lets other people stand on it with you, is the rest, and the tool that closes this chapter starts you on all of it.
 
 ## The Fit Audit, layer one
 

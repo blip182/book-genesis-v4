@@ -1,6 +1,8 @@
 # Chapter 5 · Learn What's Yours
 
-*Draft v1. Written to the book register set by the approved Chapter 3 draft. The equipment scene, the skill filter, and the day-trading story come from the round 3 interviews; invented texture is flagged in the draft notes at the bottom. Nothing is final until Jena signs off.*
+*Draft v2. v1 written to the chapter-03 register model; v2 adds "The board in the world" (round 4): vibe-coding/automation as the joy filter's YES, the crime board built into reality, and the ball-field-with-laptop scene (verified, near-verbatim from Jena; deliberately echoes the ch3 baseball-photography motif). Earlier note preserved below.*
+
+*Draft v1 note. Written to the book register set by the approved Chapter 3 draft. The equipment scene, the skill filter, and the day-trading story come from the round 3 interviews; invented texture is flagged in the draft notes at the bottom. Nothing is final until Jena signs off.*
 
 ---
 
@@ -55,6 +57,12 @@ I say this as someone who loves tools, builds with them, and will spend a chapte
 It matters more now than it ever has, and the reason is worth one paragraph of your time. Polish used to be expensive. A clean edit, a well-structured document, a professional-sounding plan: each of those took skill to produce, so each one worked as proof of skill. That signal is gone. Polish now costs nothing, which means polish now proves nothing, and the substance underneath is what's scarce. A tool multiplies what you bring to it, and anything multiplied by zero is still zero. When I hand my film clients a cut today, the tools in my workflow are better than anything I started with, and the reason the cut works is still the judgment I built one project at a time: knowing what to leave out, knowing why a moment lands, knowing what to ask my own tools for.
 
 Which is why the order of my sentence is load-bearing. I can learn comes first. Buy me the equipment comes second. Reverse them and you have a purchase where an ability should be, and a bet with nothing behind it. Anyone can hold the equipment. The learning is the part that was never for sale.
+
+## The board in the world
+
+The clearest yes this filter ever handed me is one I'm living right now. The same crime-board wiring from chapter two, the pattern-seeing I spent years filing under too much, has pulled me lately into automation and coding, and learning to build that way has done something I didn't see coming. For most of my life the systems I could see stayed trapped where I saw them, elaborate and invisible, running only inside my head. Now I can build them. I can take the board off the wall in my mind and stand it up in the world, where it finally does more than keep me company.
+
+If you saw me at my son's ball game with my laptop open and Claude Code ripping through a build between innings, you'd probably file me under a woman who can't leave her work alone. What you'd miss is that I'm playing. It's the most creative I feel all week, closer to making art than closing tickets, building tools that turn an idea I've been carrying into something I can hand to a person. That is joy paying out in the currency I keep my books in, which is exactly why the next story, the one where the same filter says no, is worth your time.
 
 ## The ROI of my joy
 
