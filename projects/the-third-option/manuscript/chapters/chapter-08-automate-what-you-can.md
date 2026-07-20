@@ -109,4 +109,4 @@ That question needs instruments of its own, and they're next.
 
 **Anchor:** one [ANCHOR SLOT] left open in The Free Rung for decision fatigue research. No citations fabricated.
 
-**Word count:** ~3,270 body words against the ~4,000 beat target, inside the 3,200 to 4,000 draft window. Remaining mass belongs to her real details once texture is verified or corrected.
+**Word count:** ~3,270 body words against the ~4,000 beat target, inside the 3,200 to 4,000 draft window. Remaining mass belongs to her real details once texture is verified or corrected: real email-system specifics, real wardrobe entries in her words, the true school-community scene, and the actual schedule that failed and how she countered it.
