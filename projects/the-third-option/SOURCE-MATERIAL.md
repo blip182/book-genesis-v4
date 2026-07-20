@@ -20,6 +20,12 @@ A line Jena uses constantly: she connects strategy, creativity, and operations. 
 Jena lived Choose, Build, Own for years before she had words for it. "If you don't like it, change it." Never just accepted answers or failure. The naming came later, as language wrapped around a pattern that was already there. The intro (or Chapter 1) can open with the method in the wild and let the naming arrive later, which keeps the book honest: this isn't a theory she invented at a desk.
 *Proves: the method is descriptive of a real life first, prescriptive second.*
 
+**Jena's own waiting season (round 4, now in the intro).** Her personal version of "waiting for the good part": she spent time doing things because she was good at them, even when she didn't enjoy them. She never liked people's cookie-cutter life, and it kind of made her a black sheep. The realization she came to: life isn't meant for us to fall in line if we don't want to.
+*Proves: makes "I've been where you're standing" real and specific. The "good at it but didn't love it" trap is a subtler, more relatable waiting than "job you hate," and connects to ch5 (joy ROI) and ch2 (masks/core).*
+
+**Her worldview / the conviction under the method (round 4, secularized for the intro).** Near her words: we were each born with a unique gift and it's our responsibility to utilize that gift and make an impact; our struggles were never meant to be silent and our growth is meant to be shared with community; it's not about being the best or being on top; life is meant to be lived intentionally and with purpose; that purpose doesn't look the same for everyone.
+*Use: the emotional heart under the never-prescribe rule. RENDER SECULAR (faith stays off-center per hard-nos): "born with a gift" → "shows up with something that's ours"; keep "not about being best/on top," "live deliberately," "purpose differs for everyone." The "struggles not silent / growth shared with community" line is the most faith-adjacent; the book already enacts it (keeping the failure in the text) so it's used lightly, not preached.*
+
 **"This story doesn't have to be for a hustler."**
 Jena's framing, near verbatim and probably intro material: this is a story about a hustler and a competitor, because that's what she loves, so that's how the method shows up in her life. But the method serves whatever the reader loves instead. Hustle is what fits *her*. The method decides who defines winning, not what winning is.
 *Proves: prescribe the method, never the life.*
