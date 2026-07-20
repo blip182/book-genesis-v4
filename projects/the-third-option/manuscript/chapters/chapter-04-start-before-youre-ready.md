@@ -4,7 +4,7 @@
 
 ---
 
-Years ago, I took an admin seat. Calendars, phones, intake paperwork, the schedule everyone depends on and nobody thinks about until it breaks. If you had laid my ambitions next to that job description, the two would not have matched, and I knew it when I said yes. I said yes anyway, because a description only tells you the tasks, and I was more interested in the room the tasks came with.
+I picked up an admin position as a side gig, hoping it would turn into more. Calendars, emails, documentation. On paper it sat well under what I was after, and I knew that when I took it. I took it anyway, because I had the opportunity in front of me and I don't turn down opportunity. I take it, and then I make it into something.
 
 I walked in seeing an opportunity that might open a door to more. I could not have told you which door, or what the more would turn out to be. The version of this story where I had it all mapped in advance would be a tidier story and a false one. What I had was a seat inside an operation I wanted to understand, a set of strengths I trusted, and a suspicion that the strengths would find work to do there if I let them.
 

@@ -87,6 +87,8 @@ Temperament note for the chapter's voice: the cycle-breaking isn't rebellion for
 
 ### Chapter 4 · Start Before You're Ready
 
+**The admin seat, corrected details (round 5, her raw telling).** NOT "years ago." She picked up the admin position as a SIDE GIG, hoping it would turn into more. Duties: calendars, emails, documentation (not phones/intake-paperwork). Why she took it: she had the opportunity and didn't say no; she takes opportunity and makes it into something. VOICE NOTE: her raw register is plain and declarative, short true statements, no literary flourish ("in hopes to become more," "I had opportunity and just didn't say no"). Match that, not my prose.
+
 **The admin seat, told right.** Jena's framing, which replaces any "proved myself in two weeks" version: she went in thinking this was an opportunity that might open the door to more, then used her superpowers to do what she enjoyed very well. She never pretended to do things she wasn't good at or didn't enjoy. She was transparent about the work that made her feel empowered, and she was able to excel.
 *Proves: starting before you're ready doesn't mean faking readiness. Transparency about strengths IS the credibility play. Bridges Choose (she chose a door, not a destination) and Build.*
 
