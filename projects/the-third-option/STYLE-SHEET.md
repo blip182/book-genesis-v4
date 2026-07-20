@@ -77,6 +77,10 @@ Politics, abortion, LGBTQ topics, other religions, war. Pride in the military fa
 
 Never name or pointedly characterize a specific employer or client, especially the company she was hired to bring order to that "operated reactively." She still contracts with them. Keep all organizations generic and non-identifying. Name tensions and dynamics (operationalizing vs reacting, agency vs obligation), never the org behind them.
 
+## No manufactured epiphanies (hard, Jena round 4)
+
+Jena's realizations are cumulative and retrospective, not lightning strikes. She recognizes patterns in hindsight, usually once she has the language for them, and then acts. Never invent a single dramatic "aha" moment or origin scene for her; it reads as false and she will disown it. When a realization needs telling, tell it as reflection over time (the model: "there was no single moment... it came later and slowly, once I had words to hang on the pattern"). This pairs with the lived-before-named theme and ch2's "none of this happened in one conversation."
+
 ## Health & hardship altitude (hard, Jena round 4)
 
 Clinical and mental-health specifics stay out of the book: no medication detail, no weight numbers or sizes, no lab/diagnosis detail, no medical-saga or injury-recovery arcs. These live in `private/` per her knowledge base and never appear in outward-facing output (the book and this repo both count). Hardship is rendered at strength altitude through ordinary, relatable texture (the punishing daily rhythm, appetite gone, going last), never through dramatic specifics. Rule of thumb: if a detail makes the season more dramatic and less recognizable to an average reader, cut it. Gesture at depth once, non-clinically, and move on ("my health was going somewhere I did not let it look from the outside"). Never persist held clinical detail to a tracked file; a gitignored private note only, and only if Jena asks.

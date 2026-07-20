@@ -2,7 +2,7 @@
 ## How to Choose, Build, and Own a Life That Fits
 ### Draft 1 reading copy, Jena Crossland
 
-*Assembled 2026-07-20. Draft notes stripped out; see DRAFT1-what-needs-your-eyes.md for flags.*
+*Assembled 2026-07-20.*
 
 ---
 
@@ -446,7 +446,9 @@ Here is the skill underneath that, put as plainly as I can, because it took me y
 
 I hear every one of those as a symptom. Each is a spot where a person has absorbed a flaw so smoothly that the flaw went invisible, to them and to everyone above them. "I've got it" usually means a system doesn't, and a human being is holding the gap together with their own two hands. "That's just how we do it" is the sound a workaround makes once it has run long enough to pass for a decision. I connect those signals the way chapter two described, the red string finding the pattern, and what the pattern shows me is almost always the real job, the one that was never written down because no one could see it needed doing.
 
-For a long time I assumed everyone saw these things and was choosing not to bother. That turned out to be wrong, and learning why it was wrong is part of chapter two's story. What matters in a chapter about starting is the piece that follows from it. You cannot be ready for a role that hasn't been defined, because there's no standard to be ready against yet. The admin seat, and every undefined seat after it, could only be started unready. Their definitions came after I arrived, built out of the unnamed work I found once I was inside. Willing was the only qualification the situation could ask for.
+For a long time I assumed everyone saw these things and was choosing not to bother. That turned out to be wrong, and learning why is part of chapter two's story. The recognition that this was a skill came without any drama. There was no single moment where I caught myself seeing what others couldn't, and I won't manufacture one, because it came later and slowly, as a reflection, once I finally had words to hang on the pattern. Systems thinking. Creative problem solving. Terms I picked up long after I'd been doing the things they named, and the day I had them, a whole history of past conversations rearranged itself into one pattern instead of a hundred scattered instincts.
+
+The language did something practical, too. It let me advocate. You can't ask for more of the work that fits you until you can name what that work is, and once I could name it, I could negotiate for it, which is the same move this book has been building since the counter-offer. What matters in a chapter about starting is the piece that follows from all of it. You cannot be ready for a role that hasn't been defined, because there's no standard to be ready against yet. The admin seat, and every undefined seat after it, could only be started unready. Their definitions came after I arrived, built out of the unnamed work I found once I was inside. Willing was the only qualification the situation could ask for.
 
 ## Willing is the word
 
