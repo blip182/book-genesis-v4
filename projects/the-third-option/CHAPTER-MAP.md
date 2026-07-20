@@ -83,11 +83,11 @@
 
 **Mechanism:** The discovery process: follow genuine interest, learn the thing itself ("I can learn, buy me the equipment"), and let compounding do the rest. AI and any other tool extend what you know; they can't hand you knowledge you don't have. You can use tools to learn a skill; you can't use them to skip the learning.
 
-**Evidence:** GAP. The self-taught arc (ops, automation, analytics, AI systems) is the likely spine, but this chapter needs a dedicated interview round: the specific dig-in stories, what genuine interest felt like versus obligation, one non-career discovery story for breadth.
+**Evidence:** Sourced in round 3. The equipment-line scene (a film-work contract where she said invest in the equipment and give me a shot, and the projects keep coming). Her real skill filter: scout the use cases (online community, TikTok University), categorize it (self, family, work), check the category's capacity, place it by priority; "once you know yourself, it's just a late night conversation with yourself or a shower thought session." The day-trading story as the counterweight: fun, learnable, dropped because the return in joy wasn't there.
 
-**Named tool:** TBD after the interview.
+**Named tool (candidates):** the skill filter (scout, categorize, check capacity, place by priority) and "the ROI of my joy" as claimed language. Confirm at beats.
 
-**Pointers:** SOURCE-MATERIAL ch 5 (marked thin). Gaps list item 2. COMPS rule 7: this is a chapter where non-work evidence matters for the breadth promise.
+**Pointers:** SOURCE-MATERIAL ch 5 (now sourced). COMPS rule 7: the day-trading and hobby material carries the non-work breadth.
 
 ## Chapter 6 · The Messy Middle ← THESIS CHAPTER
 
@@ -125,11 +125,11 @@
 
 **Mechanism:** The maintenance loop: what runs on rhythm doesn't run on memory or motivation. Automate what you can ("if you want to do it all, you better automate what you can"), and for everything money can't buy, use the inputs everyone has: defaults, checklists, calendars, scripts, negotiated swaps. Automation is the free rung of the delegation ladder.
 
-**Evidence:** GAP, and the highest-value missing interview in the book. Needs: Jena's actual systems, concretely (weekly rhythms, automations, checkpoints, household logistics), and what slips first when they're neglected. Must include zero-budget, zero-authority versions of every tool.
+**Evidence:** Sourced in round 3. The email system (automated inbox and draft replies, because opening an email means owning its task). The wardrobe AI (outfits she loved, logged with why; on high-decision days she asks it to dress her): automation aimed at decision fatigue, not just time. The zero-budget rung: go-to recipes written out, one ideal Walmart grocery order kept ready to reorder on tired weeks. The school-community support structure (systems include people). Perfection released: a failed kids' schedule means restrategize, not failure.
 
-**Named tool:** TBD after the interview; this chapter probably carries two.
+**Named tool (candidates):** automate the friction, not the impressive (the email lesson); the reorder principle for zero-budget defaults. Confirm at beats; the universality test passes on her own material now.
 
-**Pointers:** SOURCE-MATERIAL ch 8 (open). Gaps list item 3. COMPS Martell lesson 2 (the universality test: can someone with zero budget and zero direct reports run this?).
+**Pointers:** SOURCE-MATERIAL ch 8 (now sourced). COMPS Martell lesson 2 satisfied with real examples.
 
 ## Chapter 9 · Keep the Momentum
 
@@ -137,11 +137,11 @@
 
 **Mechanism:** The momentum loop: evaluate against what you actually wanted, adjust, keep moving. Owning includes owning your growth edges out loud; the author's own current edges (delegation, trusting others' execution, setting limits earlier) appear as live work, not conquered territory. This is where persistence over perfection matures into a practice instead of a war story.
 
-**Evidence:** The evolution story (career focus changed multiple times; hobbies from Chinese medicine to fashion to tech to photography and back), proving momentum is measured against priorities, not consistency of subject matter: the life allows exploration and recreation, and self-discovery doesn't end. Growth edges are already sourced at the honesty level she's approved. REMAINING GAP: her concrete momentum practices, and one story of a system she revised because the data said so.
+**Evidence:** The evolution story (career focus changed multiple times; hobbies from Chinese medicine to fashion to tech to photography and back), proving momentum is measured against priorities, not consistency of subject matter: the life allows exploration and recreation, and self-discovery doesn't end. Growth edges are already sourced at the honesty level she's approved. Momentum practices sourced in round 3: the warning-light list (tired, irritable, less connected with Austin, rushing bedtime routines for a task list, joy-roles turning into chores, loved calls feeling like too much) that flags priorities out of whack and triggers a sit-down to rethink the structure; journaling and self-reflection as the engine; day trading as the revised-by-evidence story.
 
-**Named tool:** TBD. Part Three closes by adding the Own layer to the Fit Audit (the maintenance check).
+**Named tool (candidate):** the warning-light list, reader-built: name your own early signals tied to what you value most. Part Three closes by adding the Own layer to the Fit Audit (the maintenance check).
 
-**Pointers:** SOURCE-MATERIAL ch 9 (open). Gaps list item 4. Hard-no check: no pretending she has it all figured out; this chapter is structurally protected from that by design.
+**Pointers:** SOURCE-MATERIAL ch 9 (now sourced). Hard-no check: no pretending she has it all figured out; this chapter is structurally protected from that by design.
 
 ---
 

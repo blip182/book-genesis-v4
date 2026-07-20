@@ -56,6 +56,10 @@ Temperament note for the chapter's voice: the cycle-breaking isn't rebellion for
 *Proves: choose what fits is active negotiation, not passive acceptance. Also the origin of the book's language. Candidate for the chapter's anchor scene.*
 
 **The counter-offer mechanism (concrete).** In a contracting role, when someone offers something, don't just say yes or no. Take time, look it over, think it over, then respond with what you COULD do and when.
+
+**Her real pause phrasing (round 3, verified):** "okay thank you for your time, i will sit down and process this over the weekend and come back to you on monday." She gives herself a date, and the date is real.
+
+**Photography counter, verified (round 3):** instead of taking time from something else, she started shooting at her son's baseball games. She didn't miss anything, and he thought it was cool to see what she captured later. The counter found the passion a seat inside the life she was already living, additive rather than subtractive.
 *Proves: the mechanism at kitchen-table scale. Teachable in one paragraph. LinkedIn writing has more examples of how she talks about this (pull samples at drafting time).*
 
 **The self-directed counter (Jena, beat-sheet review).** The counter-offer also runs on your own opportunities, not just offers from other people. Her example: "I like this hobby but it doesn't work with my schedule. That doesn't mean give it up, it means make it into something that does work." Same three moves, nobody across the table. This widens the mechanism beyond negotiation-with-others and protects the chapter from reading as career advice.
@@ -75,7 +79,14 @@ Temperament note for the chapter's voice: the cycle-breaking isn't rebellion for
 
 ### Chapter 5 · Learn What's Yours
 
-*(Thin so far. The self-taught arc, ops to automation to AI systems, and "I can learn, buy me the equipment" likely live here. Needs an interview round.)*
+**The equipment line, the real scene (round 3).** A company she contracted with wanted to pay someone outside to do film work. She saw two things at once: a skill she could learn and budget she could save them. So she said: invest in the equipment and give me a shot. They did. They've kept sending her projects since, and she improves every time.
+*Proves: "I can learn, buy me the equipment" is a real negotiation that happened, not a slogan. Also proves the counter-offer and the learning mechanism are the same muscle.*
+
+**How she evaluates a new skill (round 3, near-verbatim process).** Seeing something she doesn't know how to do doesn't automatically make her want to learn it. "I'm perfectly fine saying I'm not an expert at everything. But I enjoy learning." The process: start small, join an online community or hit "TikTok University" to see the use cases. Then think about how the skill shows up in her life and give it a category: self, family, work. Then evaluate the category: is there room for something new, and at what capacity could it work? Then it fits in based on priority. Her framing of the effort level: "this doesn't have to be complicated. once you know yourself, it's just a late night conversation with yourself or a shower thought session."
+*Proves: learning what's yours is a filter, not an appetite. The chapter's mechanism now has real steps: see it, scout it, categorize it, check capacity, place it by priority.*
+
+**The joy ROI test (round 3).** She got into day trading. It was fun, she started learning it, but it was time-consuming and she didn't care enough to invest her time in it over other things. Near verbatim: "i didnt see the roi... not as currency but like the roi of my joy."
+*Proves: quitting a learnable thing is a valid outcome of the filter. "The ROI of my joy" is candidate claimed language for this chapter. Also serves ch 9 as a revised-by-evidence story.*
 
 ### Chapter 6 · The Messy Middle (THESIS CHAPTER)
 
@@ -101,14 +112,35 @@ Temperament note for the chapter's voice: the cycle-breaking isn't rebellion for
 
 ### Chapter 8 · Automate What You Can
 
-*(Open. Interview question outstanding: what are the actual systems that keep the life aligned, concretely, and what slips first when they're neglected? Jena's operator background makes this her most differentiated chapter. Needs a dedicated round.)*
+**The email system (round 3).** She hates emails because opening one means owning the task inside it. So she automated the inbox and automated draft replies. The system absorbs the obligation spike; she reviews and sends instead of drafting from zero.
+*Proves: automate the thing that costs you the most emotional friction, not the thing that looks most impressive.*
+
+**The wardrobe AI (round 3, signature story).** She built an AI project about her wardrobe: when she wore something she really liked, she added the outfit and described why (comfort, made her feel editorial, etc.). On days with too many decisions, she asks it to dress her. Automation aimed directly at decision fatigue.
+*Proves: automation is for protecting decision capacity, not just saving time. Also a disarming, non-corporate example that makes AI feel domestic and reachable.*
+
+**The zero-budget rung (round 3).** Reducing decisions without AI: writing out the go-to recipes; building one ideal grocery order in the Walmart app so a tired week is just "reorder this order." Her framing: "you don't have to be technical or have a budget to use ai to help you automate things with your life."
+*Proves: the free rung of the ladder is real and hers, not hypothetical. This is the universality answer the comp research demanded.*
+
+**The support-structure system (round 3).** She found a community that supports the type of school she wants for her kids. Systems include people and communities, not just software.
+*Proves: Own-stage systems extend beyond automation into deliberately chosen support structures.*
+
+**Perfection released, work-in-progress accepted (round 3).** She slowly let go of perfection: if a new schedule with the kids fails, that doesn't mean she failed. It means she needs to restrategize.
+*Proves: systems are drafts too. Cross-serves ch 6 (persistence over perfection) and ch 9 (restrategizing as momentum).*
 
 ### Chapter 9 · Keep the Momentum
 
 **The evolution story (Jena, beat-sheet review).** Her career focus has changed multiple times. Her hobbies have run from Chinese medicine to fashion to tech to photography and back. Near verbatim: "that's okay bc the way I build my life allows for exploration and recreation. self discovery doesn't end. this cycle repeats and that's where keep the momentum comes in." Momentum is not staying on one path; it's the life staying in motion while the paths change. A life built right has exploration designed into it, so changing focus isn't starting over and isn't failure.
 *Proves: momentum is measured against your priorities, not against consistency of subject matter. Directly de-stigmatizes the reader's own zigzag history.*
 
-*(Still needed from interviews: her concrete momentum practices, and one story of a system she revised because the data said so. Growth edges, delegation, pacing, and limits are already sourced.)*
+**The warning lights (round 3, the momentum practice).** She reevaluates when the signals fire: tired, irritable, feeling less connected with Austin. When she notices she's rushing the kids' bedtime routines because of a task list. When mom things that usually bring her joy start feeling like a chore. When responding to friends or answering family calls feels like too much, even though she genuinely enjoys those things. "That flags me that my priorities have gotten out of whack and it's time for me to sit and rethink the structure."
+*Proves: the momentum check isn't a spreadsheet, it's instrumented self-awareness: named early-warning signals tied to what she values most (presence, connection, joy in the roles she chose). The reader can build their own warning-light list. This is the chapter's tool.*
+
+**Journaling and self-reflection as the engine (round 3).** A lot of her personal discovery and knowing which areas need rework comes from self-reflection and journaling.
+*Proves: the momentum loop runs on cheap, universal inputs. Pairs with the ch 5 line about the late-night conversation with yourself.*
+
+**Revised-by-evidence story:** day trading (filed under ch 5, the joy ROI test) doubles here: fun, learnable, and dropped because the evidence said the ROI of joy wasn't there.
+
+*(Remaining gap: none blocking. Growth edges, delegation, pacing, and limits already sourced.)*
 
 ---
 
@@ -126,10 +158,9 @@ Jena plans 2 to 3 later books on where the method has shown up in: her faith, he
 
 ## Gaps list (what drafting still needs)
 
-1. Part One beat sheet (exists in a separate doc, awaiting upload).
-2. Chapter 5 material: the self-taught discovery arc.
-3. Chapter 8 material: the concrete systems. Highest-value missing interview.
-4. Chapter 9 material: momentum practices and growth edges.
-5. A possible second loop story for the closing chapter.
-6. Outside anchors: 1 to 2 per chapter, to be curated at drafting time.
-7. More real writing samples (LinkedIn posts, Catching Myself posts) to sharpen voice calibration.
+1. Chapter 3 remaining texture: the volunteer/holiday/friendship counter examples (keep composites or replace with real versions), "the daily call" line, and the kitchen-table-after-bedtime degree image.
+2. Chapter 4: nothing blocking, but a second worked example of transparent starting would strengthen it.
+3. Outside anchors: 1 to 2 per chapter, to be curated at drafting time.
+4. More real writing samples (LinkedIn posts, Catching Myself posts) to sharpen voice calibration.
+
+*(Resolved in round 3: ch 5 material, ch 8 material, ch 9 practices, the second loop story, and Part One beats built from scratch.)*
