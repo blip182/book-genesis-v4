@@ -101,6 +101,13 @@ Temperament note for the chapter's voice: the cycle-breaking isn't rebellion for
 5. THEN capacity returned: she did hard things that had been weighing on her and reinvested in her health.
 *Proves: decide the priority, enforce the boundary, and only then does capacity return. The ordering is the mechanism. Echoes forward into Own.*
 
+**Agency vs obligation: the diagnosis under the messy middle (round 4, high value).** The deeper frame under the contracts season. She was repeatedly hired to create order in organizations that operated reactively, to operationalize instead of react. The tension she lived, and that the chapter should name explicitly: being capable enough to solve every problem and therefore tempted to absorb every problem herself. That is the exact line between agency and obligation. Agency chooses what to own and builds a system for it; obligation absorbs everything because it can. The messy middle was obligation winning, and the recovery sequence is agency taking the wheel back.
+*Proves: the recovery isn't just boundaries and self-care, it's a shift from obligation to agency. Names the tension a huge number of capable readers live: operationalizing vs reacting, and the trap of being good enough to catch everything.*
+
+**HARD CONSTRAINT (Jena, round 4):** do NOT name or boldly characterize the company that operated reactively. She still contracts with them and has told them the material is about them. Name the *tension* (operationalizing vs reacting, agency vs obligation) and never the org. Keep organizations generic ("organizations that operated reactively," "teams that ran on reaction") with no identifying detail.
+
+**Agency as a skill (round 4, candidate book-level thread).** Jena's point: most people don't fully understand what agency is, and she thinks agency-as-a-skill is genuinely meaningful and underexplored. This is also the book's UVP ("agency as an operating discipline, not a mindset"). Candidate to thread more explicitly: define agency plainly somewhere early (likely the intro), then let the agency-vs-obligation frame in ch 6 pay it off. Flag for the intro revision and a possible recurring through-line.
+
 ---
 
 ## Part Three · OWN

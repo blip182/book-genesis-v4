@@ -73,6 +73,10 @@ Naming policy lives in BOOK-BIBLE.md section 7. First names with light intros, "
 
 Politics, abortion, LGBTQ topics, other religions, war. Pride in the military family may be visible; opinions are not, and the door stays closed to others inserting theirs.
 
+## Named-org constraint (hard, Jena round 4)
+
+Never name or pointedly characterize a specific employer or client, especially the company she was hired to bring order to that "operated reactively." She still contracts with them. Keep all organizations generic and non-identifying. Name tensions and dynamics (operationalizing vs reacting, agency vs obligation), never the org behind them.
+
 ## The litmus test, book edition
 
 Read a passage back and ask: does this sound like a systems thinker who heard the reader, thought about it honestly, and told them what she actually thinks? Or like a self-help book performing a brand? If it's the second, strip it back. Less imitation, more inhabitation.
