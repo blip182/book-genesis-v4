@@ -1,6 +1,6 @@
 # Draft 1, What Needs Your Eyes
 
-*Per-chapter draft notes pulled out of the reading copy: invented texture to verify or correct, new-for-her phrasings to keep only if true, and anchor slots to fill.*
+*Per-chapter draft notes pulled out of the reading copy.*
 
 
 ## chapter-00-introduction
@@ -162,7 +162,9 @@
 ## chapter-06-the-messy-middle
 
 
-**Register self-audit:** reversal constructions: 2, both at thesis moments ("the mess was the cost of building, not a verdict on what I'd built" and "Capacity came back as a result of the enforcement, not as a prerequisite for it"). Single-sentence paragraphs: 1 ("That was not the trade I wanted."). "Actually": 0. Em dashes: 0. No faith content. Chapter-one (two doors) and chapter-three (currencies, holiday counter, "more to that story") callbacks are load-bearing on purpose; the thesis line appears once, unadorned.
+**Register self-audit (v2):** reversal constructions: 2, both at thesis moments (unchanged by the v2 insertion). Single-sentence paragraph: 1. "Actually": 0. Em dashes: 0. No faith content. The new "Agency and obligation" section uses "instead of" and parallel A/B contrast, not the banned "not X, it's Y" template.
+
+**Agency material (v2, round 4), verified vs constraint:** the operationalizing-vs-reacting framing and agency-vs-obligation diagnosis are from Jena's round-4 note. HARD CONSTRAINT HONORED: the company she brings order to is never named or characterized; organizations are kept generic ("teams stuck in a permanent present tense"). "Agency is a skill" stated plainly here per her note; candidate to also seed in the intro. Invented in this section: the specific "installs the system for a living" phrasing and the "calls the absorbing responsibility... so it feels like a virtue instead of a leak" line (keep only if true).
 
 **Verified (interviews / source material):** juggling multiple contracts was hard; she got overwhelmed and was not applying her own make-it-fit rule; hardly sleeping, not stopping to eat, not her best self; the realization that she was sacrificing her health and the way she was showing up for the people she cared about, and that this was not the trade she wanted. The recovery sequence and its order exactly as taught: (1) named the real priority, the way she shows up and her peace; (2) enforced it by cutting people who drained her energy and peace, having hard conversations about what people could expect from her, and advocating for herself in all the spaces of her life; (3) only then did capacity return, she did hard things that had been weighing on her and reinvested in her health. The thesis line verbatim: "I'm not perfect. I'm just willing to stick with things long enough to make it happen." The failed-kids-schedule-means-restrategize framing (sourced under ch 8, cross-served here per the map).
 

@@ -1,6 +1,6 @@
 # Chapter 6 · The Messy Middle
 
-*Draft v1, written against the approved chapter-03 register model. The contracts season facts and the recovery sequence, in its order, are sourced from interviews; invented texture is flagged in the draft notes at the bottom. Nothing is final until Jena signs off.*
+*Draft v2. v1 written against the approved chapter-03 register model; v2 weaves in the agency-vs-obligation frame (round 4): the operationalizing-vs-reacting context with the company kept generic per Jena's hard constraint, and a plain definition of agency as a skill. Invented texture flagged in the draft notes. Nothing is final until Jena signs off.*
 
 ---
 
@@ -15,6 +15,18 @@ Here is the part that took me longest to say out loud. I had a rule for this exa
 What I finally saw, when I stopped long enough to see anything, was the trade. I was paying for the season in two currencies: my health, and the way I was showing up for the people I care about. Everything else on the table I could have argued into acceptable. Those two were the exact things the whole life had been built to protect, and I was spending them down to keep the machine running.
 
 That was not the trade I wanted.
+
+## Agency and obligation
+
+Here is the part that still stings, because of what I do for a living. I get hired to bring order to places that run on reaction. Teams stuck in a permanent present tense, solving the same problem again and again because no one ever stops to build the thing that would solve it once. I walk in, I find the pattern, I build the system, and the reacting turns into something that runs on its own. That is the work I am good at, the work people pay me for, the reason I get called at all.
+
+In the season I just described, I was doing the reverse of that work inside my own life. Every day I operationalized someone else's chaos and then came home and reacted my way through my own, absorbing it by hand, one problem as it landed, building nothing to catch the next one. The person who installs the system for a living was running her household and her health on no system at all.
+
+It took me a long time to find the word for what I was doing, and the word turned out to matter more than almost anything else in this book. I was operating on obligation, and I had it confused with agency.
+
+They look identical from the outside. Both get the work done. Both are the behavior of a capable person under load. The whole difference sits underneath, in who is doing the deciding. Agency chooses what to own, on purpose, and builds something to carry it. Obligation just absorbs whatever arrives, because it can, and then calls the absorbing responsibility so it feels like a virtue instead of a leak. The trap is that you are good enough to get away with obligation for a long time. If you can catch everything, you will be handed everything, and being handed everything feels like being needed, and being needed feels close enough to enough that you can run on it for years, right up until the season I described arrives to collect.
+
+This is why I have come to think agency is a skill, and why so few people can name it. We are taught to admire whoever carries the most. Nobody sits you down and explains that carrying everything and choosing what to carry are two different acts, or that the first one will quietly eat the second if you let it. Agency is the discipline of deciding, on purpose and on repeat, what is truly yours to hold. Everything else you set down, or hand back, or build a system to absorb so it stops needing you. The recovery sequence in this chapter is that skill run at the worst possible moment. It is the story of how I put down what obligation had picked up, and got my hands back on the choosing.
 
 ## Persistence over perfection
 
@@ -84,7 +96,9 @@ Whatever comes out of your middle will have been paid for, and that changes what
 
 ## Draft notes (not part of the chapter)
 
-**Register self-audit:** reversal constructions: 2, both at thesis moments ("the mess was the cost of building, not a verdict on what I'd built" and "Capacity came back as a result of the enforcement, not as a prerequisite for it"). Single-sentence paragraphs: 1 ("That was not the trade I wanted."). "Actually": 0. Em dashes: 0. No faith content. Chapter-one (two doors) and chapter-three (currencies, holiday counter, "more to that story") callbacks are load-bearing on purpose; the thesis line appears once, unadorned.
+**Register self-audit (v2):** reversal constructions: 2, both at thesis moments (unchanged by the v2 insertion). Single-sentence paragraph: 1. "Actually": 0. Em dashes: 0. No faith content. The new "Agency and obligation" section uses "instead of" and parallel A/B contrast, not the banned "not X, it's Y" template.
+
+**Agency material (v2, round 4), verified vs constraint:** the operationalizing-vs-reacting framing and agency-vs-obligation diagnosis are from Jena's round-4 note. HARD CONSTRAINT HONORED: the company she brings order to is never named or characterized; organizations are kept generic ("teams stuck in a permanent present tense"). "Agency is a skill" stated plainly here per her note; candidate to also seed in the intro. Invented in this section: the specific "installs the system for a living" phrasing and the "calls the absorbing responsibility... so it feels like a virtue instead of a leak" line (keep only if true).
 
 **Verified (interviews / source material):** juggling multiple contracts was hard; she got overwhelmed and was not applying her own make-it-fit rule; hardly sleeping, not stopping to eat, not her best self; the realization that she was sacrificing her health and the way she was showing up for the people she cared about, and that this was not the trade she wanted. The recovery sequence and its order exactly as taught: (1) named the real priority, the way she shows up and her peace; (2) enforced it by cutting people who drained her energy and peace, having hard conversations about what people could expect from her, and advocating for herself in all the spaces of her life; (3) only then did capacity return, she did hard things that had been weighing on her and reinvested in her health. The thesis line verbatim: "I'm not perfect. I'm just willing to stick with things long enough to make it happen." The failed-kids-schedule-means-restrategize framing (sourced under ch 8, cross-served here per the map).
 
