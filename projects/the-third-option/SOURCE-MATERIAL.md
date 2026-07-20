@@ -130,6 +130,14 @@ Temperament note for the chapter's voice: the cycle-breaking isn't rebellion for
 ### Chapter 7 · Own What You Built
 
 **"I get to make up the competition."** Near verbatim, protect this: life now is not without struggle. This is a story about a hustler and a competitor. She will always be those things, because she loves it. She loves the pressure, the drive, the win. She's just decided that she gets to make up the competition. She competes against her past self. She wins when her life aligns with her priorities.
+
+**How she really competes with past self (round 4).** Not project turnaround times (correct the v1 invention). She competes on things she's invested in. Her real questions: Am I showing up where I want to? If I'm not, did I catch it earlier [than before]? Did I find the answer to the problem I wanted to solve faster and more efficiently? That efficiency/catching-earlier "feels good" to her; it's the win.
+
+**Her real owning/noticing practice (round 4, CRUCIAL, replaced the invented scheduled check).** She does NOT run a scheduled review. A scheduled one isn't right because her mind isn't in the right place for it; it needs to be authentic. She mostly runs off warning-light systems (see ch9), and she notices in the quiet: a drive without her kids, or a shower when she can't relax because she realizes she's overstimulated. Those moments prompt self-reflection. She usually has something that prompts self-reflection each week. Sometimes journaling, sometimes just a conversation with herself.
+*Structural: ch7 = own the scoreboard (define the win, the three self-competition questions); ch9 = the felt-signal/quiet-reflection maintenance practice. Appendix Own layer reconciled to match. The v1 "five-minute weekly alignment check" is removed everywhere.*
+
+**The real accountability story (round 4, replaced the invented "spring contract drift").** A contract where she was building a solution the client wasn't ready for. She realized it was pulling too much from her, and had to have vulnerable/transparent conversations she usually doesn't have (she tries to keep feelings out of things; this circumstance needed transparency and vulnerability). Her role was better for it.
+*Proves: owning what you built sometimes means the uncharacteristic soft/vulnerable conversation, not more effort. Echoes ch6 (name the cost, renegotiate) and ch4 (transparency), with a new vulnerability dimension.*
 *Proves: owning what you built means owning the scoreboard too. Candidate thesis line for Own, and it threads the never-prescribe rule.*
 
 ### Chapter 8 · Automate What You Can

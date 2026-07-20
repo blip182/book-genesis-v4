@@ -93,19 +93,19 @@ Write down your own early signals that the life is drifting from the list. Not g
 
 Yours will look different because your list is different. Three to five lights is enough. Write them where you'll see them, because a warning light you have to go looking for isn't a warning light.
 
-### The weekly alignment check
+### Keeping score
 
-Five minutes, once a week, same day each week if you can manage it. Three questions:
+First, your win sentence, in your own words: I win when ______. Then the three questions you compete on, with past you as the only opponent:
 
-1. Where did my time go this week?
-2. Where did my priorities say it should go?
-3. What one thing brings those two answers closer next week?
+1. Am I showing up where I said I wanted to?
+2. If I drifted, did I catch it earlier than I would have a year ago?
+3. Did I get to what I was trying to solve faster, and cleaner, than I used to?
 
-Answer from the calendar, not from memory. Some weeks the scoreboard says no, the time and the priorities didn't match. That is the system working, not the system failing. You caught a drift in a week instead of a year, and one honest no on paper is worth more than a month of unexamined fine.
+Don't put these on a timer. A scheduled review tends to catch you with your mind in the wrong place, and the answer comes out shaped by the reminder instead of the truth. Let the checking happen in your own quiet, wherever you can hear yourself, a drive alone, a shower, the still minutes after the house goes down. Once your warning lights are doing their job it will come around close to weekly on its own. Answer honestly, from the calendar and the camera roll rather than memory, and keep the answers, because a stack of them is the record you're racing. Some seasons the honest answer is no, the time and the priorities didn't match. That is the instrument working. You caught a drift while it was small.
 
 ### The sit-down
 
-When a warning light fires, or the weekly check says no more than a couple of weeks running, sit down and rethink the structure. Not your goals, and not your character. The structure. Journal it if that's your engine; it's mine. The questions are the ones you already know: which priority is going unfed, which commitment or system is starving it, and what counter-offer do I need to make, to someone else or to myself, so the structure feeds it again.
+When a warning light fires, or your honest check turns up a no more than a couple of times running, sit down and rethink the structure. Not your goals, and not your character. The structure. Journal it if that's your engine; it's mine. The questions are the ones you already know: which priority is going unfed, which commitment or system is starving it, and what counter-offer do I need to make, to someone else or to myself, so the structure feeds it again.
 
 The sit-down is the whole reason you instrumented the life in the first place. Take it without guilt; drifting is what lives do when nobody's watching, and you were watching.
 
@@ -131,6 +131,6 @@ Things you chose and built will stop fitting. The method expects that. When it h
 
 **Language written new for her, keep only if true:** "ask who built the hallway"; "a default is a decision you've stopped hearing yourself make" (variant of the flagged ch 3 line); "a warning light you have to go looking for isn't a warning light"; "drift is quiet and the audit isn't."
 
-**Design liberties flagged for review:** the alignment check's three questions are rendered concretely here (time went where / priorities said / one thing next week) though chapter 7 isn't drafted yet; the sit-down trigger "weekly check says no a couple of weeks running" is a proposed threshold, not sourced; cadence recommendations (seasonal criteria reread, once-or-twice-yearly full loop) are proposed, not from interviews.
+**Reconciled with ch7 v2 (round 4):** the Own layer now matches Jena's real practice, the win sentence plus her three self-competition questions (showing up where she wants, catching drift earlier, solving faster/cleaner), checked in the quiet rather than on a schedule (a scheduled review isn't authentic for her). The old "weekly alignment check, five minutes, same day" was removed to match ch7. Still proposed/not sourced: cadence recommendations (seasonal criteria reread, once-or-twice-yearly full loop).
 
 **Word count:** ~1,700 body words against the 1,500 to 2,000 target.
