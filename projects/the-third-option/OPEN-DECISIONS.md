@@ -6,7 +6,7 @@
 
 | # | Decision | Options | Notes |
 |---|---|---|---|
-| 1 | Loop chapter placement | Own closing chapter (current) vs folded into Own | The contracts season already does double duty as a loop story. If a second distinct re-run story doesn't surface, folding becomes more attractive. |
+| 1 | Loop chapter placement | Own closing chapter (current) vs folded into Own | A second distinct loop story now exists (the evolution story: hobbies and career focus cycling by design). With two loop stories and the crisis/by-design contrast, the standalone closing chapter has its own material and my lean is now firmly standalone. Close this decision at Part Three beats. |
 | 2 | Rhythm | 3×3 (current) vs a fourth chapter in any part with more to say | Own is Jena's most differentiated territory; watch whether Part Three wants a fourth chapter once Chapter 8 material lands. |
 | 3 | Beat-sheet grain | Confirm Part One's depth, then expand Build and Own the same way | Part One beats are the next build. |
 

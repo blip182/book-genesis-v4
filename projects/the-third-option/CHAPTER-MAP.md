@@ -137,7 +137,7 @@
 
 **Mechanism:** The momentum loop: evaluate against what you actually wanted, adjust, keep moving. Owning includes owning your growth edges out loud; the author's own current edges (delegation, trusting others' execution, setting limits earlier) appear as live work, not conquered territory. This is where persistence over perfection matures into a practice instead of a war story.
 
-**Evidence:** GAP: needs an interview round on real momentum practices and at least one story of a system she revised because the data said so. Growth edges are already sourced at the honesty level she's approved.
+**Evidence:** The evolution story (career focus changed multiple times; hobbies from Chinese medicine to fashion to tech to photography and back), proving momentum is measured against priorities, not consistency of subject matter: the life allows exploration and recreation, and self-discovery doesn't end. Growth edges are already sourced at the honesty level she's approved. REMAINING GAP: her concrete momentum practices, and one story of a system she revised because the data said so.
 
 **Named tool:** TBD. Part Three closes by adding the Own layer to the Fit Audit (the maintenance check).
 
@@ -151,7 +151,7 @@
 
 **Mechanism:** The loop re-runs: things you chose and built will stop fitting, and that's the method working, not failing. Choose again, build again, own again, each time faster because the core is known and the systems exist.
 
-**Evidence:** The contracts season revisited briefly as a completed loop (chosen, built, stopped fitting, chosen again). Open question: whether a second, distinct re-run story surfaces in interviews so the close doesn't lean entirely on Chapter 6's material. Ends facing the reader: their loop, their first run.
+**Evidence:** Two loop stories, two faces of the same mechanism. The contracts season revisited briefly as the loop under crisis (chosen, built, stopped fitting, chosen again). The evolution story as the loop by design (hobbies and career focus cycling freely because the life has exploration built in; self-discovery doesn't end). Ends facing the reader: their loop, their first run.
 
 **Pointers:** SOURCE-MATERIAL closing section. Open decision #1 (standalone closing chapter vs folded into Own) stays open until we see whether a second loop story exists; my lean is standalone, because "run the loop" is the method's re-run claim and deserves its own landing.
 

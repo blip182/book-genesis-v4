@@ -105,13 +105,16 @@ Temperament note for the chapter's voice: the cycle-breaking isn't rebellion for
 
 ### Chapter 9 · Keep the Momentum
 
-*(Open. Likely home for the growth edges she's public about: delegation, sustainable pacing, setting limits earlier. Needs an interview round.)*
+**The evolution story (Jena, beat-sheet review).** Her career focus has changed multiple times. Her hobbies have run from Chinese medicine to fashion to tech to photography and back. Near verbatim: "that's okay bc the way I build my life allows for exploration and recreation. self discovery doesn't end. this cycle repeats and that's where keep the momentum comes in." Momentum is not staying on one path; it's the life staying in motion while the paths change. A life built right has exploration designed into it, so changing focus isn't starting over and isn't failure.
+*Proves: momentum is measured against your priorities, not against consistency of subject matter. Directly de-stigmatizes the reader's own zigzag history.*
+
+*(Still needed from interviews: her concrete momentum practices, and one story of a system she revised because the data said so. Growth edges, delegation, pacing, and limits are already sourced.)*
 
 ---
 
 ## Closing · Run the Loop
 
-**The loop re-run, partial.** The contracts season doubles as a loop story: something she chose and built stopped fitting, and she chose again. Open question whether the book needs a second, distinct re-run story so the close doesn't lean entirely on Chapter 6's material.
+**The loop re-run, now two stories.** The contracts season is the loop under crisis: something she chose and built stopped fitting painfully, and she chose again. The evolution story (see Chapter 9) is the loop as designed: hobbies and career focus cycling from Chinese medicine to fashion to tech to photography and back, with no breakdown required, because the life was built with exploration in it. The closing chapter can now show both faces: the loop that rescues you and the loop you live in happily. This resolves the earlier worry about the close leaning entirely on Chapter 6's material.
 
 ---
 
