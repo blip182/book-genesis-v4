@@ -2,3 +2,4 @@
 # This project is intentionally version-controlled: the book must persist.
 !PROJECT_STATE.yaml
 !manuscript/
+!delivery/
