@@ -32,14 +32,18 @@ The formula still applies, in sequence: **Michelle's brain** (is this the actual
 5. **Strength-level framing only.** Neurodivergence and grit appear as she publicly owns them: the wiring as an edge it took years to see, real responsibility carried young. No clinical detail, no leading with trauma or diagnosis as identity, ever.
 6. **No fake authority.** One or two curated outside anchors per chapter, then the method carries it. Don't dress the book in research apparatus it doesn't need, and don't make claims the anchors can't hold.
 
-## Sustaining the voice at 4,500 words
+## The book register (hardened after the Chapter 3 v1 voice test)
 
-The professional voice is calibrated for post-length pieces. At chapter length:
+The professional voice is calibrated for post-length pieces. Imported straight into a chapter it reads as a LinkedIn post stretched to 4,500 words, which readers experience as AI-coded. Jena's verdict on v1, kept here as the standing warning: "the short punchy sentences, the 'it's x not y' or 'it's not x it's y', the lack of variation." The book is a book, not a feed. These rules are quantified on purpose.
 
-- **The teaching structure is the chapter architecture:** a framework for the thinker, a story for the feeler, a visual or path metaphor for the visual learner. A keynote needs all three; so does a chapter.
-- Paragraphs 2 to 4 sentences, with room to run longer when a thought needs it. Single-sentence lines are a landing device, not a default. At book length, staccato everywhere reads as exhausting instead of punchy. Spend the short line where it counts.
-- Build with longer sentences, land with a short one. Close sections on a challenge or a real question, not a bow.
-- Second person as direct address, not lecture. One reader, talked to, not an audience talked at.
+- **The contrast-reversal construction is rationed: at most 2 per chapter, spent only at true thesis moments.** This means every shape of it: "That's not X. That's Y." / "It's not about X, it's about Y." / "X isn't the problem. Y is." The pattern is simultaneously an AI tell and a LinkedIn tell, and it's the single fastest way to lose the philosophical register. Say what a thing IS and develop it; don't define everything by what it isn't.
+- **Single-sentence paragraphs and short landing lines: a handful per chapter, not per page.** They're a landing device. If more than one appears per section, the draft has reverted to feed cadence.
+- **No more than two consecutive short sentences except at a deliberate landing.** Audit drafts for cadence monotony by reading aloud; if the rhythm becomes predictable (build, build, punch; build, build, punch), break it.
+- **Ideas get developed, not declared.** The philosophical register follows a claim with exploration: why it's true, where it fails, what it costs, what it looked like from inside. A claim followed immediately by a punchline is a post; a claim followed by thinking is a book. Jena's own Catching Myself essays are the flow model (3 to 6 sentence paragraphs, thoughts worked out across a paragraph, sentences that run long when the thought does), applied here to secular content in the professional voice.
+- **Sentence length must vary visibly.** Long sentences with subordinate clauses are allowed and needed; they're how thinking-on-paper sounds. The short sentence regains its power only when it's rare.
+- Second person as direct address, not lecture, and not in every paragraph. One reader, talked to, with room to think between addresses.
+- **The teaching structure is the chapter architecture:** a framework for the thinker, a story for the feeler, a visual or path metaphor for the visual learner.
+- Close sections on a challenge or a real question, not a bow.
 - Metaphors come from systems, paths, and building. Not alchemy, not war, not sports cliché. (The gym stories are literal, not metaphor.)
 - Redefining lazy words on her own terms (success, readiness, decisiveness, efficiency, winning) is a signature move and scales well to chapter theses.
 

@@ -1,149 +1,103 @@
 # Chapter 3 · Choose What Fits
 
-*Draft v1, the voice test. Written to BEATS-PART-ONE.md. Nothing here is final until Jena signs off. Scene texture flagged for verification in the draft notes at the bottom.*
+*Draft v2, the voice test, rewritten in the book register after Jena's v1 verdict (LinkedIn cadence, AI-coded rhythm, reversal constructions everywhere). Same beats and facts as v1. Nothing is final until Jena signs off. Scene texture still flagged for verification in the draft notes at the bottom.*
 
 ---
 
-I was standing at my son's swim lessons when a friend redrew the map of my life.
+I was standing at my son's swim lessons when a friend redrew the map of my life, and neither of us knew it was happening. We were doing what parents do at swim lessons, half watching the water and half talking, raising our voices over the particular echo that lives in every indoor pool. My son was working on something in the shallow end. It was an ordinary Tuesday inside an ordinary season, which is worth remembering, because the moments that turn out to be load-bearing almost never announce themselves.
 
-She didn't know she was doing it. Neither did I. We were doing what parents do at swim lessons, half watching the water, half talking, raising our voices over the echo that every indoor pool seems to come with. My son was working on something in the shallow end. I was in the middle of an ordinary Tuesday inside an ordinary season.
-
-Somewhere in that conversation she said it. You should think about getting your MHA. You'd be good in consulting. And then, almost as a throwaway, the sentence that would follow me around for years.
+Somewhere in that conversation she told me I should think about getting my MHA, that I would be good in consulting, and then she added, almost as a throwaway, the sentence that would follow me around for years.
 
 Never say no to opportunity.
 
-I didn't write it down. I didn't have some cinematic moment where the pool went quiet and the light changed. I said something noncommittal, and we went back to watching the kids, and I drove home.
+I didn't write it down. There was no cinematic moment where the pool went quiet and the light changed. I said something noncommittal, we went back to watching the kids, and I drove home with the sentence riding along beside me, already starting its work.
 
-But the sentence rode home with me.
+It matters where I was standing in my life when I heard it. I had built my working life around my family on purpose, through careful and deliberate choices, and something was still missing that I couldn't name. I wasn't looking for a master's degree. I wasn't looking for consulting. If you had handed me a form that day asking what I wanted, I honestly don't know what I would have written. The advice arrived before the want did, and I've come to believe that's more common than anyone admits. We like to imagine that people discover what they want and then wait for an opportunity to match it. What actually happens, more often, is that an opportunity arrives shaped by someone else's guess at our lives, and what we want gets discovered inside the negotiation.
 
-Here's what you should know about where I was standing when I heard it. I had built my working life around my family on purpose. I'd been making careful, deliberate choices, and something was still missing, and I couldn't name it yet. I wasn't looking for a master's degree. I wasn't looking for consulting. If you had handed me a form that day asking what I wanted, I'm not sure what I would have written.
-
-Which is exactly why the advice mattered. It didn't tell me what to want. It told me what not to do at the moment an opportunity showed up. And it turns out that's a much more useful thing to be told.
-
-That sentence became the seed of everything this chapter teaches. But not in the form I received it.
+This chapter is about that negotiation.
 
 ## Advice is also an offer
 
-I didn't adopt that line. I renovated it.
+I didn't adopt her sentence. I renovated it, slowly, over months, the way you renovate anything you intend to live inside.
 
-For months I kept turning it over, and I kept snagging on the same edge. Taken straight, never say no to opportunity is dangerous. I don't think she meant it straight, but that's how a sentence like that gets used once it's living in your head. Taken straight, it means every request, every role, every project, every favor gets a yes, because saying no would be closing a door. I have lived that version. It's a fast track to a calendar that belongs to everyone but you.
+The line kept snagging on the same edge every time I turned it over. Taken straight, never say no to opportunity is dangerous, and I don't think she meant it straight, but advice rarely stays in the shape its giver intended once it's living in your head. Taken straight, it means every request, every role, every project and favor gets a yes, because a no would be a closed door, and doors must never close. I have lived inside that version of the sentence. I can tell you where it leads, which is to a calendar that belongs to everyone but you.
 
-So I rebuilt it, slowly, into something I could actually run my life on.
+So I kept working on the line until it said something I could actually run a life on. Don't just say no, but don't just say yes either. Take the thing you've been offered and change it, counter it, make it into something that fits your needs. The renovation looks small written down. Living it is another matter, because it rests on a belief about opportunities that almost nobody teaches, and it took me years to trust: every opportunity is an offer, and an offer is a draft.
 
-Don't just say no. But don't just say yes either. Change it. Counter it. Make it into something that fits your needs.
+Nobody else can see that it's a draft. An offer arrives looking finished. It has a scope, a timeline, an implied version of you who accepts all of it exactly as written, and it carries the same quiet authority as the maps from chapter one, drawn cleanly by someone who has never once seen your territory. The take-it-or-leave-it shape is mostly a formatting trick. Print anything cleanly enough and people will assume it's final.
 
-The shift is small to say and big to live. The original advice keeps you from slamming doors. The renovated version tells you what to do in the doorway. Because here's what I eventually understood, and it's the mechanism this whole chapter hangs on.
-
-Every opportunity is an offer. And an offer is a draft.
-
-Nobody else can see that it's a draft. The offer arrives looking finished. It has a shape, a scope, a timeline, an implied version of you who says yes to all of it as written. It sits on the table looking like the last map you were handed: two roads printed on it, accept or decline, and nothing in between.
-
-You already know from chapter one to ask who drew this map. This chapter is what you do next. You pick up the pen and you mark it up.
+You already know to ask who drew this map. What comes next is picking up the pen.
 
 ## The counter-offer
 
-The tool has three moves. Pause. Fit it. Counter.
+The tool has three moves, and I want to teach them in the setting where I learned them, which is contract work. Hold the setting loosely. The moves have nothing essential to do with employment, and before this chapter ends we'll leave the workplace entirely.
 
-I learned them in contract work, so that's where I'll show you first, but hold on to this: the moves have nothing to do with employment. We'll leave the workplace before the chapter is over.
+An offer comes in. Someone wants me for a project, and I want to work with them. The scope is bigger than I would choose, the timeline is tighter than my life can absorb, and the work itself is a mix, some of it squarely inside what I love and some of it squarely outside. The printed map shows the usual two roads: say yes as written and pay for it quietly every week the contract runs, or say no and lose the relationship, the income, and whatever doors this door might have opened. What I do instead has become so automatic that I sometimes forget it was ever a discipline.
 
-An offer comes in. Someone wants me for a project. The scope is bigger than what I'd choose, the timeline is tighter than what my life can absorb, and the work itself is a mix, some of it squarely in what I love, some of it squarely not.
+**Pause.** I don't answer, not because I'm playing games but because an honest answer doesn't exist yet. I say some version of: thank you for thinking of me, I want to give this a real look, and I'll come back to you by Thursday. In all my years of working this way, I can count on one hand the people who were bothered by that. A considered answer earns more respect than a fast one, even though everything about professional culture implies the opposite. I used to believe being decisive meant answering on the spot. I understand decisiveness differently now. It looks like forcing myself to reflect on my answer first, because some answers only come to light after you stay present with a question long enough to see what else is possible.
 
-The old menu of responses has two items on it. Say yes as written, and quietly pay for it every week the contract runs. Or say no, and lose the relationship, the income, the door that this door might have opened.
+**Fit it.** This is where the work you did in chapter two stops being a worksheet and starts earning its place in your life. You wrote a definition of fit. You named what has to be true about your pace, your people, your standards, your energy, and the things you won't trade. Now you hold the offer against that list, piece by piece, and you ask a colder question than whether you want it. You ask what it costs, and where it takes the cost from.
 
-Here's what I do instead.
+Money turns out to be the least interesting currency. An offer can cost evenings. It can cost the standard you hold your work to, because the timeline leaves no room to do it right, and doing it wrong is a price I've learned I can't actually afford. It can cost presence, which is the currency I watch most closely, because I know exactly who ends up paying when I overdraft it.
 
-**Pause.** I don't answer. Not because I'm playing games, but because an honest answer isn't available yet. I say some version of: thank you for thinking of me, I want to give this a real look, I'll come back to you Thursday. Almost nobody is offended by this. The pause costs less than you think it does. What people actually respect is a considered answer, and what they distrust, whether they can name it or not, is an instant one.
+Fitting an offer is not a search for perfect, since perfect isn't on the market and never was. What I'm really doing is sorting the offer into three piles: what works as written, what doesn't work as written but could, and what I won't do at any price. The middle pile is the interesting one. Most people go their whole lives without discovering it exists, because yes and no both skip right over it.
 
-Decisiveness gets confused with speed. I used to think being decisive meant answering on the spot. Now I think decisiveness looks like forcing myself to reflect before I answer. Some answers only show up after you've stayed with the question long enough to see what else is possible.
+**Counter.** Then I answer, and the answer is the version of the offer that fits. Here's what I could do, and when. I can take the strategy and the build, but not the ongoing maintenance. I can start in three weeks rather than Monday. I can deliver this scope by that date, or that scope by this one, and the choice between them is yours. Underneath every one of those sentences is the same posture, and the posture is the real tool: each one holds a door open and states a boundary in the same breath, generous and unmovable at once, no permission requested and no apology attached. You're stating what you can build, and you're letting the other person decide whether they want it built.
 
-**Fit it.** This is where the work from chapter two stops being a worksheet and starts being a tool. You wrote your definition of fit. You named what has to be true about your pace, your people, your standards, your energy, your non-negotiables. Now you hold the offer up against that list, piece by piece, and you ask a colder question than do I want this.
-
-What fits as it's written? What doesn't? And what would the parts that don't fit cost me, and where would they take it from?
-
-Cost is the honest word, and money is the least of it. An offer can cost you evenings. It can cost you the standard you hold your work to, because there isn't room to do it right. It can cost you presence, which is the currency I watch closest, because I know exactly who ends up paying when I overdraft it.
-
-When I fit an offer, I'm not looking for perfect. Perfect isn't on the market. I'm sorting the offer into three piles: what works as written, what doesn't work as written but could, and what I won't do at any price. That middle pile is the whole game. Most people never find out it exists, because yes and no both skip it.
-
-**Counter.** Now I answer, and the answer is neither yes nor no. It's the version of the offer that fits.
-
-Here's what I could do, and when.
-
-I can take the strategy and the build, but not the ongoing maintenance. I can start in three weeks, not Monday. I can deliver this scope by that date, or that scope by this one, and you can pick. I'd structure my part around the work I'm strongest in, and here's who I'd suggest for the rest.
-
-Read those again and notice what they have in common. Every one of them is a door held open. Every one of them is also a boundary. That's the whole posture of the counter-offer: generous and unmovable at the same time. You're not asking permission to have needs. You're stating what you can build, and you're letting the other person decide if they want it built.
-
-Most of the time, in my experience, they do. The counter gets accepted, or it starts a real conversation that lands somewhere workable. And when it doesn't, when someone needs the exact shape they printed or nothing, that's not a loss. That's data. You just found out the offer was never going to fit, and you found out before it cost you a year.
+Most of the time, in my experience, they do. The counter gets accepted, or it opens a real conversation that lands somewhere workable, and the working relationship tends to come out stronger for having met the real me at the table instead of the agreeable one. Sometimes the answer is no, the offer was the offer after all. I've learned to receive that calmly, as information. It means the fit was never available, and I found out in a week instead of a year.
 
 [ANCHOR SLOT: one outside citation here, negotiation or decision science, to be curated together at drafting review.]
 
 ## The two doors, pocket-sized
 
-I want to be honest about why I hold this tool so tightly, because I didn't learn it from a book.
+I hold this tool tightly, and I want to be honest about why. I didn't learn it from a book. I learned it from both of my own failure modes.
 
-I have had seasons of saying yes to everything. They never announce themselves. Each yes is reasonable on its own. This one is a favor for someone I love. That one is a door I'd be foolish to close. The next one is small, barely anything, an hour a week. And then one day you look at your calendar and you can't find yourself anywhere on it. You built a schedule out of other people's drafts.
+I have had seasons of saying yes to everything, and what I remember most about them is that no single yes felt like a mistake. Each one was reasonable in the moment it was made. A favor for someone I love. A door it would have been foolish to close. A small commitment, barely an hour a week. The arithmetic of a lost calendar is done entirely in reasonable little numbers, and then one day you look at the week in front of you and you can't find yourself anywhere in it. Every block of time belongs to a promise, and none of the promises were made to you.
 
-And I know exactly what comes next, because I've lived that too. The swing. The season of wanting to say no to everything, burn the list, guard every hour, let every door close just to feel the quiet. It presents itself as wisdom, as boundaries, as finally learning your lesson.
+I also know the swing that follows, because I've lived that too. After enough overloaded seasons you start wanting to say no to everything, guard every hour, let doors close just to hear the quiet on the other side. It presents itself as wisdom, as boundaries, as finally learning your lesson, and for a while it even feels like healing. But look at the shape of it honestly. Yes to everything and no to everything are the same posture wearing different clothes. In both, the offer decides and you react. The question of what would actually fit never gets asked in either one.
 
-Look at the shape of it, though. Yes to everything and no to everything are the same move. Both of them are answers straight off a drawn map. Both of them let the offer, or the fear of the offer, decide for you. Neither one ever asks what would fit.
-
-One of those yes seasons cost me far more than my calendar, and I'll tell that story properly later in this book. For now I'll just say the counter-offer isn't a productivity trick to me. It's the thing that stands between me and the two doors, every single week.
-
-The counter is the third option at the scale of a single Tuesday. Not the life-sized version, not the dramatic one. Just one offer on the table, one pause, one honest fitting, one answer that's actually yours. The third option isn't only a way to change your life. It's a way to answer your phone.
+One of those yes seasons cost me considerably more than my calendar, and I'll tell that story properly in the middle of this book, where it belongs. For now it's enough to say that the counter-offer is, for me, the discipline standing between me and my own two doors, and I run it every week, on offers large enough to reshape a year and small enough to reshape a Tuesday. The third option isn't only a way to change a life. Some weeks it's just the way you answer your phone.
 
 ## Counter-offering a life
 
-Now let's leave the workplace, because the biggest offers on your table didn't come from a client.
+Now let's leave the workplace, because the biggest offers on your table were never sent by a client.
 
-The volunteer role. Someone asks you to run the thing this year, and the version they're offering is twelve hours a week of a job you'd love at three. The two-door answer is to take it and disappear from your own evenings, or decline it and carry the guilt. The counter is: I can't run it, but I can own the schedule and the setup, and I'm your person every Saturday morning. Same three moves. Pause, fit it, counter.
+Someone asks you to run the volunteer thing this year, and the version they're offering is twelve hours a week of a job you would genuinely love at three. The map gives you the usual two roads, take it and disappear from your own evenings or decline it and carry the guilt all season. A counter might sound like: I can't run it, but I can own the schedule and the setup, and I'm yours every Saturday morning. The same three moves apply that applied to the contract. Pause before answering. Hold it against your list. Offer the version you could actually give.
 
-The holiday. The expectation arrives every year in the same shape: everyone, everywhere, the whole production, because that's how it's always been drawn. You can comply and resent it quietly, opt out and detonate it loudly, or counter it. This year we'll come for the day but not the week. We'll host, but smaller. We'll trade the big gathering for three real visits. I'm not going to pretend those conversations are comfortable. I'll tell you they're shorter than a decade of resentment.
+The holiday expectation arrives every year in the same shape, everyone, everywhere, the whole production, because that's the way it has always been drawn. Complying quietly and detonating loudly are both available, and both cost more than they appear to. The counter is a harder conversation and a much shorter one. This year we'll come for the day but not the week. We'll host, but smaller. We'll trade the one big gathering for three real visits. I won't pretend those sentences are comfortable to say out loud to people you love. I'll only point out that a decade of quiet resentment takes considerably longer.
 
-The friendship that wants a version of you that costs too much right now. The counter there might be the hardest one in this book, and it might not use words at all. It might just be the shape of what you offer: I can't be the daily call anymore, and I can still be the person who shows up when it matters.
+And there's the friendship that wants a version of you that costs too much right now, where the counter may be the hardest one in this book, and may not use words at all. Sometimes it's simply the shape of what you offer: no longer the daily call, still the person who shows up when it matters.
 
-Those are my counters, from my life, run against my list. Yours will look different, and they should. I'm not handing you my answers. I'm handing you the move.
+Those are my counters, drawn from my life and run against my list, which is exactly why you shouldn't copy them. What fits me was never the point. The move is the point, and the move is yours now.
 
-And then there's the offer almost nobody thinks to counter. The one you made to yourself.
+Then there's the offer almost nobody thinks to counter, the one you made to yourself. I love things that don't fit my schedule. I have picked up a camera in seasons that had no room for a camera, and the two-door voice arrived right on time, in both of its costumes. Be realistic, said the first door, you don't have time for this, put it down. Force it in anyway, said the second, and let something that matters quietly pay for it. It took me longer than I'd like to admit to notice that the hobby was an offer too, and that I was allowed to negotiate with myself the same way I negotiate with a client. The version of photography that fits this season might be twenty minutes on a Sunday, or one shoot a month, or turning the camera on the exact life that's keeping me busy. Shrinking something to fit the season is how a passion survives it. The alternative was never keeping it whole. The alternative was mourning it.
 
-I love things that don't fit my schedule. I have picked up a camera in seasons when there was no room for a camera. And the two-door voice shows up right on time: be realistic, you don't have time for this, put it down. Or the other door, just as familiar: force it in anyway and let something real pay for it.
-
-The hobby that doesn't work with your schedule isn't a keep-or-quit decision. It's a draft. Counter it. The version of photography that fits this season might be twenty minutes on a Sunday, or one shoot a month, or photographing the exact life that's keeping you busy. That's not settling. That's making it into something that works, which is the entire skill this chapter exists to teach.
-
-Nobody is across the table. The moves are identical.
+Nobody sits across the table in that negotiation, and the moves don't change.
 
 ## Run it once, for real
 
-Before you leave this chapter, I want you to run the tool one time on something live. Not a hypothetical. Something currently sitting on your table, asked or offered or assumed, that you have not actually answered yet. If nothing's pending, use a standing commitment, something you say yes to every week by default.
+Before you leave this chapter, I'd like you to run the tool once on something real. Not a hypothetical, and not an example of mine. Something currently sitting on your table, asked or offered or assumed, that you haven't actually answered yet. If nothing is pending, take a standing commitment instead, something you say yes to every week by default, because a default is just an offer you stopped noticing.
 
-Get it in front of you and go through the sequence you've now built across three chapters.
+Walk it through the sequence you've built across these three chapters. Start with the chapter one question: who drew this map? Look at the take-it-or-leave-it shape the thing arrived in and ask whether that shape is real or just printed. Then bring out your list from chapter two and hold the thing against it honestly, on paper rather than in your head, because your head will round every number in whatever direction it's currently biased. Sort what you find into the three piles. Then make the three moves. Decide what the pause looks like and take it, even if it's only overnight. Do the fitting. And write the counter in a single sentence: here's what I could do, and when.
 
-First, the chapter one question. Who drew this map? Look at the way the choice is framed, the take-it-or-leave-it shape of it, and ask whether that shape is real or just printed.
-
-Second, your list from chapter two. Hold the thing against your own definition of fit. Pace, people, standards, energy, non-negotiables. Sort it into the three piles: fits as written, could fit if changed, won't fit at any price.
-
-Third, the three moves. Decide what the pause looks like and take it, even if the pause is only overnight. Do the fitting on paper, not in your head, because your head will round things in whatever direction it's currently biased. Then write the counter in one sentence: here's what I could do, and when.
-
-You don't have to send it. Sending it is a decision you get to make after you can see it. But write it, because something changes the first time you watch a take-it-or-leave-it turn into a draft in your own handwriting. You stop being the person the offer happens to. You become the person holding the pen.
-
-That page is yours now. It's the first working piece of the audit you'll finish building by the end of this book, and it's repeatable on everything. New offers, old commitments, opportunities you're handing yourself. One page, three steps, any Tuesday.
+You don't have to send it. Sending is a separate decision, and you'll make it better once you can see the counter in your own handwriting. But write it, because something changes the first time you watch a take-it-or-leave-it become a draft on your own page, and I don't know a way to get that feeling from reading about it. That page is the first working piece of an audit you'll finish building by the end of this book, and it works on everything. New offers. Old commitments. The opportunities you hand yourself.
 
 ## The door is not the house
 
-I need to tell you what choosing can't do, because this is where a lot of capable people get stranded, and nobody warns them.
+There's one more thing choosing needs you to know about itself, which is what it can't do.
 
-Choosing opens a door. That's all it does. The MHA conversation at that pool opened a door I'm still grateful for, and walking through it built nothing by itself. The degree still had to be earned at a kitchen table after bedtime. The work still had to be learned, and then done, and then done better. A chosen path is not a paved one.
+Choosing opens a door, and that is the whole of its job. The conversation at that pool opened a door I'm still grateful for, and it built nothing on its own. The degree still had to be earned at a kitchen table after bedtime. The work still had to be learned, and then done, and then done better than the time before. A chosen path is not yet a paved one, and the next part of this book is about the paving, which begins in the least comfortable place there is: before you feel ready.
 
-The next part of this book is about building, and I'll be honest with you now so it doesn't surprise you later. It starts in the most uncomfortable place there is, which is before you feel ready.
-
-Good. That's the only place anything starts.
+Good. Nothing has ever started anywhere else.
 
 ---
 
 ## Draft notes (not part of the chapter)
 
-**Scene texture invented and needing Jena's verify or correct:** the indoor pool echo and shallow end details; "I'll come back to you Thursday" as her actual pause phrasing; the specific counter-offer phrasings in the Counter section; the volunteer, holiday, and friendship counter examples (drawn as plausible composites, not from interviews); photography as the hobby example and its specific fitted versions (twenty minutes on a Sunday etc.); "the daily call" friendship line; the MHA degree earned "at a kitchen table after bedtime."
+**What changed from v1 (register):** reversal constructions cut from roughly a dozen to two deliberate ones ("The third option isn't only a way to change a life" and the door/house distinction the section title carries); single-sentence paragraphs cut to three; sentence length now varies, with long thinking sentences allowed to run; claims are followed by development instead of punchlines; direct address thinned so the reader has room to think between addresses. The flow model is her Catching Myself essays applied to secular content in the professional voice.
 
-**Deliberate choices to review:** the decisiveness-as-reflection passage adapts her real LinkedIn post language. "Presence is the currency I watch closest" is new language written for her; keep or cut. The chapter deliberately does not name the friend, per her decision. Chapter 6 is foreshadowed in exactly one sentence, per the beat sheet. The anchor slot is left unfilled rather than fake-cited.
+**Scene texture still invented and needing Jena's verify or correct:** indoor pool echo and shallow-end detail; "by Thursday" as her pause phrasing; the specific counter phrasings in the Counter move; the volunteer, holiday, and friendship examples (plausible composites, not from interviews); photography as the hobby and its fitted versions; "the daily call" line; the kitchen-table-after-bedtime degree image.
 
-**Style compliance:** no em dashes; no forbidden framings or closers; one-sentence landings spent at section ends; second person as address; metaphors held to maps, paths, drafts, building.
+**Language written new for her, keep only if true:** "presence is the currency I watch most closely"; "a default is just an offer you stopped noticing"; "the arithmetic of a lost calendar is done entirely in reasonable little numbers."
 
-**Word count:** ~2,900 body words against a 4,500 target. Short on purpose for v1: the missing mass is mostly in beats 3.1 (scene texture needs her real details), 3.3 (a second worked example once phrasing is verified), and 3.5 (one more domain if she wants it). Better to grow it with true material than pad it with invented specifics.
+**Word count:** ~3,100 body words against the 4,500 target. Still short on purpose: the remaining mass belongs to her real details (scene texture, verified phrasings, possibly one more worked example in the Counter section).
