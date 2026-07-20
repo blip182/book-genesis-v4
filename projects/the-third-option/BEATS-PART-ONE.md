@@ -50,15 +50,15 @@
 ## Chapter 3 · Choose What Fits ← TEST CHAPTER
 
 **Promise:** Yes and no are not your only answers. Almost nothing is take-it-or-leave-it.
-**Mechanism:** The counter-offer. Never a raw yes, never a raw no: pause, price it, counter with what you could do and when. Choosing what fits is active negotiation with every opportunity, and the yes-to-everything and no-to-everything seasons are the two doors again, inside a single decision.
+**Mechanism:** The counter-offer. Never a raw yes, never a raw no: pause, fit it, counter with what you could do and when. Choosing what fits is active negotiation with every opportunity, and the yes-to-everything and no-to-everything seasons are the two doors again, inside a single decision.
 **Chapter metaphor:** the offer on the table. Nobody else can see that it's a draft.
-**Named tool (candidate, Jena to confirm):** the counter-offer rule, taught as three moves: pause, price it, counter.
+**Named tool (candidate, Jena to confirm):** the counter-offer rule, taught as three moves: pause, fit it, counter. ("Fit it" replaced "price it" per Jena: the money connotation was wrong; the middle move checks the offer against your Fit Audit criteria, and the counter is where you adapt it.)
 
 | # | Beat | ~Words | What happens | Carries it |
 |---|---|---|---|---|
 | 3.1 | Cold open: swim lessons | 700 | The scene. Standing at her son's swimming lessons, a friend tells her to consider the MHA, to go into consulting, and hands her the line: don't say no to opportunity. The scene stays small and real: pool noise, an offhand sentence that turns out to be load-bearing. The friend stays unnamed. | Swim-lessons naming scene (friend unnamed per Jena) |
 | 3.2 | Renovating the advice | 600 | She doesn't adopt the line; she rebuilds it over months. Don't say no becomes: you can change it, counter it, make it into something that fits your needs. Advice is also an offer, and offers are drafts. This beat is where the book's language gets born, and the text can say so. | Interview material; origin of the method's naming |
-| 3.3 | The counter-offer, taught | 900 | The mechanism in full, on the contracting example: an offer arrives; don't answer from the map (callback to ch 1). Pause: take the time you're allowed to take. Price it: against the Fit Audit criteria from ch 2, what does this cost in what currencies? Counter: respond with what you COULD do and when. Concrete before/after phrasing a reader can borrow tomorrow. ANCHOR SLOT: one negotiation or decision-science citation, lightly held. | Contract counter-offer example; LinkedIn material pulled at drafting |
+| 3.3 | The counter-offer, taught | 900 | The mechanism in full, on the contracting example: an offer arrives; don't answer from the map (callback to ch 1). Pause: take the time you're allowed to take. Fit it: hold it against the Fit Audit criteria from ch 2; what fits as offered, what doesn't, and what would it cost you where? Counter: adapt the offer, respond with what you COULD do and when. Concrete before/after phrasing a reader can borrow tomorrow. ANCHOR SLOT: one negotiation or decision-science citation, lightly held. | Contract counter-offer example; LinkedIn material pulled at drafting |
 | 3.4 | The two doors, pocket-sized | 700 | The honest beat: her yes-to-everything seasons, and the burnout math that made her want to say no to everything. Both are answers off the drawn map. The counter is the third option at the scale of a single Tuesday. No glamorizing the overload seasons; they cost her, and chapter 6 will show how much. | Overcorrection seasons; ch 6 foreshadow, one sentence only |
 | 3.5 | Counter-offering a life | 700 | Breadth beat: the counter applied where nobody thinks to apply it. The volunteer role you can't carry as offered. The holiday expectation that doesn't fit this year. The friend who wants a version of you that costs too much. Same three moves, no employer required. Own the stance, leave room: what she counters isn't what you should counter. | Reader-facing examples |
 | 3.6 | Fit Audit: the Choose layer closes | 600 | Part One's payoff. The reader runs one live opportunity or standing commitment through the full Choose layer: criteria (ch 2) plus the three moves (ch 3), with the who-drew-this-map question (ch 1) as the opener. One page, repeatable, theirs. | Fit Audit assembly; the three chapters click together visibly |
@@ -78,7 +78,7 @@
 ## Needs Jena's sign-off
 
 1. Beat order and word weights per chapter (anything feel over- or under-fed?).
-2. Tool names: "Who drew this map?" (ch 1) and "pause, price it, counter" (ch 3). Keep, rename, or replace with her phrasing.
+2. Tool names: "Who drew this map?" (ch 1) and "pause, fit it, counter" (ch 3). Keep, rename, or replace with her phrasing.
 3. The Fit Audit criteria categories in 2.6 (pace, people, standards, energy, non-negotiables): are these her words?
 4. Beat 3.2's claim that the swim-lessons renovation is where the method's language was born: accurate, or does she date it differently?
 5. The map/paths metaphor as chapter 1's home metaphor (replacing the menu): confirmed, or want alternatives?

@@ -55,7 +55,7 @@
 
 **Evidence:** The naming scene at swim lessons: a friend's "don't say no to opportunity" (friend unnamed per Jena), and the months of renovating that advice into her own mechanism. The contracting counter-offer, concrete. The overcorrection seasons, honest.
 
-**Named tool (candidate):** the counter-offer rule, possibly as a three-step ("pause, price it, counter"). Name TBD with Jena. Part One closes by adding the Choose layer to the Fit Audit.
+**Named tool (candidate):** the counter-offer rule as a three-step: pause, fit it, counter. Part One closes by adding the Choose layer to the Fit Audit.
 
 **Pointers:** SOURCE-MATERIAL ch 3. This is the recommended TEST CHAPTER: anchor scene, mechanism, and honest tension are all fully sourced. LinkedIn writing has more counter-offer material to pull at drafting.
 
