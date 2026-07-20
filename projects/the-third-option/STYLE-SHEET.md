@@ -21,6 +21,7 @@ The formula still applies, in sequence: **Michelle's brain** (is this the actual
 - No corporate jargon: leverage (as a verb), synergy, ecosystem, pivot, robust, unlock/unleash potential.
 - Banned phrases: "have it all," manifestation hand-waving, "queen" as filler.
 - No hedging that isn't earned. "I could be wrong" only when genuinely held.
+- **"Actually" only with precision, never as filler or intensifier** (Jena, Chapter 3 review). It must mark a true contrast with a stated expectation; if the sentence survives without it, cut it.
 - Honest over flattering, everywhere, including how the book talks to the reader.
 
 ## The book's own load-bearing rules

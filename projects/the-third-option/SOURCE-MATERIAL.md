@@ -52,7 +52,7 @@ Temperament note for the chapter's voice: the cycle-breaking isn't rebellion for
 
 ### Chapter 3 · Choose What Fits
 
-**The naming scene (swim lessons).** Standing at her son's swimming lessons, a friend (unnamed in the manuscript per Jena) told her to consider getting her MHA and going into consulting, and told her: don't say no to opportunity. Over the following months Jena renovated the advice into her own mechanism: don't say no, but you can change it, counter it, and make it into something that fits your needs.
+**The naming scene (swim lessons), corrected details from Jena.** The lessons were in the friend's backyard pool, outdoors, in the heat of a Tennessee July. The two of them were catching up on life while the kids practiced (both are very present moms; never imply divided attention). The friend (unnamed in the manuscript per Jena) told her to consider getting her MHA and going into consulting, and told her: don't say no to opportunity. THAT NIGHT Jena applied to grad school, the first move in a new pattern of life. There was no cinematic moment; the sentence started popping up in her head over the following weeks, and before she knew it she was making it her own. Over the following months Jena renovated the advice into her own mechanism: don't say no, but you can change it, counter it, and make it into something that fits your needs.
 *Proves: choose what fits is active negotiation, not passive acceptance. Also the origin of the book's language. Candidate for the chapter's anchor scene.*
 
 **The counter-offer mechanism (concrete).** In a contracting role, when someone offers something, don't just say yes or no. Take time, look it over, think it over, then respond with what you COULD do and when.

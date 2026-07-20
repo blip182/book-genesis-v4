@@ -1,24 +1,28 @@
 # Chapter 3 · Choose What Fits
 
-*Draft v2, the voice test, rewritten in the book register after Jena's v1 verdict (LinkedIn cadence, AI-coded rhythm, reversal constructions everywhere). Same beats and facts as v1. Nothing is final until Jena signs off. Scene texture still flagged for verification in the draft notes at the bottom.*
+*Draft v3. v2 rewrote v1 into the book register; v3 applies Jena's scene corrections (backyard pool, TN July, grad school applied that night, the sentence made her own over weeks) and the "actually with precision" rule. Nothing is final until Jena signs off. Remaining unverified texture flagged in the draft notes at the bottom.*
 
 ---
 
-I was standing at my son's swim lessons when a friend redrew the map of my life, and neither of us knew it was happening. We were doing what parents do at swim lessons, half watching the water and half talking, raising our voices over the particular echo that lives in every indoor pool. My son was working on something in the shallow end. It was an ordinary Tuesday inside an ordinary season, which is worth remembering, because the moments that turn out to be load-bearing almost never announce themselves.
+My son learned to swim in a friend's backyard pool, in the thick of a Tennessee July. Swim lessons were the official reason we were there. The unofficial reason was that she and I were trying to catch up on life, the way you do in a season when catching up takes scheduling, trading the real updates while the kids practiced and the heat pressed down on all of us.
 
-Somewhere in that conversation she told me I should think about getting my MHA, that I would be good in consulting, and then she added, almost as a throwaway, the sentence that would follow me around for years.
+Somewhere in that conversation she told me I should think about getting my MHA, that I would be good in consulting, and then she added, almost as a throwaway, a sentence I'd be carrying for years.
 
 Never say no to opportunity.
 
-I didn't write it down. There was no cinematic moment where the pool went quiet and the light changed. I said something noncommittal, we went back to watching the kids, and I drove home with the sentence riding along beside me, already starting its work.
+There was no cinematic moment. The water didn't go still and the light didn't change, and neither of us treated the sentence like it was made of anything special. We finished the lessons and I went home to the ordinary end of an ordinary day.
 
-It matters where I was standing in my life when I heard it. I had built my working life around my family on purpose, through careful and deliberate choices, and something was still missing that I couldn't name. I wasn't looking for a master's degree. I wasn't looking for consulting. If you had handed me a form that day asking what I wanted, I honestly don't know what I would have written. The advice arrived before the want did, and I've come to believe that's more common than anyone admits. We like to imagine that people discover what they want and then wait for an opportunity to match it. What actually happens, more often, is that an opportunity arrives shaped by someone else's guess at our lives, and what we want gets discovered inside the negotiation.
+And that night, I applied to grad school.
 
-This chapter is about that negotiation.
+I didn't know yet that it was the first move in a new pattern of life. I only knew a door had appeared where I hadn't been looking for one, and something in me refused to let it swing shut just because the want was still forming. It matters where I was standing when that door appeared. I had built my working life around my family on purpose, through careful and deliberate choices, and something was still missing that I couldn't name. I wasn't looking for a master's degree. I wasn't looking for consulting. If you had handed me a form that day asking what I wanted, I honestly don't know what I would have written. The opportunity arrived before the want did, and I've come to believe that's more common than anyone admits. We like to imagine that people discover what they want and then wait for an opportunity to match it. What happens instead, more often, is that an opportunity arrives shaped by someone else's guess at our lives, and what we want gets discovered inside the negotiation.
+
+The application was the door. The sentence turned out to be the longer gift. Over the next few weeks it kept popping up, when requests landed, when invitations came, when small decisions asked to be made, and before I knew it I was making it my own.
+
+This chapter is about what it became.
 
 ## Advice is also an offer
 
-I didn't adopt her sentence. I renovated it, slowly, over months, the way you renovate anything you intend to live inside.
+I didn't adopt her sentence. I renovated it, the way you renovate anything you intend to live inside.
 
 The line kept snagging on the same edge every time I turned it over. Taken straight, never say no to opportunity is dangerous, and I don't think she meant it straight, but advice rarely stays in the shape its giver intended once it's living in your head. Taken straight, it means every request, every role, every project and favor gets a yes, because a no would be a closed door, and doors must never close. I have lived inside that version of the sentence. I can tell you where it leads, which is to a calendar that belongs to everyone but you.
 
@@ -38,7 +42,7 @@ An offer comes in. Someone wants me for a project, and I want to work with them.
 
 **Fit it.** This is where the work you did in chapter two stops being a worksheet and starts earning its place in your life. You wrote a definition of fit. You named what has to be true about your pace, your people, your standards, your energy, and the things you won't trade. Now you hold the offer against that list, piece by piece, and you ask a colder question than whether you want it. You ask what it costs, and where it takes the cost from.
 
-Money turns out to be the least interesting currency. An offer can cost evenings. It can cost the standard you hold your work to, because the timeline leaves no room to do it right, and doing it wrong is a price I've learned I can't actually afford. It can cost presence, which is the currency I watch most closely, because I know exactly who ends up paying when I overdraft it.
+Money turns out to be the least interesting currency. An offer can cost evenings. It can cost the standard you hold your work to, because the timeline leaves no room to do it right, and doing it wrong is a price I've learned I can't afford. It can cost presence, which is the currency I watch most closely, because I know exactly who ends up paying when I overdraft it.
 
 Fitting an offer is not a search for perfect, since perfect isn't on the market and never was. What I'm really doing is sorting the offer into three piles: what works as written, what doesn't work as written but could, and what I won't do at any price. The middle pile is the interesting one. Most people go their whole lives without discovering it exists, because yes and no both skip right over it.
 
@@ -54,7 +58,7 @@ I hold this tool tightly, and I want to be honest about why. I didn't learn it f
 
 I have had seasons of saying yes to everything, and what I remember most about them is that no single yes felt like a mistake. Each one was reasonable in the moment it was made. A favor for someone I love. A door it would have been foolish to close. A small commitment, barely an hour a week. The arithmetic of a lost calendar is done entirely in reasonable little numbers, and then one day you look at the week in front of you and you can't find yourself anywhere in it. Every block of time belongs to a promise, and none of the promises were made to you.
 
-I also know the swing that follows, because I've lived that too. After enough overloaded seasons you start wanting to say no to everything, guard every hour, let doors close just to hear the quiet on the other side. It presents itself as wisdom, as boundaries, as finally learning your lesson, and for a while it even feels like healing. But look at the shape of it honestly. Yes to everything and no to everything are the same posture wearing different clothes. In both, the offer decides and you react. The question of what would actually fit never gets asked in either one.
+I also know the swing that follows, because I've lived that too. After enough overloaded seasons you start wanting to say no to everything, guard every hour, let doors close just to hear the quiet on the other side. It presents itself as wisdom, as boundaries, as finally learning your lesson, and for a while it even feels like healing. But look at the shape of it honestly. Yes to everything and no to everything are the same posture wearing different clothes. In both, the offer decides and you react. The question of what would fit never gets asked in either one.
 
 One of those yes seasons cost me considerably more than my calendar, and I'll tell that story properly in the middle of this book, where it belongs. For now it's enough to say that the counter-offer is, for me, the discipline standing between me and my own two doors, and I run it every week, on offers large enough to reshape a year and small enough to reshape a Tuesday. The third option isn't only a way to change a life. Some weeks it's just the way you answer your phone.
 
@@ -62,7 +66,7 @@ One of those yes seasons cost me considerably more than my calendar, and I'll te
 
 Now let's leave the workplace, because the biggest offers on your table were never sent by a client.
 
-Someone asks you to run the volunteer thing this year, and the version they're offering is twelve hours a week of a job you would genuinely love at three. The map gives you the usual two roads, take it and disappear from your own evenings or decline it and carry the guilt all season. A counter might sound like: I can't run it, but I can own the schedule and the setup, and I'm yours every Saturday morning. The same three moves apply that applied to the contract. Pause before answering. Hold it against your list. Offer the version you could actually give.
+Someone asks you to run the volunteer thing this year, and the version they're offering is twelve hours a week of a job you would genuinely love at three. The map gives you the usual two roads, take it and disappear from your own evenings or decline it and carry the guilt all season. A counter might sound like: I can't run it, but I can own the schedule and the setup, and I'm yours every Saturday morning. The same three moves apply that applied to the contract. Pause before answering. Hold it against your list. Offer the version you could give and mean.
 
 The holiday expectation arrives every year in the same shape, everyone, everywhere, the whole production, because that's the way it has always been drawn. Complying quietly and detonating loudly are both available, and both cost more than they appear to. The counter is a harder conversation and a much shorter one. This year we'll come for the day but not the week. We'll host, but smaller. We'll trade the one big gathering for three real visits. I won't pretend those sentences are comfortable to say out loud to people you love. I'll only point out that a decade of quiet resentment takes considerably longer.
 
@@ -76,7 +80,7 @@ Nobody sits across the table in that negotiation, and the moves don't change.
 
 ## Run it once, for real
 
-Before you leave this chapter, I'd like you to run the tool once on something real. Not a hypothetical, and not an example of mine. Something currently sitting on your table, asked or offered or assumed, that you haven't actually answered yet. If nothing is pending, take a standing commitment instead, something you say yes to every week by default, because a default is just an offer you stopped noticing.
+Before you leave this chapter, I'd like you to run the tool once on something real. Not a hypothetical, and not an example of mine. Something currently sitting on your table, asked or offered or assumed, that you haven't answered yet. If nothing is pending, take a standing commitment instead, something you say yes to every week by default, because a default is just an offer you stopped noticing.
 
 Walk it through the sequence you've built across these three chapters. Start with the chapter one question: who drew this map? Look at the take-it-or-leave-it shape the thing arrived in and ask whether that shape is real or just printed. Then bring out your list from chapter two and hold the thing against it honestly, on paper rather than in your head, because your head will round every number in whatever direction it's currently biased. Sort what you find into the three piles. Then make the three moves. Decide what the pause looks like and take it, even if it's only overnight. Do the fitting. And write the counter in a single sentence: here's what I could do, and when.
 
@@ -96,7 +100,9 @@ Good. Nothing has ever started anywhere else.
 
 **What changed from v1 (register):** reversal constructions cut from roughly a dozen to two deliberate ones ("The third option isn't only a way to change a life" and the door/house distinction the section title carries); single-sentence paragraphs cut to three; sentence length now varies, with long thinking sentences allowed to run; claims are followed by development instead of punchlines; direct address thinned so the reader has room to think between addresses. The flow model is her Catching Myself essays applied to secular content in the professional voice.
 
-**Scene texture still invented and needing Jena's verify or correct:** indoor pool echo and shallow-end detail; "by Thursday" as her pause phrasing; the specific counter phrasings in the Counter move; the volunteer, holiday, and friendship examples (plausible composites, not from interviews); photography as the hobby and its fitted versions; "the daily call" line; the kitchen-table-after-bedtime degree image.
+**Verified by Jena (v3):** the scene is her friend's backyard pool, outdoors, Tennessee July, catching up on life while the kids practiced; she applied to grad school that same night; the sentence resurfaced over the following weeks until she made it her own.
+
+**Still invented and needing Jena's verify or correct:** "by Thursday" as her pause phrasing; the specific counter phrasings in the Counter move; the volunteer, holiday, and friendship examples (plausible composites, not from interviews); photography as the hobby and its fitted versions; "the daily call" line; the kitchen-table-after-bedtime degree image.
 
 **Language written new for her, keep only if true:** "presence is the currency I watch most closely"; "a default is just an offer you stopped noticing"; "the arithmetic of a lost calendar is done entirely in reasonable little numbers."
 
