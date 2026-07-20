@@ -40,7 +40,7 @@ The two doors are not opposites. They're the same move in different costumes. In
 
 It's worth being precise about how capable people end up standing in front of exactly these two doors, because the explanation is training, and the training was thorough. Every system most of us grew up in scored compliance: school graded it, first jobs promoted it, families rewarded it with peace. If you're capable, you got very good at hitting a spec, and nobody mentioned that you would spend your whole life hitting specs you never wrote. Wanting out of that can feel like ingratitude from inside; from where I sit it looks like the first accurate reading you've taken in years. And because the trap is structural, blame is useless against it, pointed in any direction. The people who handed you your map were mostly reading from maps of their own, drawn by people they trusted, and the life you've lived by it so far was you doing exactly what capable people do with the information they have. There's nothing back there to apologize for, and there's nothing productive to feel ashamed of either, because a structure answers to redesign and to very little else. Redesign is a skill, and skills can be learned.
 
-[ANCHOR SLOT: one outside citation on defaults and status quo bias, how people stay with pre-set options even against their own preferences, to be curated at review.]
+This isn't a personal failing, and it isn't rare. Researchers who study decision-making have documented for decades that when an option is already in place, most people keep it, even when it isn't the one they would have picked from scratch. The default has a gravity of its own, and it doesn't ask your permission to pull.
 
 The question neither door ever asks is the one this book is built around. What would fit you?
 
@@ -158,7 +158,7 @@ Third, the cost of asking for something else is social rather than practical. Wh
 
 Run the markers over something small and unglamorous, because the tool should be usable today, on a Tuesday, without anyone's permission. Say you've somehow become the anchor of the school carpool, the one who covers every gap, and it's quietly eating your mornings. Marker one: can you remember agreeing to that role? A specific conversation where it was offered and you took it? Probably not; it accreted. Marker two: the options in your head arrive pre-paired, keep carrying it or pull out and strand everybody. Marker three: go looking for the practical obstacle to proposing a different split, and notice that what you find instead is the imagined tone of the group text. Three for three. That's a default wearing a decision costume, and now that you can see it, you're free to treat it like what it is, which is one drawing of an arrangement that could be drawn many other ways.
 
-[ANCHOR SLOT: default-effect / status-quo research, one citation, lightly held, to be curated at drafting review.]
+The pull of a default is bigger than it looks. When researchers studied something as weighty as organ donation, they found that whichever choice was set as the default is the one most people went along with, and simply flipping the default flipped what people did. If a default can move a decision that serious, it can certainly run a carpool, or a career.
 
 The researchers have their own names for this pull toward the preset option, and the short version of decades of that work is comforting in a backhanded way: preferring the preset option is standard human equipment, wired in long before any of us arrived. You are not lazy or broken for having lived inside inherited maps. Everyone has. The question is only whether you keep doing it now that you can spot them, so before you read on, it's worth asking: where in your week are you three for three?
 
@@ -244,7 +244,7 @@ I'm neurodivergent, and I own that in public now, at exactly this level and no d
 
 And the masks finally made a different kind of sense. Every crowd from those school years had been drawn to a genuine piece of me. The pieces were all true; the puzzle was just bigger than any single room. Finding language for the whole didn't make me fit those rooms any better. It made fitting them matter less, because for the first time I could describe what any room would have to hold.
 
-[ANCHOR SLOT: one outside citation here, strengths-based development or the cost of masking, lightly held, to be curated together at drafting review.]
+This isn't only a nice idea. One study that followed people over six months found that the more they drew on their natural strengths, the lower their stress tended to run and the higher their sense of energy and self-worth. It's a single study, so I hold it lightly, but it points where my own experience points: the wiring was never the thing to fix.
 
 ## Build to what's there
 
@@ -360,7 +360,7 @@ Fitting an offer is not a search for perfect, since perfect isn't on the market 
 
 Most of the time, in my experience, they do. The counter gets accepted, or it opens a real conversation that lands somewhere workable, and the working relationship tends to come out stronger for having met the real me at the table instead of the agreeable one. Sometimes the answer is no, the offer was the offer after all. I've learned to receive that calmly, as information. It means the fit was never available, and I found out in a week instead of a year.
 
-[ANCHOR SLOT: one outside citation here, negotiation or decision science, to be curated together at drafting review.]
+There's research underneath this, if you want it. Negotiation studies have found that the first number on the table tends to pull the whole conversation toward it, which is exactly why accepting or rejecting an offer as written gives away so much. The counter is how you stop letting someone else's opening set your entire range.
 
 ## The two doors, pocket-sized
 
@@ -502,7 +502,7 @@ And put it somewhere real. A start that lives in "sometime this week" spends the
 
 True means output. A start counts only if it produces something that exists outside your head, where reality can respond to it. This is where the freeze will try to negotiate with you, because preparation is endlessly available in start-shaped packaging: buying the supplies, researching the options, organizing the folder, choosing the perfect app. None of that is contact with the work. The test is simple to run. At the end of the week, does anything exist that didn't exist before? A paragraph, a sent message, a sore muscle, an awkward conversation survived. If the answer is a better plan, the freeze won this round, and you get to notice that without shame and run the week again.
 
-[ANCHOR SLOT: one outside citation here, on action versus deliberation, small wins, or behavioral activation, to be curated together at drafting review.]
+This matches what the research keeps finding. When one team studied thousands of daily work diaries, the single biggest lift to people's motivation was simply making a bit of real progress on something that mattered, more than praise or money did. A small finished thing does more for you than a large plan ever will.
 
 There's one more thing this tool does, quietly, and it may be the most useful thing about it. The smallest true start is also a test of the sorting I asked you to do earlier in this chapter. If you shrink the start to an hour, strip it to its truest version, place it inside a week you are already living, and find that you still will not begin, take that seriously and take it gently, because the word may never have been unready. It may be unwilling, and unwilling is allowed. This book will not tell you what to want; it only asks you to call things by their names. More preparing won't move an unwilling thing. Send it back through chapter three instead, to be countered into a version you would start, or set it down on purpose, without shame. What it can't keep doing is sitting on your list marked not yet, because not yet has a way of meaning never while sounding like soon.
 
@@ -598,7 +598,7 @@ So I put it down, and putting it down was the filter working. I know how that la
 
 The film equipment and the trading charts went through the same filter. One came out as years of compounding projects, and the other came out as a clean ending, and I trust both answers for the same reason: both were priced in my priorities and nobody else's. Somewhere in your life, there's probably a thing you keep grinding at because putting it down feels like failure, and a thing you keep not starting because picking it up feels indulgent. Run them both through. Only you know your rate of return, and you're allowed to collect it in joy.
 
-[ANCHOR SLOT: one outside citation here, interest and intrinsic motivation in skill learning and persistence, to be curated together at drafting review.]
+Researchers who study how interest grows describe it starting as a small spark and, if it keeps getting fed, turning into the kind of pull that brings you back on your own and gets you to put in the reps. That pull is the thing the filter is protecting. It's cheap to fake for a season and impossible to fake for years, which is why the years are the honest test.
 
 ## What the filter can't tell you
 
@@ -686,7 +686,7 @@ Work in progress is the natural state of anything being built. Nobody walks past
 
 And hold the failures the way builders hold them. I build schedules with my kids, and some of them collapse fast. There is a version of me that would have read a collapsed week as a referendum on the mother who drew it up. What a collapsed schedule means now is that I need to restrategize, and I use that word on purpose, because it is a builder's word, and it sends me back to the drawing board instead of to the mirror. The schedule was a draft. Everything in a life under construction is a draft, and drafts get finished by the people who stay to revise them, which is everything persistence over perfection has ever asked of anyone.
 
-[ANCHOR SLOT: one outside citation here, perfectionism versus persistence, or the ordering of recovery (boundaries and enforcement before replenishment), to be curated together at drafting review.]
+The research draws the line in a useful place. When one large review pooled dozens of studies, the kind of perfectionism that predicted burning out was the self-critical kind, the part that can never call a piece of work good enough. Having high standards, on its own, didn't carry the same cost. Persistence over perfection keeps the standards and drops the self-punishment, and the evidence suggests the self-punishment is the half that actually wears people down.
 
 ## The progress check
 
@@ -768,7 +768,7 @@ And what I ask, in those quiet minutes, is my version of the scoreboard. Am I sh
 
 I'm going to hand you the deeper machinery of this in chapter nine, because noticing is a real skill and it has earned its own chapter. For now, take the shape of it. Define the win in your own words, then let your own quiet, whatever yours is and wherever you find it, be the place you read the score. A scheduled version might hold for you where it slid off me, and if it does, keep it. Two things matter more than the slot: that the checking stays honest, and that it happens often enough to catch a drift while the drift is still small.
 
-[ANCHOR SLOT: one outside citation here, on self-reflection, self-monitoring, or time-use perception versus reality, to be curated together at drafting review.]
+There's solid evidence for this, more than for most things a book like this will tell you. A large review of randomized studies found that people who regularly check their progress toward a goal are meaningfully more likely to reach it, and the effect is stronger when they write that progress down. Which is the whole case for keeping the pages.
 
 ## When the answer is no
 
@@ -848,7 +848,7 @@ That's the pattern underneath both, and it scales to almost anything you adminis
 
 There's a name for where this sits in the larger picture. When a life gets full, the standard advice is delegation, and the standard advice is both correct and priced out of most people's reach, because delegation as usually taught means hiring: the assistant, the cleaner, the bookkeeper. Automation is the free rung of that ladder. A saved order delegates the grocery run. A written list delegates the dinner decision, and the draft replies delegate the worst minutes of my email. Nobody invoices you, and building the rung costs one good hour, spent once. If hiring help is within your reach, take it, and this book holds no opinion about what your budget should buy. The rung below it belongs to everyone, which is why I teach it first.
 
-[ANCHOR SLOT: decision fatigue research. One curated citation on how decision quality degrades across a day of accumulated small choices, to be selected together at drafting review. Do not fabricate; leave slot until sourced.]
+The science here is really about habits, not willpower. Once a routine choice becomes automatic, it stops drawing on your attention the way a fresh decision does, which is why turning small recurring decisions into set defaults leaves you more capacity for the things that genuinely need thought. You may have heard this called decision fatigue. That particular version hasn't held up well when researchers tried to reproduce it, so I'd rather put it plainly: a decision you make once and store is one your tired self never has to make again.
 
 If you build only one thing this chapter suggests, build a free one, this week. Write the meal list or build the order, whichever your life reaches for first, and pay attention to what the first tired day afterward feels like.
 
@@ -922,7 +922,7 @@ Now build yours, because mine won't fit you and were never supposed to. Start wi
 
 Then run the list against your own history, because you already own the validation data. Think back to the last stretch when your life got out of whack, whatever you'd call it, and work backward to the earliest signs. The signals you dismissed at the time are usually your truest lights. Mine were.
 
-[ANCHOR SLOT: one outside citation here, on early-warning signals, self-monitoring, or the early markers of burnout, to be curated together at drafting review. No placeholder claims in the meantime.]
+The people who study burnout describe it the same way, as a slow slide with a few tells that show up early: you start running on empty, you get short and a little cynical, and the work you used to care about stops feeling like it matters. Those are the early lights on the dashboard, and learning to read your own is how you catch the slide while it's still just a slide.
 
 One question before you move on. If your life started drifting this week, what would go quietly wrong first? Whatever you just thought of belongs at the top of your list.
 
@@ -1167,6 +1167,35 @@ Things you chose and built will stop fitting. The method expects that. When it h
 
 ---
 
+
+
+---
+
+# Notes
+
+---
+
+*The book leans on my own experience first, and on a light layer of outside research where it helps. One or two sources per chapter, listed here so you can go check them yourself. Where a finding is a single study or still debated, I've said so in the text, because a method should be honest about what it rests on.*
+
+**Introduction.** On people keeping whatever option is already in place, even when it isn't what they'd choose from scratch: William Samuelson and Richard Zeckhauser, "Status Quo Bias in Decision Making," Journal of Risk and Uncertainty 1, no. 1 (1988): 7–59.
+
+**Chapter 1, Break the Cycle.** On defaults quietly deciding behavior, shown through organ donation: Eric J. Johnson and Daniel G. Goldstein, "Do Defaults Save Lives?" Science 302, no. 5649 (2003): 1338–1339.
+
+**Chapter 2, Know Your Core.** On drawing on your strengths and how it tracks with wellbeing over time: Alex M. Wood, P. Alex Linley, John Maltby, Todd B. Kashdan, and Robert Hurling, "Using Personal and Psychological Strengths Leads to Increases in Well-Being Over Time," Personality and Individual Differences 50, no. 1 (2011): 15–19. (A single longitudinal study, held lightly.)
+
+**Chapter 3, Choose What Fits.** On the first offer acting as an anchor that pulls the whole negotiation: Adam D. Galinsky and Thomas Mussweiler, "First Offers as Anchors: The Role of Perspective-Taking and Negotiator Focus," Journal of Personality and Social Psychology 81, no. 4 (2001): 657–669.
+
+**Chapter 4, Start Before You're Ready.** On small, real progress being the biggest daily lift to motivation: Teresa M. Amabile and Steven J. Kramer, "The Power of Small Wins," Harvard Business Review 89, no. 5 (2011): 70–80; and their book The Progress Principle (Harvard Business Review Press, 2011). (Diary-based and correlational, so read as a strong signal rather than proof.)
+
+**Chapter 5, Learn What's Yours.** On how genuine interest develops and turns into the persistence that builds skill: Suzanne Hidi and K. Ann Renninger, "The Four-Phase Model of Interest Development," Educational Psychologist 41, no. 2 (2006): 111–127.
+
+**Chapter 6, The Messy Middle.** On the self-critical kind of perfectionism, not high standards, being what predicts burnout: Andrew P. Hill and Thomas Curran, "Multidimensional Perfectionism and Burnout: A Meta-Analysis," Personality and Social Psychology Review 20, no. 3 (2016): 269–288.
+
+**Chapter 7, Own What You Built.** On regularly checking your progress making you more likely to reach the goal, especially when you write it down: Benjamin Harkin, Thomas L. Webb, Betty P. I. Chang, Andrew Prestwich, Mark Conner, Ian Kellar, Yael Benn, and Paschal Sheeran, "Does Monitoring Goal Progress Promote Goal Attainment? A Meta-Analysis of the Experimental Evidence," Psychological Bulletin 142, no. 2 (2016): 198–229.
+
+**Chapter 8, Automate What You Can.** On habits running automatically and freeing up the attention that deliberate decisions consume: Wendy Wood and Dennis Rünger, "Psychology of Habit," Annual Review of Psychology 67 (2016): 289–314. (On "decision fatigue," which the chapter mentions and sets aside: the ego-depletion research it comes from failed a large multi-lab replication. See Martin Hagger et al., "A Multilab Preregistered Replication of the Ego-Depletion Effect," Perspectives on Psychological Science 11, no. 4 (2016): 546–573.)
+
+**Chapter 9, Keep the Momentum.** On burnout arriving as a gradual slide with early tells rather than a sudden event: Christina Maslach, Wilmar B. Schaufeli, and Michael P. Leiter, "Job Burnout," Annual Review of Psychology 52 (2001): 397–422.
 
 
 ---

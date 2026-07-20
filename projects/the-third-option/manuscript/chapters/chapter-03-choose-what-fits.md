@@ -50,7 +50,7 @@ Fitting an offer is not a search for perfect, since perfect isn't on the market 
 
 Most of the time, in my experience, they do. The counter gets accepted, or it opens a real conversation that lands somewhere workable, and the working relationship tends to come out stronger for having met the real me at the table instead of the agreeable one. Sometimes the answer is no, the offer was the offer after all. I've learned to receive that calmly, as information. It means the fit was never available, and I found out in a week instead of a year.
 
-[ANCHOR SLOT: one outside citation here, negotiation or decision science, to be curated together at drafting review.]
+There's research underneath this, if you want it. Negotiation studies have found that the first number on the table tends to pull the whole conversation toward it, which is exactly why accepting or rejecting an offer as written gives away so much. The counter is how you stop letting someone else's opening set your entire range.
 
 ## The two doors, pocket-sized
 

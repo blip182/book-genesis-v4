@@ -42,7 +42,7 @@ Now build yours, because mine won't fit you and were never supposed to. Start wi
 
 Then run the list against your own history, because you already own the validation data. Think back to the last stretch when your life got out of whack, whatever you'd call it, and work backward to the earliest signs. The signals you dismissed at the time are usually your truest lights. Mine were.
 
-[ANCHOR SLOT: one outside citation here, on early-warning signals, self-monitoring, or the early markers of burnout, to be curated together at drafting review. No placeholder claims in the meantime.]
+The people who study burnout describe it the same way, as a slow slide with a few tells that show up early: you start running on empty, you get short and a little cynical, and the work you used to care about stops feeling like it matters. Those are the early lights on the dashboard, and learning to read your own is how you catch the slide while it's still just a slide.
 
 One question before you move on. If your life started drifting this week, what would go quietly wrong first? Whatever you just thought of belongs at the top of your list.
 

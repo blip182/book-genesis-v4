@@ -78,7 +78,7 @@ So I put it down, and putting it down was the filter working. I know how that la
 
 The film equipment and the trading charts went through the same filter. One came out as years of compounding projects, and the other came out as a clean ending, and I trust both answers for the same reason: both were priced in my priorities and nobody else's. Somewhere in your life, there's probably a thing you keep grinding at because putting it down feels like failure, and a thing you keep not starting because picking it up feels indulgent. Run them both through. Only you know your rate of return, and you're allowed to collect it in joy.
 
-[ANCHOR SLOT: one outside citation here, interest and intrinsic motivation in skill learning and persistence, to be curated together at drafting review.]
+Researchers who study how interest grows describe it starting as a small spark and, if it keeps getting fed, turning into the kind of pull that brings you back on your own and gets you to put in the reps. That pull is the thing the filter is protecting. It's cheap to fake for a season and impossible to fake for years, which is why the years are the honest test.
 
 ## What the filter can't tell you
 

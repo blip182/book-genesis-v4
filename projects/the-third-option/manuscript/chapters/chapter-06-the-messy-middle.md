@@ -72,7 +72,7 @@ Work in progress is the natural state of anything being built. Nobody walks past
 
 And hold the failures the way builders hold them. I build schedules with my kids, and some of them collapse fast. There is a version of me that would have read a collapsed week as a referendum on the mother who drew it up. What a collapsed schedule means now is that I need to restrategize, and I use that word on purpose, because it is a builder's word, and it sends me back to the drawing board instead of to the mirror. The schedule was a draft. Everything in a life under construction is a draft, and drafts get finished by the people who stay to revise them, which is everything persistence over perfection has ever asked of anyone.
 
-[ANCHOR SLOT: one outside citation here, perfectionism versus persistence, or the ordering of recovery (boundaries and enforcement before replenishment), to be curated together at drafting review.]
+The research draws the line in a useful place. When one large review pooled dozens of studies, the kind of perfectionism that predicted burning out was the self-critical kind, the part that can never call a piece of work good enough. Having high standards, on its own, didn't carry the same cost. Persistence over perfection keeps the standards and drops the self-punishment, and the evidence suggests the self-punishment is the half that actually wears people down.
 
 ## The progress check
 

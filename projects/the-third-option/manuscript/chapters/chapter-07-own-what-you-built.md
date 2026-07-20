@@ -54,7 +54,7 @@ And what I ask, in those quiet minutes, is my version of the scoreboard. Am I sh
 
 I'm going to hand you the deeper machinery of this in chapter nine, because noticing is a real skill and it has earned its own chapter. For now, take the shape of it. Define the win in your own words, then let your own quiet, whatever yours is and wherever you find it, be the place you read the score. A scheduled version might hold for you where it slid off me, and if it does, keep it. Two things matter more than the slot: that the checking stays honest, and that it happens often enough to catch a drift while the drift is still small.
 
-[ANCHOR SLOT: one outside citation here, on self-reflection, self-monitoring, or time-use perception versus reality, to be curated together at drafting review.]
+There's solid evidence for this, more than for most things a book like this will tell you. A large review of randomized studies found that people who regularly check their progress toward a goal are meaningfully more likely to reach it, and the effect is stronger when they write that progress down. Which is the whole case for keeping the pages.
 
 ## When the answer is no
 

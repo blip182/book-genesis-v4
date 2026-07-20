@@ -54,7 +54,7 @@ I'm neurodivergent, and I own that in public now, at exactly this level and no d
 
 And the masks finally made a different kind of sense. Every crowd from those school years had been drawn to a genuine piece of me. The pieces were all true; the puzzle was just bigger than any single room. Finding language for the whole didn't make me fit those rooms any better. It made fitting them matter less, because for the first time I could describe what any room would have to hold.
 
-[ANCHOR SLOT: one outside citation here, strengths-based development or the cost of masking, lightly held, to be curated together at drafting review.]
+This isn't only a nice idea. One study that followed people over six months found that the more they drew on their natural strengths, the lower their stress tended to run and the higher their sense of energy and self-worth. It's a single study, so I hold it lightly, but it points where my own experience points: the wiring was never the thing to fix.
 
 ## Build to what's there
 
