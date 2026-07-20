@@ -58,6 +58,9 @@ Temperament note for the chapter's voice: the cycle-breaking isn't rebellion for
 **The counter-offer mechanism (concrete).** In a contracting role, when someone offers something, don't just say yes or no. Take time, look it over, think it over, then respond with what you COULD do and when.
 *Proves: the mechanism at kitchen-table scale. Teachable in one paragraph. LinkedIn writing has more examples of how she talks about this (pull samples at drafting time).*
 
+**The self-directed counter (Jena, beat-sheet review).** The counter-offer also runs on your own opportunities, not just offers from other people. Her example: "I like this hobby but it doesn't work with my schedule. That doesn't mean give it up, it means make it into something that does work." Same three moves, nobody across the table. This widens the mechanism beyond negotiation-with-others and protects the chapter from reading as career advice.
+*Proves: the counter is a way of holding everything you want against everything you've chosen, not a workplace tactic.*
+
 **The overcorrection seasons.** Jena has been through stages of saying yes to too many things, which pushed her to want to say no to everything.
 *Proves: both doors of the false binary exist inside Choose itself (yes-to-everything is comply, no-to-everything is blow-it-up). The counter-offer is the third option in miniature. Keeps the chapter honest.*
 
