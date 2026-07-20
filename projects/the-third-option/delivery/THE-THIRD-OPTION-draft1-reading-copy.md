@@ -2,7 +2,7 @@
 ## How to Choose, Build, and Own a Life That Fits
 ### Draft 1 reading copy, Jena Crossland
 
-*Assembled 2026-07-20. Draft notes stripped out; see DRAFT1-what-needs-your-eyes.md for every invented detail and anchor slot flagged per chapter.*
+*Assembled 2026-07-20. Draft notes stripped out; see DRAFT1-what-needs-your-eyes.md for flags.*
 
 ---
 
@@ -602,7 +602,7 @@ In chapter three I told you that one of my yes seasons cost me considerably more
 
 When I first started juggling multiple contracts, it was hard. I want to hold that sentence still for a moment instead of stepping over it on the way to the lesson, because stepping over hard is part of how this season happened to me at all. Every one of those contracts was work I had chosen. Most of them had been shaped on their way in by the same counter-offer discipline I taught you three chapters ago, doors I opened on purpose and walked through glad to be there. The choosing had been done well, and I would still defend every individual choice today. With all of it running at once, I got overwhelmed anyway.
 
-Here is what overwhelmed looked like from the inside. I was hardly sleeping. Eating had slipped into the category of things that could wait until the next thing was finished, and there was always a next thing, so it kept waiting. And I was not my best self, which is the plainest way I know to say something that has no plain measurement. The people I love were still getting a version of me every day; it was the version left over after the work had taken its share first. Shorter with my kids than they had done anything to deserve. In the room and not in it. Running the evenings on whatever remained, and some evenings there was close to nothing remaining.
+This is what overwhelmed looked like from the inside, on an ordinary day. My two-year-old was up by six-thirty, after a night that had handed back sleep in two-hour pieces, and my five-year-old was not far behind. I let the dog out, started breakfast, and somewhere in there noticed I had stopped being hungry, so I ate a few bites off their plates, a piece of fruit, the corner of an egg, and called it handled. I ran the homeschool day and the activities and the evening sports. I stopped bothering with makeup. My hair lived in a braid or a bun, because those are what you can manage in the dark without a mirror. When the kids went down around eight-thirty, my own work started, the master's I was finishing on top of all of it, and most nights I was still at it at four-thirty in the morning. Lunch was peanut butter crackers I couldn't taste. The people I love were still getting a version of me every day, and it was the version left after the work had taken its share first. Shorter with my kids than they had done anything to deserve. In the room and not in it. And underneath the schedule, quieter than any of it and harder to admit, my health was going somewhere I did not let it look from the outside.
 
 Here is the part that took me longest to say out loud. I had a rule for this exact situation, and the rule was mine. Make it fit is the discipline I have built a working life on, the pause and the fitting and the counter, run in a normal season on everything from a year of work to a Tuesday afternoon. I was not running it. New work landed and I absorbed it as written. Requests arrived and I made room the way you make room in a closet that is already full, by pushing harder on what was in there. The toolbox sat closed while the person who built every tool in it worked with her bare hands.
 
