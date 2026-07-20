@@ -3,3 +3,4 @@
 !PROJECT_STATE.yaml
 !manuscript/
 !delivery/
+!delivery/*.pdf
