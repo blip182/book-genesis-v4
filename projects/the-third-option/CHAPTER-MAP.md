@@ -25,9 +25,9 @@
 
 ## Chapter 1 · Break the Cycle
 
-**Promise:** The menu you were handed is not the menu.
+**Promise:** The map you were handed shows two roads. The territory has more.
 
-**Mechanism:** Defaults are cycles, and both doors of the binary are scripts someone else wrote. Breaking the cycle isn't rebellion or blowing things up; it's declining to treat a two-option menu as final. Comply-and-resent and burn-it-down are the same move in different costumes: both let the menu define you.
+**Mechanism:** Defaults are cycles, and both doors of the binary are scripts someone else wrote. Breaking the cycle isn't rebellion or blowing things up; it's declining to treat a two-road map as final. Comply-and-resent and burn-it-down are the same move in different costumes: both let the map define you.
 
 **Evidence:** The gym story, age 16: coached at one gym, competed across town at the other because they had her level, coached men's gymnastics one gym didn't offer, cheered level 5 at the other. Taboo, frowned upon, nobody could really say anything. The method in the wild, years before it had words.
 

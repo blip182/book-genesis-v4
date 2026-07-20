@@ -34,7 +34,7 @@ Jena's framing, near verbatim and probably intro material: this is a story about
 *Proves: the default (pick one gym, accept what's offered) is a cycle you can decline. The third option existed the whole time; someone just had to take it. Strong candidate for the book's opening story.*
 
 **"I've never just accepted answers or failure. I'm a doer that makes things happen."**
-Temperament note for the chapter's voice: the cycle-breaking isn't rebellion for its own sake. It's refusal to accept a menu of two options as final.
+Temperament note for the chapter's voice: the cycle-breaking isn't rebellion for its own sake. It's refusal to accept a two-option map as final.
 
 ### Chapter 2 · Know Your Core
 
