@@ -102,9 +102,10 @@ Nobody who ever saw your territory drew that map.
 - The messy-execution details in the cost section: running late, doubting the arrangement some evenings, fumbled explanations.
 - The claim that the disapproval faded as people adjusted ("people adjust to a fact faster than a proposal").
 - The carpool example in beat 1.5 (reader-facing composite, not from interviews).
-- The adult-life claim "every time I've stepped off a drawn road since, same weather" (consistent with her story, not verbatim).
-- Language written new for her, keep only if true: "a rule written in water," "the wall wasn't load-bearing," "a default is a decision that kept running on repetition," "it bills you quarterly," "a default wearing a decision costume" (this one is from the approved beat sheet), "weather" as the figure for low-grade disapproval.
+- The adult-life claim "every time I've stepped off a drawn road since, same weather" (consistent with her story, not verbatim), and the adult examples of low-grade disapproval (the pause, the acquaintance, the annual question).
+- The speculation that the one-gym rule originally protected a coach's investment and a team's trust (framed as "probably," still hers to confirm or cut).
+- Language written new for her, keep only if true: "a rule written in water," "the wall wasn't load-bearing," "a default is a decision that kept running on repetition," "it bills you quarterly," "a default wearing a decision costume" (this one is from the approved beat sheet), "weather" as the figure for low-grade disapproval, "a chosen road and a defaulted road look identical from the outside; they wear completely differently."
 
 **Anchor:** one [ANCHOR SLOT] placeholder in the tool section for default-effect / status-quo bias research; no citation fabricated. The surrounding sentences are written so the paragraph survives if the anchor is cut.
 
-**Word count:** ~3,450 body words against the 3,200 to 4,000 target (beat weights followed proportionally; beats 1.1 and 1.2 run together as one unheaded cold open, per the Chapter 3 model).
+**Word count:** ~3,260 body words against the 3,200 to 4,000 target (beat weights followed proportionally; beats 1.1 and 1.2 run together as one unheaded cold open, per the Chapter 3 model). Remaining headroom is reserved for Jena's real scene texture replacing the invented details above.
