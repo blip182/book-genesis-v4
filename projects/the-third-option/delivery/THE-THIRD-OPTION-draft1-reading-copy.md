@@ -2,7 +2,7 @@
 ## How to Choose, Build, and Own a Life That Fits
 ### Draft 1 reading copy, Jena Crossland
 
-*Assembled 2026-07-20.*
+*Assembled 2026-07-21.*
 
 ---
 
@@ -416,15 +416,19 @@ Good. Nothing has ever started anywhere else.
 
 ---
 
-Years ago, I took an admin seat. Calendars, phones, intake paperwork, the schedule everyone depends on and nobody thinks about until it breaks. If you had laid my ambitions next to that job description, the two would not have matched, and I knew it when I said yes. I said yes anyway, because a description only tells you the tasks, and I was more interested in the room the tasks came with.
+I picked up an admin position as a side gig, hoping it would turn into more. Calendars, emails, documentation. On paper it sat well under what I was after, and I knew that when I took it. I took it anyway, because I had the opportunity in front of me and I don't turn down opportunity. I take it, and then I make it into something.
 
-I walked in seeing an opportunity that might open a door to more. I could not have told you which door, or what the more would turn out to be. The version of this story where I had it all mapped in advance would be a tidier story and a false one. What I had was a seat inside an operation I wanted to understand, a set of strengths I trusted, and a suspicion that the strengths would find work to do there if I let them.
+At the time I didn't even know what the door would be, or what more looked like. I didn't have it mapped out, and I won't pretend I did. What I had was a seat somewhere I wanted to understand, a few things I knew I was good at, and a bet that if I did those well, they would open into something.
 
-So I did what I knew how to do, which was find the parts of the work that fit me and do them very well. Anything with a system hiding inside it pulled me in. The intake ran on steps nobody could explain anymore, so I redrew it until it explained itself. The scheduling ran on memory and goodwill, so I built it a structure that needed neither. That work made me feel empowered, and I said so out loud, to the people I worked for, whenever it was true: this is the part I love, give me more of it.
+Here's the moment it clicked. I was maybe eight or nine days in. I logged on to sit in on one of our virtual events, just to observe, and the person who was supposed to run it never started the meeting. I messaged the person I reported to, and she was traveling for work and out of reach. So I found the company's Zoom login and started the meeting myself.
 
-The parts I wasn't good at, or didn't enjoy, I never pretended at. Every job has rooms you shine in and rooms you don't, and the pressure in an early seat is to seem complete, to blur that line until nobody looking at you can find the gaps. I let the line stay visible. The people around me knew what was mine, what I was learning, and what was never going to be my best contribution no matter how long I sat in that chair.
+I wasn't nervous. There wasn't time to be. I was locked onto the problem in front of me, which is a feeling I have come to love. For a long time I assumed everyone went there, that when something breaks you drop into solve-it mode and do whatever it takes to make it work. A lot of people don't. They freeze, or they wait for someone with a title to handle it. That was the day I started to notice the difference.
 
-And I excelled. I can write that sentence comfortably because of what it stands on: real work, done in the open, claimed by name. The door I had suspected might exist did open, in time, onto more. But the detail this chapter hangs on is quieter than any of that. On the day I took the seat, by every standard the world uses to issue the word, I was not ready. What I was, was willing.
+I was just as open about the parts I wasn't good at, or didn't enjoy. Every job has work you shine at and work you don't, and the pressure in a new seat is to look complete, to blur that line so nobody can find the gaps. I didn't do that, and not to score points for being honest. I did it because I wanted to do my work well, without roadblocks, and hiding what you're weak at just puts a roadblock between you and the person who could cover it. So the people I worked with knew where I was strong, what I was still learning, and where someone else was the better call. It was never about credit for any of it.
+
+There's a companion piece to this that matters just as much, because people confuse the two. Being someone who doesn't wait around for another person to solve the problem is not the same as being someone who works outside her role for free, forever. I have never said the words that's above my pay grade, or that's not my job. When something needs doing, I do it, and I do it well. But once I've done a few of those and they clearly sit outside what I was hired for, I go back to whoever I'm contracting with and tell them I think it's time we talk about revising my scope. If that means revising my pay, I put that on the table too, and then it's their call. They get to decide whether the bigger version of the role is worth it to them. I'm never refusing to help the company. I'm also never quietly absorbing a job bigger than the one I agreed to and calling that loyalty.
+
+The door I had hoped for opened in time, and it led to even more. But the one thing I want you to take from this chapter is this: I was not ready, but I was willing. Without being willing, I would never have had the chance to expand on what I could be ready for.
 
 ## The work nobody named
 
@@ -486,7 +490,7 @@ Start before you're ready has a reputation problem, and the problem has a name: 
 
 What I practice, and what the admin seat ran on, is transparency. Say plainly what you're good at and what you're learning, and then move. The sentences this asks of you sound like: I have not done this before, and I want it. Or: this part of the work is where I shine, and that part is where you'll need to give me time. Those sentences cost a moment of pride, and I won't pretend the moment is nothing, because in a culture that rewards seeming complete, choosing to be legible is a real expense. But it only charges you once. Pretending charges rent.
 
-Here is what transparency bought me in that admin seat, and buys me still. Nobody who worked with me ever had to discover anything about me, because there was nothing hidden to find, so trust never needed repairing. My strengths, claimed accurately and out loud, became the thing people reached for when the work matched them, which meant the work that came to me kept being work I could excel at, which meant the reputation compounded the same way the tool use did. And my gaps, named early, became ordinary facts instead of secrets with a fuse on them. When I say transparency is the credibility play, this is the mechanism I mean: a person who is accurate about themselves in the small things gets believed in the big ones, and that kind of credit gets built one accurate disclosure at a time.
+Here is what that transparency bought me, and buys me still. Nobody I worked with ever had to discover anything about me, because there was nothing hidden to find, so no one's trust in me ever needed repairing. When I said plainly what I was good at, the right work tended to find its way to me, and the work I was still learning got the room it needed instead of a performance covering for it. My gaps, named early, were just ordinary facts, not secrets with a fuse on them. That is what I mean when I call transparency the credibility play. A person who is accurate about the small things gets believed on the big ones, and that trust gets built one honest disclosure at a time.
 
 Transparency does one more quiet job: it keeps the start honest about its own size. When you have said out loud what you're learning, you've given yourself permission to be a learner in public, and learners get to produce learner-grade work while it improves. The performer never gets that permission. Everything a performer makes has to look finished, which means everything takes longer, which feeds the freeze from a second direction. I have never found a faster way out of that trap than the plain sentence said early. It shrinks the stakes of the first attempt down to what they really were all along.
 
@@ -510,7 +514,7 @@ There's one more thing this tool does, quietly, and it may be the most useful th
 
 Something changes in the first week after a true start, and I have never found a way to hand it to anyone in advance, because it only comes through the doing. The thing you started begins to talk back. The workout tells you which mornings are yours. The message gets answered, or doesn't, and either way you know something no plan could have told you. Motion produces information, and information is what the rest of building runs on, because not everything you start will turn out to be yours, and finding that out is part of the design, and cheaper found early. Starting opens the learning. What's yours reveals itself in motion, and the next chapter is about how to tell.
 
-The admin seat became a career I could not have planned from the platform, and it began on a day I was unready by every measure except the one that matters. Your seat is somewhere on your list right now, wearing not yet. Unready was always going to be the condition. Bring the willing.
+That side gig led somewhere I could not have planned from where I started, and it began on a day I was unready by every measure except the one that counts. Your version of that seat is somewhere on your list right now, wearing not yet. Unready was always going to be the condition. Bring the willing.
 
 ---
 
