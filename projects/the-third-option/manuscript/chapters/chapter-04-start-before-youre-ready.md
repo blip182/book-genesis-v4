@@ -6,7 +6,7 @@
 
 I picked up an admin position as a side gig, hoping it would turn into more. Calendars, emails, documentation. On paper it sat well under what I was after, and I knew that when I took it. I took it anyway, because I had the opportunity in front of me and I don't turn down opportunity. I take it, and then I make it into something.
 
-I walked in seeing an opportunity that might open a door to more. I could not have told you which door, or what the more would turn out to be. The version of this story where I had it all mapped in advance would be a tidier story and a false one. What I had was a seat inside an operation I wanted to understand, a set of strengths I trusted, and a suspicion that the strengths would find work to do there if I let them.
+At the time I didn't even know what the door would be, or what more looked like. I didn't have it mapped out, and I won't pretend I did. What I had was a seat somewhere I wanted to understand, a few things I knew I was good at, and a bet that if I did those well, they would open into something.
 
 So I did what I knew how to do, which was find the parts of the work that fit me and do them very well. Anything with a system hiding inside it pulled me in. The intake ran on steps nobody could explain anymore, so I redrew it until it explained itself. The scheduling ran on memory and goodwill, so I built it a structure that needed neither. That work made me feel empowered, and I said so out loud, to the people I worked for, whenever it was true: this is the part I love, give me more of it.
 
