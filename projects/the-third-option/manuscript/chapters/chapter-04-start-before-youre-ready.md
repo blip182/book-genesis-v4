@@ -8,7 +8,9 @@ I picked up an admin position as a side gig, hoping it would turn into more. Cal
 
 At the time I didn't even know what the door would be, or what more looked like. I didn't have it mapped out, and I won't pretend I did. What I had was a seat somewhere I wanted to understand, a few things I knew I was good at, and a bet that if I did those well, they would open into something.
 
-So I did what I knew how to do, which was find the parts of the work that fit me and do them very well. Anything with a system hiding inside it pulled me in. The intake ran on steps nobody could explain anymore, so I redrew it until it explained itself. The scheduling ran on memory and goodwill, so I built it a structure that needed neither. That work made me feel empowered, and I said so out loud, to the people I worked for, whenever it was true: this is the part I love, give me more of it.
+Here's the moment it clicked. I was maybe eight or nine days in. I logged on to sit in on one of our virtual events, just to observe, and the person who was supposed to run it never started the meeting. I messaged the person I reported to, and she was traveling for work and out of reach. So I found the company's Zoom login and started the meeting myself.
+
+I wasn't nervous. There wasn't time to be. I was locked onto the problem in front of me, which is a feeling I have come to love. For a long time I assumed everyone went there, that when something breaks you drop into solve-it mode and do whatever it takes to make it work. A lot of people don't. They freeze, or they wait for someone with a title to handle it. That was the day I started to notice the difference.
 
 The parts I wasn't good at, or didn't enjoy, I never pretended at. Every job has rooms you shine in and rooms you don't, and the pressure in an early seat is to seem complete, to blur that line until nobody looking at you can find the gaps. I let the line stay visible. The people around me knew what was mine, what I was learning, and what was never going to be my best contribution no matter how long I sat in that chair.
 
