@@ -77,6 +77,15 @@ Politics, abortion, LGBTQ topics, other religions, war. Pride in the military fa
 
 Never name or pointedly characterize a specific employer or client, especially the company she was hired to bring order to that "operated reactively." She still contracts with them. Keep all organizations generic and non-identifying. Name tensions and dynamics (operationalizing vs reacting, agency vs obligation), never the org behind them.
 
+## Raw-voice calibration (Jena round 5, from the paragraph-by-paragraph voice pass)
+
+Her real register, confirmed live against several paragraphs:
+- **Plain declaratives, short and true. Cut the literary flourish.** She rejected "the room the tasks came with" and "a suspicion that the strengths would find work to do." Say the plain thing ("at the time I didn't even know what the door would be").
+- **She undersells. No self-praise verbs.** She rejected "excelled" and "I can write that sentence comfortably." Show success through outcomes (a door opening, results) rather than self-assessment. Matches her voice files ("I undersell my edge").
+- **Never ownership/credit-hungry.** She rejected "the people knew what was mine" and "claimed by name." Her transparency was about doing the work without roadblocks, not claiming territory or credit. Scrub credit/ownership framing wherever it appears.
+- **Direct address, teacherly.** "the one thing I want you to take from this chapter is this." She states takeaways plainly to the reader.
+- **Messy raw input is the goal.** When she talks a paragraph, keep her words and logic; fix only grammar and the lightest polish. Do not re-literary-ize it.
+
 ## Presence is hers, priorities are the reader's (Jena round 4)
 
 "Presence is the currency I watch most closely" is Jena's own verified line (recurs ch3/ch7/ch10) and stays. But presence is never prescribed to the reader as a specific object. When generalizing, the reader is told to be present with THEIR priorities, whatever those are, not with family, work, or anything named. Presence with your own priorities, full stop.

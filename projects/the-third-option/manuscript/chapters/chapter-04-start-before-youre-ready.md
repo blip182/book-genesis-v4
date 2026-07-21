@@ -16,7 +16,7 @@ I was just as open about the parts I wasn't good at, or didn't enjoy. Every job 
 
 There's a companion piece to this that matters just as much, because people confuse the two. Being someone who doesn't wait around for another person to solve the problem is not the same as being someone who works outside her role for free, forever. I have never said the words that's above my pay grade, or that's not my job. When something needs doing, I do it, and I do it well. But once I've done a few of those and they clearly sit outside what I was hired for, I go back to whoever I'm contracting with and tell them I think it's time we talk about revising my scope. If that means revising my pay, I put that on the table too, and then it's their call. They get to decide whether the bigger version of the role is worth it to them. I'm never refusing to help the company. I'm also never quietly absorbing a job bigger than the one I agreed to and calling that loyalty.
 
-And I excelled. I can write that sentence comfortably because of what it stands on: real work, done in the open, claimed by name. The door I had suspected might exist did open, in time, onto more. But the detail this chapter hangs on is quieter than any of that. On the day I took the seat, by every standard the world uses to issue the word, I was not ready. What I was, was willing.
+The door I had hoped for opened in time, and it led to even more. But the one thing I want you to take from this chapter is this: I was not ready, but I was willing. Without being willing, I would never have had the chance to expand on what I could be ready for.
 
 ## The work nobody named
 
