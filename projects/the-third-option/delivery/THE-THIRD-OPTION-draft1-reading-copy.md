@@ -476,7 +476,7 @@ Being unready and being unwilling are not the same.
 
 Unready is a condition. It measures the distance between you and work you haven't met yet, and it's temporary in the most literal way, because contact with the work is what closes it and nothing else does. Unwilling is a decision. It's a verdict about whether you will move, and it can dress itself in unreadiness so convincingly that you can go a long time without knowing which one is sitting in your chair. The confusion costs in both directions. Call unwillingness unreadiness and you get to wait politely forever, always preparing, never refusing outright, never having to own the refusal. Call unreadiness unwillingness and you'll shame yourself over a gap that only starting could ever have closed. Opposite errors, same bill: years. There is a way to tell the two apart, and it's small enough to run this week; it comes at the end of the chapter. For now the work is just noticing that the sentence has two tenants.
 
-So this chapter asks you to sort yourself, plainly, because the method can work with either answer but can't work with the confusion. Willing and unready is a workable combination. It may be the only combination anything new has ever been built from. Readiness is not the prerequisite. Willingness is.
+So this chapter asks you to sort yourself, plainly, because the method can work with either answer but can't work with the confusion. Willing and unready is a workable combination. It may be the only combination anything new has ever been built from. Readiness is not a prerequisite to producing meaningful work. What stands out more is the willingness. I see more growth with a willingness to learn, ask questions, and even fail. Being unready and being unwilling are not the same.
 
 ## The freeze
 
@@ -918,7 +918,7 @@ Everything to this point has been building. You got free enough to choose, chose
 
 Momentum is a word I use carefully, because most of the ways it gets used would disqualify my life. In the common version, momentum belongs to people who picked a lane early and stayed in it: the streak, the ten-year plan executed without revision, the story that scans cleanly on a resume. By that definition I have none. My career focus has changed multiple times. My hobbies have wandered from Chinese medicine to fashion to tech to photography and back again, and I'm going to walk you through that list later in this chapter, because I know how it looks from the outside.
 
-Here is the definition I run my life on instead. Momentum is not staying on one path. It's the life staying aligned while the paths change.
+Here is the definition I run my life on instead. Momentum does not require you to stay on one path. It's about life staying aligned while the paths change.
 
 The difference is in what gets measured. If momentum means the path, then every change of direction is a loss, and you will hold on to finished things long past their usefulness just to protect the streak. If momentum means alignment, the measurement runs against your priorities. Is my time going where I said it matters? Are the people at the center of this life getting the version of me they were promised? Am I still showing up the way I decided, back in the choosing, that I wanted to show up? A path can change completely without a single one of those answers moving. A path can also hold perfectly steady while every one of them quietly goes to no.
 

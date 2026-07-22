@@ -16,7 +16,7 @@ Everything to this point has been building. You got free enough to choose, chose
 
 Momentum is a word I use carefully, because most of the ways it gets used would disqualify my life. In the common version, momentum belongs to people who picked a lane early and stayed in it: the streak, the ten-year plan executed without revision, the story that scans cleanly on a resume. By that definition I have none. My career focus has changed multiple times. My hobbies have wandered from Chinese medicine to fashion to tech to photography and back again, and I'm going to walk you through that list later in this chapter, because I know how it looks from the outside.
 
-Here is the definition I run my life on instead. Momentum is not staying on one path. It's the life staying aligned while the paths change.
+Here is the definition I run my life on instead. Momentum does not require you to stay on one path. It's about life staying aligned while the paths change.
 
 The difference is in what gets measured. If momentum means the path, then every change of direction is a loss, and you will hold on to finished things long past their usefulness just to protect the streak. If momentum means alignment, the measurement runs against your priorities. Is my time going where I said it matters? Are the people at the center of this life getting the version of me they were promised? Am I still showing up the way I decided, back in the choosing, that I wanted to show up? A path can change completely without a single one of those answers moving. A path can also hold perfectly steady while every one of them quietly goes to no.
 
