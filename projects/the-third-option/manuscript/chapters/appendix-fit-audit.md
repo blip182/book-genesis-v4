@@ -16,6 +16,8 @@ Run it when one of three things is true:
 
 One rule governs every page of this audit, and it's the reason the audit works: **it checks your life against your criteria, never the criteria themselves.** There is no scoring key in this appendix that knows what a good life looks like. You wrote the key in chapter two. If your list calls for loud, full, and fast, then loud, full, and fast passes. If it calls for calm and consistent, calm and consistent passes. The only thing that fails is a life drifting away from the list its owner wrote.
 
+That rule runs in one direction, with one exception, and the exception comes first. The audit never argues with your criteria once they're yours, but it does make you check, up front and every so often after, that they are actually yours and not inherited. A definition of fit can be handed down as quietly as anything it measures. Layer one is where that check lives, and you run it before you weigh a single decision.
+
 Do it on paper. Your head will round every number in whatever direction it's currently biased. Paper doesn't.
 
 ---
@@ -45,6 +47,8 @@ Pull out your definition of fit from chapter two. If you haven't written it, or 
 - **Standards.** What does done well mean to you, and where do you refuse to do things halfway?
 - **Energy.** What fills you back up, and what drains you faster than it looks like it should?
 - **Non-negotiables.** The short list of things you won't trade at any price. Keep it short, and mean every line.
+
+Before you weigh anything against this list, weigh the list itself. Run the same three markers on each line you just wrote. Can you remember choosing it, or was it simply there? Does it come pre-paired, one right way and one wrong one? Is the cost of wanting something else social or practical? A line that can't survive those questions is a default in your own handwriting. Cross it out and write the one that's yours. Once the list is honestly yours, everything below it trusts it completely, and it never gets second-guessed again.
 
 Now sort the thing you're deciding into three piles:
 
@@ -130,6 +134,8 @@ Things you chose and built will stop fitting. The method expects that. When it h
 **Assembly sources:** Choose layer from beats 2.6 and 3.6 and the chapter 3 draft (markers, criteria headings, piles, and moves match the drafted teaching, including "fit it" per Jena's rename). Build layer from beat 6.6. Own layer from beats 7.4 and 9.3 plus SOURCE-MATERIAL ch 9 (warning lights are her real ones, lightly compressed; "rushing bedtime because a task list is louder than the room" extends her example with new phrasing, keep only if true).
 
 **Language written new for her, keep only if true:** "ask who built the hallway"; "a default is a decision you've stopped hearing yourself make" (variant of the flagged ch 3 line); "a warning light you have to go looking for isn't a warning light"; "drift is quiet and the audit isn't."
+
+**Added (round 5, inherited-criteria loop):** the "one exception" paragraph in "Before you run it" and the "weigh the list itself" instruction in Layer One close the seam the defaults research opens (a flipped default flips even life-and-death choices, so a reader rightly asks whether her own criteria are an inherited default). The instrument now turns its own "who drew this map" markers on the criteria before measuring anything against them. The emotional anchor lives in chapter two (mask years); the appendix stays instructional. Never-prescribe intact: the reader rewrites the line in her own words.
 
 **Reconciled with ch7 v2 (round 4):** the Own layer now matches Jena's real practice, the win sentence plus her three self-competition questions (showing up where she wants, catching drift earlier, solving faster/cleaner), checked in the quiet rather than on a schedule (a scheduled review isn't authentic for her). The old "weekly alignment check, five minutes, same day" was removed to match ch7. Still proposed/not sourced: cadence recommendations (seasonal criteria reread, once-or-twice-yearly full loop).
 
