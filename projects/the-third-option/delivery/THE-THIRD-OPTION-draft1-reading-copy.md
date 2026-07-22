@@ -412,7 +412,7 @@ You don't have to send it. Sending is a separate decision, and you will make it 
 
 There's one more thing choosing needs you to know about itself, which is what it can't do.
 
-Choosing opens a door, and that is the whole of its job. The conversation at that pool opened a door I'm still grateful for, and it built nothing on its own. The degree still had to be earned at a kitchen table after bedtime. The work still had to be learned, and then done, and then done better than the time before. A chosen path is not yet a paved one, and the next part of this book is about the paving, which begins in the least comfortable place there is: before you feel ready.
+Choosing opens a door, and that is the whole of its job. The conversation at that pool opened one I'm still grateful for, and it built nothing on its own. I got in, and the degree still had to be earned at a kitchen table after bedtime. When it was done, what it had bought me wasn't an arrival. It was a seat at tables I couldn't have reached before, and those seats opened doors of their own. My first contract role came shortly after. Every one of them was still just a door. The work on the other side had to be learned, and then done, and then done better than the time before. A chosen path is not yet a paved one, and the next part of this book is about the paving, which begins in the least comfortable place there is: before you feel ready.
 
 Good. Nothing has ever started anywhere else.
 
