@@ -120,7 +120,7 @@ story.append(Spacer(1, 1.4*INCH))
 story.append(Paragraph("Jena Crossland", ParagraphStyle('ta', fontName='Helvetica',
              fontSize=13, leading=18, alignment=TA_CENTER, textColor='#2A1220')))
 story.append(Spacer(1, 0.15*INCH))
-story.append(Paragraph("Draft 1", ParagraphStyle('td', fontName='Helvetica', fontSize=10,
+story.append(Paragraph("Draft 2", ParagraphStyle('td', fontName='Helvetica', fontSize=10,
              leading=14, alignment=TA_CENTER, textColor='#FF7FB0')))
 story.append(PageBreak())
 

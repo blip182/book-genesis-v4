@@ -1,6 +1,6 @@
 # The Third Option
 ## How to Choose, Build, and Own a Life That Fits
-### Draft 1 reading copy, Jena Crossland
+### Draft 2 reading copy, Jena Crossland
 
 *Assembled 2026-07-22.*
 
