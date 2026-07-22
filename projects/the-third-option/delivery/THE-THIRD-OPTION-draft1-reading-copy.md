@@ -6,6 +6,12 @@
 
 ---
 
+*For my younger self, who knew she was meant for more long before she knew what it would be.*
+
+*Keep the momentum going.*
+
+---
+
 # Introduction · The Third Option
 
 *Draft 2. v1 full-book run; v2 (round 4) makes "I've been where you're standing" real with Jena's own waiting season (did things because she was good at them, not because she loved them; the black sheep who never wanted the cookie-cutter life) and adds the conviction under the never-prescribe rule (everyone shows up with something that's theirs; not about being best or on top; live deliberately; purpose differs for everyone). Faith-adjacent phrasings from her reflection ("born with a gift," "growth shared with community") were rendered in secular language on purpose, since the book stays secular. v3 (craft pass, after mentor-doppelganger read): trimmed the front-loading, "The method in one breath" per-stage spell-out cut and folded into a one-sentence map inside "How to read this" (framework arrived-at, not handed at the door); softened two mic-drop endings ("You've been sold enough effortlessness," "the most demanding referee there is"). Not final until Jena signs off.*
