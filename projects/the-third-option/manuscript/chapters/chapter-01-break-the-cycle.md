@@ -26,7 +26,7 @@ The disapproval didn't outlast the novelty. People got used to it, the shock wor
 
 ## Someone drew that map
 
-Let me step back and say plainly what happened in that gym story, once, because the rest of this book stands on it. The two options everyone read me were not the truth of my situation. They were a map of it. And someone else had drawn the map.
+Let me step back and say plainly what happened in that gym story, once, because the rest of this book stands on it. The two options everyone read me were a map of my situation. And someone else had drawn the map.
 
 A map is somebody's drawing of the territory, made at some earlier time, by people with their own purposes, and it earns its usefulness by leaving things out. That's true of paper maps and it is just as true of the invisible ones, the this-or-that framings a life hands you: this job or that one, in the group or out of it, all in or walk away. Every one of those framings was drawn by someone. Usually not by anyone with bad intent, and almost never by anyone who could see your particular territory. The people reading me the gym script weren't villains. They were repeating what had been read to them, which is how defaults survive. A default is a decision somebody made once, long ago, under conditions nobody remembers, that kept running on pure repetition until it stopped looking like a decision at all and started looking like the world.
 

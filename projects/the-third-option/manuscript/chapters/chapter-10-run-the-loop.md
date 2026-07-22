@@ -36,7 +36,7 @@ Run on time, the loop is a different animal. It barely qualifies as an event. My
 
 I want to sit on that last sentence, since it took me years to stop resisting it. For a long while I assumed the exploring was supposed to conclude, that all the trying-on was in service of some final version of me who would eventually walk in, approve the furniture, and take over. She never arrived. At some point I stopped watching the door for her and started enjoying the company of the person who kept showing up instead, curious about something new again, and that trade, the finished self for the curious one, is one of the better ones I've made.
 
-The difference between my two stories isn't the loop. It's when I ran it.
+I have run this loop both ways, once too late and once on time, and the timing was the whole difference.
 
 Run late, the loop cost me months of health and presence, and it had to fight my own certainty the whole way, because by the time the pain is loud enough to overrule you, you've usually spent a season defending it. Run on time, it costs an evening. A journal, a late night conversation with yourself, one structure rethought before it cracks instead of after. The loop turns either way; that was never in question. The warning lights you named in part three are what decide which price you pay, and they only work if you believe the first flicker.
 
