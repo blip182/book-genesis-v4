@@ -13,7 +13,8 @@ OUT = "/home/user/book-genesis-v4/projects/the-third-option/delivery/The-Third-O
 ORDER = ["chapter-00-introduction","chapter-01-break-the-cycle","chapter-02-know-your-core",
     "chapter-03-choose-what-fits","chapter-04-start-before-youre-ready","chapter-05-learn-whats-yours",
     "chapter-06-the-messy-middle","chapter-07-own-what-you-built","chapter-08-automate-what-you-can",
-    "chapter-09-keep-the-momentum","chapter-10-run-the-loop","appendix-fit-audit","chapter-zz-notes"]
+    "chapter-09-keep-the-momentum","chapter-10-run-the-loop","appendix-fit-audit","chapter-zz-notes",
+    "back-matter-about-the-author"]
 
 PAGE_W, PAGE_H = 6*INCH, 9*INCH
 MARGIN = 0.72*INCH
@@ -104,7 +105,7 @@ def footer(canvas, doc):
 frame = Frame(MARGIN, MARGIN, PAGE_W-2*MARGIN, PAGE_H-2*MARGIN, id='main')
 doc = BaseDocTemplate(OUT, pagesize=(PAGE_W, PAGE_H),
                       leftMargin=MARGIN, rightMargin=MARGIN, topMargin=MARGIN, bottomMargin=MARGIN,
-                      title="The Third Option", author="Jena Crossland")
+                      title="The Third Option", author="Jena Crossland Brooks")
 doc.addPageTemplates([PageTemplate(id='main', frames=[frame], onPage=footer)])
 
 story = []
@@ -117,7 +118,7 @@ story.append(Paragraph("How to Choose, Build, and Own a Life That Fits",
              ParagraphStyle('ts', fontName='Times-Italic', fontSize=15, leading=20,
              alignment=TA_CENTER, textColor='#2A1220')))
 story.append(Spacer(1, 1.4*INCH))
-story.append(Paragraph("Jena Crossland", ParagraphStyle('ta', fontName='Helvetica',
+story.append(Paragraph("Jena Crossland Brooks", ParagraphStyle('ta', fontName='Helvetica',
              fontSize=13, leading=18, alignment=TA_CENTER, textColor='#2A1220')))
 story.append(Spacer(1, 0.15*INCH))
 story.append(Paragraph("Draft 2", ParagraphStyle('td', fontName='Helvetica', fontSize=10,
